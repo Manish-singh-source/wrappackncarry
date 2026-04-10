@@ -145,6 +145,14 @@ body .pbmit-bg-color-secondary {
     background-image: url(../images/banners/new-3.png);
 }
 
+.header-style-1 .pbmit-right-box .pbmit-button-box-second {
+    border-radius: 0 0 0 30px;
+    position: relative;
+    padding: 20px 0 20px 20px;
+    margin-left: 30px;
+    background-color: transparent;
+}
+
 /* 
 -----------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------
@@ -174,7 +182,8 @@ body .pbmit-bg-color-secondary {
         height: 100vh;
     } */
 
-    .pbmit-slider-one .swiper-slider[data-dots="true"], .pbmit-slider-two .swiper-slider[data-dots="true"]{
+    .pbmit-slider-one .swiper-slider[data-dots="true"],
+    .pbmit-slider-two .swiper-slider[data-dots="true"] {
         height: 100vh;
     }
 
@@ -188,6 +197,11 @@ body .pbmit-bg-color-secondary {
 
     .pbmit-slider-bg.hero-3 {
         background-image: url(../images/banners/new-mobile-3.png);
+    }
+
+    .pbmit-heading-subheading {
+        margin-bottom: 0px;
+        position: relative;
     }
 }
 
@@ -219,6 +233,11 @@ body .pbmit-bg-color-secondary {
     .pbmit-slider-bg.hero-3 {
         background-image: url(../images/banners/new-3.png);
     }
+
+    .pbmit-heading-subheading {
+        margin-bottom: 0px;
+        position: relative;
+    }
 }
 
 /* Medium Devices (tablets) */
@@ -240,6 +259,11 @@ body .pbmit-bg-color-secondary {
 
     .pbmit-slider-bg.hero-3 {
         background-image: url(../images/banners/new-3.png);
+    }
+
+    .pbmit-heading-subheading {
+        margin-bottom: 0px;
+        position: relative;
     }
 }
 
@@ -271,6 +295,11 @@ body .pbmit-bg-color-secondary {
     .pbmit-slider-bg.hero-3 {
         background-image: url(../images/banners/new-3.png);
     }
+
+    .pbmit-heading-subheading {
+        margin-bottom: 0px;
+        position: relative;
+    }
 }
 
 /* Extra Large Devices (desktops) */
@@ -292,6 +321,11 @@ body .pbmit-bg-color-secondary {
 
     .pbmit-slider-bg.hero-3 {
         background-image: url(../images/banners/new-3.png);
+    }
+
+    .pbmit-heading-subheading {
+        margin-bottom: 0px!important;
+        position: relative;
     }
 }
 
@@ -334,6 +368,11 @@ body .pbmit-bg-color-secondary {
 
     .pbmit-slider-bg.hero-3 {
         background-image: url(../images/banners/new-3.png);
+    }
+
+    .pbmit-heading-subheading {
+        margin-bottom: 0px!important;
+        position: relative;
     }
 
 }
