@@ -342,6 +342,48 @@ pizzerias -->
 							</h2>
 						</div>
 					</article>
+					<article class="pbmit-marquee-effect-style-1 swiper-slide">
+						<div class="pbmit-tag-wrapper">
+							<h2 class="pbmit-element-title" data-text="Fast Food">
+								Fast Food
+							</h2>
+						</div>
+					</article>
+					<article class="pbmit-marquee-effect-style-1 swiper-slide">
+						<div class="pbmit-tag-wrapper">
+							<h2 class="pbmit-element-title" data-text="Takeaways">
+								Takeaways
+							</h2>
+						</div>
+					</article>
+					<article class="pbmit-marquee-effect-style-1 swiper-slide">
+						<div class="pbmit-tag-wrapper">
+							<h2 class="pbmit-element-title" data-text="Catering">
+								Catering
+							</h2>
+						</div>
+					</article>
+					<article class="pbmit-marquee-effect-style-1 swiper-slide">
+						<div class="pbmit-tag-wrapper">
+							<h2 class="pbmit-element-title" data-text="Food Trucks">
+								Food Trucks
+							</h2>
+						</div>
+					</article>
+					<article class="pbmit-marquee-effect-style-1 swiper-slide">
+						<div class="pbmit-tag-wrapper">
+							<h2 class="pbmit-element-title" data-text="Hotels">
+								Hotels
+							</h2>
+						</div>
+					</article>
+					<article class="pbmit-marquee-effect-style-1 swiper-slide">
+						<div class="pbmit-tag-wrapper">
+							<h2 class="pbmit-element-title" data-text="Retail">
+								Retail
+							</h2>
+						</div>
+					</article>
 				</div>
 			</div>
 		</div>
