@@ -99,7 +99,7 @@
 													</ul>
                                                 </li>
                                                 <li class="dropdown">
-                                                    <a href="#">Contact Us</a>
+                                                    <a href="contact-us.php">Contact Us</a>
                                                 </li>
                                                 
                                             </ul>

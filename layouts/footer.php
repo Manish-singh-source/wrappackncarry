@@ -10,7 +10,7 @@
                     <a href="products.php">
                         <h3>Products</h3>
                     </a>
-                    <a href="#">
+                    <a href="contact-us.php">
                         <h3>Contact Us</h3>
                     </a>
                     <a href="#">

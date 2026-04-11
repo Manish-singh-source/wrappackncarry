@@ -1254,108 +1254,234 @@ pizzerias -->
 	<!-- Testimonial End -->
 
 	<!-- Client Start -->
-	<section>
+	<section class="section-md">
 		<div class="container">
-			<div class="client-area">
-				<div class="swiper-slider client-slider" data-autoplay='{"delay":0}' data-loop="true" data-dots="false" data-arrows="false" data-columns="6" data-margin="30" data-effect="slide">
-					<div class="swiper-wrapper">
-						<!-- Slide1 -->
-						<article class="pbmit-client-style-1 swiper-slide">
-							<div class="pbmit-border-wrapper">
-								<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-									<h4 class="pbmit-hide">Client 01</h4>
-									<div class="pbmit-client-hover-img">
-										<img src="images/client/client-logo-green-01.png" alt="">
-									</div>
-									<div class="pbmit-featured-img-wrapper">
-										<div class="pbmit-featured-wrapper">
-											<img src="images/client/client-logo-01.png" class="img-fluid" alt="">
-										</div>
+			<div class="swiper-slider" data-autoplay="true" data-loop="true" data-dots="false" data-arrows="false" data-columns="6" data-margin="30" data-effect="slide">
+				<div class="swiper-wrapper">
+					<!-- Slide1 -->
+					<article class="pbmit-client-style-1 swiper-slide">
+						<div class="pbmit-border-wrapper">
+							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+								<h4 class="pbmit-hide">Client 1</h4>
+								<div class="pbmit-client-hover-img">
+									<img src="images/clients/1.png" alt="">
+								</div>
+								<div class="pbmit-featured-img-wrapper">
+									<div class="pbmit-featured-wrapper">
+										<img src="images/clients/1.png" class="img-fluid" alt="">
 									</div>
 								</div>
 							</div>
-						</article>
-						<!-- Slide2 -->
-						<article class="pbmit-client-style-1 swiper-slide">
-							<div class="pbmit-border-wrapper">
-								<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-									<h4 class="pbmit-hide">Client 01</h4>
-									<div class="pbmit-client-hover-img">
-										<img src="images/client/client-logo-green-02.png" alt="">
-									</div>
-									<div class="pbmit-featured-img-wrapper">
-										<div class="pbmit-featured-wrapper">
-											<img src="images/client/client-logo-02.png" class="img-fluid" alt="">
-										</div>
+						</div>
+					</article>
+					<!-- Slide2 -->
+					<article class="pbmit-client-style-1 swiper-slide">
+						<div class="pbmit-border-wrapper">
+							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+								<h4 class="pbmit-hide">Client 2</h4>
+								<div class="pbmit-client-hover-img">
+									<img src="images/clients/2.png" alt="">
+								</div>
+								<div class="pbmit-featured-img-wrapper">
+									<div class="pbmit-featured-wrapper">
+										<img src="images/clients/2.png" class="img-fluid" alt="">
 									</div>
 								</div>
 							</div>
-						</article>
-						<!-- Slide3 -->
-						<article class="pbmit-client-style-1 swiper-slide">
-							<div class="pbmit-border-wrapper">
-								<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-									<h4 class="pbmit-hide">Client 01</h4>
-									<div class="pbmit-client-hover-img">
-										<img src="images/client/client-logo-green-03.png" alt="">
-									</div>
-									<div class="pbmit-featured-img-wrapper">
-										<div class="pbmit-featured-wrapper">
-											<img src="images/client/client-logo-03.png" class="img-fluid" alt="">
-										</div>
+						</div>
+					</article>
+					<!-- Slide3 -->
+					<article class="pbmit-client-style-1 swiper-slide">
+						<div class="pbmit-border-wrapper">
+							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+								<h4 class="pbmit-hide">Client 3</h4>
+								<div class="pbmit-client-hover-img">
+									<img src="images/clients/3.png" alt="">
+								</div>
+								<div class="pbmit-featured-img-wrapper">
+									<div class="pbmit-featured-wrapper">
+										<img src="images/clients/3.png" class="img-fluid" alt="">
 									</div>
 								</div>
 							</div>
-						</article>
-						<!-- Slide4 -->
-						<article class="pbmit-client-style-1 swiper-slide">
-							<div class="pbmit-border-wrapper">
-								<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-									<h4 class="pbmit-hide">Client 01</h4>
-									<div class="pbmit-client-hover-img">
-										<img src="images/client/client-logo-green-04.png" alt="">
-									</div>
-									<div class="pbmit-featured-img-wrapper">
-										<div class="pbmit-featured-wrapper">
-											<img src="images/client/client-logo-04.png" class="img-fluid" alt="">
-										</div>
+						</div>
+					</article>
+					<!-- Slide4 -->
+					<article class="pbmit-client-style-1 swiper-slide">
+						<div class="pbmit-border-wrapper">
+							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+								<h4 class="pbmit-hide">Client 4</h4>
+								<div class="pbmit-client-hover-img">
+									<img src="images/clients/4.png" alt="">
+								</div>
+								<div class="pbmit-featured-img-wrapper">
+									<div class="pbmit-featured-wrapper">
+										<img src="images/clients/4.png" class="img-fluid" alt="">
 									</div>
 								</div>
 							</div>
-						</article>
-						<!-- Slide5 -->
-						<article class="pbmit-client-style-1 swiper-slide">
-							<div class="pbmit-border-wrapper">
-								<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-									<h4 class="pbmit-hide">Client 01</h4>
-									<div class="pbmit-client-hover-img">
-										<img src="images/client/client-logo-green-05.png" alt="">
-									</div>
-									<div class="pbmit-featured-img-wrapper">
-										<div class="pbmit-featured-wrapper">
-											<img src="images/client/client-logo-05.png" class="img-fluid" alt="">
-										</div>
+						</div>
+					</article>
+					<!-- Slide5 -->
+					<article class="pbmit-client-style-1 swiper-slide">
+						<div class="pbmit-border-wrapper">
+							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+								<h4 class="pbmit-hide">Client 5</h4>
+								<div class="pbmit-client-hover-img">
+									<img src="images/clients/5.png" alt="">
+								</div>
+								<div class="pbmit-featured-img-wrapper">
+									<div class="pbmit-featured-wrapper">
+										<img src="images/clients/5.png" class="img-fluid" alt="">
 									</div>
 								</div>
 							</div>
-						</article>
-						<!-- Slide6 -->
-						<article class="pbmit-client-style-1 swiper-slide">
-							<div class="pbmit-border-wrapper">
-								<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-									<h4 class="pbmit-hide">Client 01</h4>
-									<div class="pbmit-client-hover-img">
-										<img src="images/client/client-logo-green-06.png" alt="">
-									</div>
-									<div class="pbmit-featured-img-wrapper">
-										<div class="pbmit-featured-wrapper">
-											<img src="images/client/client-logo-06.png" class="img-fluid" alt="">
-										</div>
+						</div>
+					</article>
+					<!-- Slide6 -->
+					<article class="pbmit-client-style-1 swiper-slide">
+						<div class="pbmit-border-wrapper">
+							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+								<h4 class="pbmit-hide">Client 6</h4>
+								<div class="pbmit-client-hover-img">
+									<img src="images/clients/6.png" alt="">
+								</div>
+								<div class="pbmit-featured-img-wrapper">
+									<div class="pbmit-featured-wrapper">
+										<img src="images/clients/6.png" class="img-fluid" alt="">
 									</div>
 								</div>
 							</div>
-						</article>
-					</div>
+						</div>
+					</article>
+					<!-- Slide7 -->
+					<article class="pbmit-client-style-1 swiper-slide">
+						<div class="pbmit-border-wrapper">
+							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+								<h4 class="pbmit-hide">Client 7</h4>
+								<div class="pbmit-client-hover-img">
+									<img src="images/clients/7.png" alt="">
+								</div>
+								<div class="pbmit-featured-img-wrapper">
+									<div class="pbmit-featured-wrapper">
+										<img src="images/clients/7.png" class="img-fluid" alt="">
+									</div>
+								</div>
+							</div>
+						</div>
+					</article>
+					<!-- Slide8 -->
+					<article class="pbmit-client-style-1 swiper-slide">
+						<div class="pbmit-border-wrapper">
+							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+								<h4 class="pbmit-hide">Client 8</h4>
+								<div class="pbmit-client-hover-img">
+									<img src="images/clients/8.png" alt="">
+								</div>
+								<div class="pbmit-featured-img-wrapper">
+									<div class="pbmit-featured-wrapper">
+										<img src="images/clients/8.png" class="img-fluid" alt="">
+									</div>
+								</div>
+							</div>
+						</div>
+					</article>
+					<!-- Slide9 -->
+					<article class="pbmit-client-style-1 swiper-slide">
+						<div class="pbmit-border-wrapper">
+							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+								<h4 class="pbmit-hide">Client 9</h4>
+								<div class="pbmit-client-hover-img">
+									<img src="images/clients/9.png" alt="">
+								</div>
+								<div class="pbmit-featured-img-wrapper">
+									<div class="pbmit-featured-wrapper">
+										<img src="images/clients/9.png" class="img-fluid" alt="">
+									</div>
+								</div>
+							</div>
+						</div>
+					</article>
+					<!-- Slide10 -->
+					<article class="pbmit-client-style-1 swiper-slide">
+						<div class="pbmit-border-wrapper">
+							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+								<h4 class="pbmit-hide">Client 10</h4>
+								<div class="pbmit-client-hover-img">
+									<img src="images/clients/10.png" alt="">
+								</div>
+								<div class="pbmit-featured-img-wrapper">
+									<div class="pbmit-featured-wrapper">
+										<img src="images/clients/10.png" class="img-fluid" alt="">
+									</div>
+								</div>
+							</div>
+						</div>
+					</article>
+					<!-- Slide11 -->
+					<article class="pbmit-client-style-1 swiper-slide">
+						<div class="pbmit-border-wrapper">
+							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+								<h4 class="pbmit-hide">Client 11</h4>
+								<div class="pbmit-client-hover-img">
+									<img src="images/clients/11.png" alt="">
+								</div>
+								<div class="pbmit-featured-img-wrapper">
+									<div class="pbmit-featured-wrapper">
+										<img src="images/clients/11.png" class="img-fluid" alt="">
+									</div>
+								</div>
+							</div>
+						</div>
+					</article>
+					<!-- Slide12 -->
+					<article class="pbmit-client-style-1 swiper-slide">
+						<div class="pbmit-border-wrapper">
+							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+								<h4 class="pbmit-hide">Client 12</h4>
+								<div class="pbmit-client-hover-img">
+									<img src="images/clients/12.png" alt="">
+								</div>
+								<div class="pbmit-featured-img-wrapper">
+									<div class="pbmit-featured-wrapper">
+										<img src="images/clients/12.png" class="img-fluid" alt="">
+									</div>
+								</div>
+							</div>
+						</div>
+					</article>
+					<!-- Slide13 -->
+					<article class="pbmit-client-style-1 swiper-slide">
+						<div class="pbmit-border-wrapper">
+							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+								<h4 class="pbmit-hide">Client 13</h4>
+								<div class="pbmit-client-hover-img">
+									<img src="images/clients/13.png" alt="">
+								</div>
+								<div class="pbmit-featured-img-wrapper">
+									<div class="pbmit-featured-wrapper">
+										<img src="images/clients/13.png" class="img-fluid" alt="">
+									</div>
+								</div>
+							</div>
+						</div>
+					</article>
+					<!-- Slide14 -->
+					<article class="pbmit-client-style-1 swiper-slide">
+						<div class="pbmit-border-wrapper">
+							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
+								<h4 class="pbmit-hide">Client 14</h4>
+								<div class="pbmit-client-hover-img">
+									<img src="images/clients/14.png" alt="">
+								</div>
+								<div class="pbmit-featured-img-wrapper">
+									<div class="pbmit-featured-wrapper">
+										<img src="images/clients/14.png" class="img-fluid" alt="">
+									</div>
+								</div>
+							</div>
+						</div>
+					</article>
 				</div>
 			</div>
 		</div>
