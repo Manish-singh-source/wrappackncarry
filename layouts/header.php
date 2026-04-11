@@ -88,7 +88,7 @@
                                                 <li class="dropdown">
                                                     <a href="products.php">Products</a>
                                                     <ul>
-														<li><a href="#">OGR Paper</a></li>
+														<li><a href="product-details.php">OGR Paper</a></li>
                                                         <li><a href="#">BakeON Paper</a></li>
                                                         <li><a href="#">Slip Easy Paper</a></li>
                                                         <li><a href="#">Sachet Paper</a></li>

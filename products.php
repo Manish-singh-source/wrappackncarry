@@ -44,7 +44,7 @@ include('layouts/header.php'); ?>
 											<img src="images/products/OGR Paper.png" class="img-fluid" alt="">
 										</div>
 									</div>
-									<a class="pbmit-service-btn" href="service-details.html" title="OGR Paper">
+									<a class="pbmit-service-btn" href="product-details.php" title="OGR Paper">
 										<span class="pbmit-button-icon-wrapper">
 											<span class="pbmit-button-icon">
 												<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -58,7 +58,7 @@ include('layouts/header.php'); ?>
 											<a href="services.html" rel="tag">Packaging Paper</a>
 										</div>
 										<h3 class="pbmit-service-title">
-											<a href="service-details.html">OGR Paper</a>
+											<a href="product-details.php">OGR Papereeee</a>
 										</h3>
 										<div class="pbmit-service-description">
 											Oil-resistant paper ideal for wrapping greasy food items neatly.
@@ -66,7 +66,7 @@ include('layouts/header.php'); ?>
 									</div>
 								</div>
 							</div>
-							<a class="pbmit-service-btn" href="service-details.html" title="OGR Paper">
+							<a class="pbmit-service-btn" href="product-details.php" title="OGR Paper">
 								<span class="pbmit-button-icon-wrapper">
 									<span class="pbmit-button-icon">
 										<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -74,7 +74,7 @@ include('layouts/header.php'); ?>
 								</span>
 							</a>
 						</div>
-						<a class="pbmit-link" href="service-details.html"></a>
+						<a class="pbmit-link" href="new-product-detail.php"></a>
 					</div>
 				</article>
 			</div>
@@ -89,7 +89,7 @@ include('layouts/header.php'); ?>
 											<img src="images/products/BakeON Paper.png" class="img-fluid" alt="">
 										</div>
 									</div>
-									<a class="pbmit-service-btn" href="service-details.html" title="BakeON Paper">
+									<a class="pbmit-service-btn" href="product-details.php" title="BakeON Paper">
 										<span class="pbmit-button-icon-wrapper">
 											<span class="pbmit-button-icon">
 												<i class="pbmit-base-icon-black-arrow-1"></i>

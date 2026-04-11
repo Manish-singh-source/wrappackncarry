@@ -145,6 +145,236 @@ body .pbmit-bg-color-secondary {
     background-image: url(../images/banners/new-3.png);
 }
 
+/* Purchase Option Card */
+.purchase-option-card {
+    background: var(--pbmit-white-color);
+    border-radius: 16px;
+    padding: 35px;
+    text-align: center;
+    box-shadow: 0 4px 20px rgba(139, 90, 43, 0.08);
+    transition: all 0.4s ease;
+    border: 2px solid var(--pbmit-light-color);
+    height: 100%;
+}
+
+.purchase-option-card:hover {
+    border-color: var(--pbmit-secondary-color);
+    transform: translateY(-5px);
+}
+
+.purchase-option-card .format-icon {
+    margin-bottom: 15px;
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(135deg, var(--pbmit-light-color) 0%, #D4A574 100%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 20px;
+}
+
+.purchase-option-card .format-icon i {
+    font-size: 28px;
+    color: var(--pbmit-heading-color);
+}
+
+.purchase-option-card h4 {
+    color: var(--pbmit-heading-color);
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+.purchase-option-card p {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 25px;
+}
+
+.purchase-option-card .pbmit-btn {
+    background: var(--pbmit-secondary-color);
+    padding: 14px 30px;
+    font-size: 15px;
+}
+
+.purchase-option-card .pbmit-btn:hover {
+    background: var(--pbmit-blackish-color);
+}
+
+/* Enquiry Modal */
+.enquiry-modal {
+    z-index: 99999;
+}
+
+.enquiry-modal {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(5px);
+}
+
+.enquiry-modal.show {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.enquiry-modal .modal-content {
+    background: var(--pbmit-white-color);
+    border-radius: 20px;
+    padding: 40px;
+    width: 90%;
+    max-width: 500px;
+    position: relative;
+    box-shadow: 0 20px 60px rgba(139, 90, 43, 0.2);
+    animation: slideUp 0.4s ease;
+}
+
+@keyframes slideUp {
+    from {
+        transform: translateY(30px);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.enquiry-modal .close-modal {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 28px;
+    color: var(--pbmit-heading-color);
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--pbmit-light-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.enquiry-modal .close-modal:hover {
+    background: var(--pbmit-heading-color);
+    color: white;
+}
+
+.enquiry-modal .modal-content h4 {
+    color: var(--pbmit-heading-color);
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.enquiry-modal .product-format-info {
+    background: var(--pbmit-light-color);
+    padding: 12px 20px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.enquiry-modal .product-format-info i {
+    color: var(--pbmit-secondary-color);
+}
+
+.enquiry-modal .product-format-info span {
+    color: var(--pbmit-heading-color);
+    font-weight: 600;
+}
+
+.enquiry-form .form-group {
+    margin-bottom: 20px;
+}
+
+.enquiry-form label {
+    display: block;
+    color: var(--pbmit-heading-color);
+    font-weight: 500;
+    margin-bottom: 8px;
+    font-size: 14px;
+}
+
+.enquiry-form input,
+.enquiry-form textarea,
+.enquiry-form select {
+    width: 100%;
+    padding: 14px 18px;
+    border: 2px solid var(--pbmit-light-color);
+    border-radius: 10px;
+    font-size: 15px;
+    transition: all 0.3s ease;
+    background: var(--pbmit-light-color);
+}
+
+.enquiry-form input:focus,
+.enquiry-form textarea:focus,
+.enquiry-form select:focus {
+    border-color: var(--pbmit-secondary-color);
+    box-shadow: 0 0 0 3px rgba(91, 140, 81, 0.1);
+}
+
+.enquiry-form textarea {
+    resize: none;
+    height: 100px;
+}
+
+.enquiry-form .pbmit-btn {
+    width: 100%;
+    background: var(--pbmit-heading-color);
+    padding: 16px;
+    font-size: 16px;
+}
+
+.enquiry-form .pbmit-btn:hover {
+    background: var(--pbmit-secondary-color);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .product-detail-section {
+        padding: 50px 0;
+    }
+
+    .product-overview-section {
+        padding: 25px;
+    }
+
+    .product-overview-section h2 {
+        font-size: 26px;
+    }
+
+    .section-title h3 {
+        font-size: 22px;
+    }
+
+    .purchase-option-card {
+        padding: 25px;
+    }
+}
+
 .header-style-1 .pbmit-right-box .pbmit-button-box-second {
     border-radius: 0 0 0 30px;
     position: relative;
@@ -334,7 +564,7 @@ body .pbmit-bg-color-secondary {
     }
 
     .pbmit-heading-subheading {
-        margin-bottom: 0px!important;
+        margin-bottom: 0px !important;
         position: relative;
     }
 }
@@ -381,7 +611,7 @@ body .pbmit-bg-color-secondary {
     }
 
     .pbmit-heading-subheading {
-        margin-bottom: 0px!important;
+        margin-bottom: 0px !important;
         position: relative;
     }
 
