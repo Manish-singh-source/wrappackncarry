@@ -413,7 +413,7 @@ pizzerias -->
 												<img src="images/products/OGR Paper.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="#" title="Harvest Concepts">
+										<a class="pbmit-service-btn" href="#" title="OGR Paper">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -457,7 +457,7 @@ pizzerias -->
 												<img src="images/products/BakeON Paper.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="#" title="Farming Products">
+										<a class="pbmit-service-btn" href="#" title="BakeON Paper">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -501,7 +501,7 @@ pizzerias -->
 												<img src="images/products/Slip Easy Paper.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="#" title="Soil fertilization">
+										<a class="pbmit-service-btn" href="#" title="Slip Easy Paper">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -523,7 +523,7 @@ pizzerias -->
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="#" title="Soil fertilization">
+								<a class="pbmit-service-btn" href="#" title="Slip Easy Paper">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-shopping-cart"></i>
@@ -545,7 +545,7 @@ pizzerias -->
 												<img src="images/products/Sachet Paper.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="#" title="Soil fertilization">
+										<a class="pbmit-service-btn" href="#" title="Sachet Paper">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -567,7 +567,7 @@ pizzerias -->
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="#" title="Soil fertilization">
+								<a class="pbmit-service-btn" href="#" title="Sachet Paper">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-shopping-cart"></i>
@@ -589,7 +589,7 @@ pizzerias -->
 												<img src="images/products/Kraft Paper Bag.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="#" title="Soil fertilization">
+										<a class="pbmit-service-btn" href="#" title="Kraft Paper Bag">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -611,7 +611,7 @@ pizzerias -->
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="#" title="Soil fertilization">
+								<a class="pbmit-service-btn" href="#" title="Kraft Paper Bag">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-shopping-cart"></i>
@@ -633,7 +633,7 @@ pizzerias -->
 												<img src="images/products/MG Poster Bag.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="#" title="Soil fertilization">
+										<a class="pbmit-service-btn" href="#" title="MG Poster Bag">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -655,7 +655,7 @@ pizzerias -->
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="#" title="Soil fertilization">
+								<a class="pbmit-service-btn" href="#" title="MG Poster Bag">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-shopping-cart"></i>
@@ -677,7 +677,7 @@ pizzerias -->
 												<img src="images/products/Pizza Boxes.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="#" title="Soil fertilization">
+										<a class="pbmit-service-btn" href="#" title="Pizza Boxes">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -699,7 +699,7 @@ pizzerias -->
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="#" title="Soil fertilization">
+								<a class="pbmit-service-btn" href="#" title="Pizza Boxes">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-shopping-cart"></i>
@@ -721,7 +721,7 @@ pizzerias -->
 												<img src="images/products/Tableware.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="#" title="Soil fertilization">
+										<a class="pbmit-service-btn" href="#" title="Tableware">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -743,7 +743,7 @@ pizzerias -->
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="#" title="Soil fertilization">
+								<a class="pbmit-service-btn" href="#" title="Tableware">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-shopping-cart"></i>
