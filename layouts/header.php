@@ -88,7 +88,7 @@
                                                 <li class="dropdown">
                                                     <a href="products.php">Products</a>
                                                     <ul>
-														<li><a href="product-details.php">OGR Paper</a></li>
+                                                        <li><a href="product-details.php">OGR Paper</a></li>
                                                         <li><a href="#">BakeON Paper</a></li>
                                                         <li><a href="#">Slip Easy Paper</a></li>
                                                         <li><a href="#">Sachet Paper</a></li>
@@ -96,12 +96,12 @@
                                                         <li><a href="#">MG Poster Bag</a></li>
                                                         <li><a href="#">Pizza Boxes</a></li>
                                                         <li><a href="#">Tableware</a></li>
-													</ul>
+                                                    </ul>
                                                 </li>
                                                 <li class="dropdown">
                                                     <a href="contact-us.php">Contact Us</a>
                                                 </li>
-                                                
+
                                             </ul>
                                         </div>
                                     </div>
@@ -118,7 +118,7 @@
                                 </div>
                             </div> -->
                             <div class="pbmit-button-box-second">
-                                <a class="pbmit-btn" href="#">
+                                <a class="pbmit-btn header-enquire-btn" href="javascript:void(0);">
                                     <span class="pbmit-button-text">Enquire Now</span>
                                     <span class="pbmit-button-icon-wrapper">
                                         <span class="pbmit-button-icon">
@@ -141,4 +141,113 @@
                     </div>
                 </div>
             </div>
-            
+
+            <!-- Enquiry Modal -->
+            <div class="enquiry-modal" id="headerEnquiryModal">
+                <div class="modal-content">
+                    <button class="close-modal" type="button">&times;</button>
+                    <div class="modal-header">
+                        <h4>Product Enquiry</h4>
+                        <p>Fill in your details and we'll get back to you shortly</p>
+                    </div>
+                    <form class="enquiry-form" id="headerEnquiryForm">
+                        <div class="form-row">
+                            <div class="form-group form-group-half">
+                                <label for="headerName">Full Name <span class="required">*</span></label>
+                                <input type="text" id="headerName" name="name" required placeholder="Your name">
+                            </div>
+                            <div class="form-group form-group-half">
+                                <label for="headerPhone">Phone <span class="required">*</span></label>
+                                <input type="tel" id="headerPhone" name="phone" required placeholder="Your phone">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="headerEmail">Email Address <span class="required">*</span></label>
+                            <input type="email" id="headerEmail" name="email" required placeholder="your@email.com">
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group form-group-half">
+                                <label for="headerProduct">Product <span class="required">*</span></label>
+                                <select id="headerProduct" name="product" required>
+                                    <option value="">Select Product</option>
+                                    <option value="OGR Paper">OGR Paper</option>
+                                    <option value="BakeON Paper">BakeON Paper</option>
+                                    <option value="Slip Easy Paper">Slip Easy Paper</option>
+                                    <option value="Sachet Paper">Sachet Paper</option>
+                                    <option value="Kraft Paper Bag">Kraft Paper Bag</option>
+                                    <option value="MG Poster Bag">MG Poster Bag</option>
+                                    <option value="Pizza Boxes">Pizza Boxes</option>
+                                    <option value="Tableware">Tableware</option>
+                                </select>
+                            </div>
+                            <div class="form-group form-group-half">
+                                <label for="headerFormat">Format <span class="required">*</span></label>
+                                <select id="headerFormat" name="format" required>
+                                    <option value="">Select Format</option>
+                                    <option value="Reel">Reel</option>
+                                    <option value="Sheet">Sheet</option>
+                                    <option value="Box">Box</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="headerQuantity">Quantity</label>
+                            <input type="text" id="headerQuantity" name="quantity" placeholder="e.g. 100 kg, 500 kg, 1 ton">
+                        </div>
+                        <div class="form-group">
+                            <label for="headerMessage">Message</label>
+                            <textarea id="headerMessage" name="message" placeholder="Any specific requirements or questions?"></textarea>
+                        </div>
+                        <button type="submit" class="pbmit-btn">
+                            <span class="pbmit-button-text">Submit Enquiry</span>
+                            <span class="pbmit-button-icon-wrapper">
+                                <span class="pbmit-button-icon">
+                                    <i class="pbmit-base-icon-black-arrow-1"></i>
+                                </span>
+                            </span>
+                        </button>
+                    </form>
+                </div>
+            </div>
+
+            <script>
+                document.addEventListener('DOMContentLoaded', function() {
+                    var headerModal = document.getElementById('headerEnquiryModal');
+                    var headerCloseModal = headerModal.querySelector('.close-modal');
+                    var headerEnquireBtns = document.querySelectorAll('.header-enquire-btn');
+
+                    headerEnquireBtns.forEach(function(btn) {
+                        btn.addEventListener('click', function() {
+                            headerModal.classList.add('show');
+                            document.body.style.overflow = 'hidden';
+                        });
+                    });
+
+                    headerCloseModal.addEventListener('click', function() {
+                        headerModal.classList.remove('show');
+                        document.body.style.overflow = 'auto';
+                    });
+
+                    headerModal.addEventListener('click', function(e) {
+                        if (e.target === headerModal) {
+                            headerModal.classList.remove('show');
+                            document.body.style.overflow = 'auto';
+                        }
+                    });
+
+                    document.addEventListener('keydown', function(e) {
+                        if (e.key === 'Escape' && headerModal.classList.contains('show')) {
+                            headerModal.classList.remove('show');
+                            document.body.style.overflow = 'auto';
+                        }
+                    });
+
+                    document.getElementById('headerEnquiryForm').addEventListener('submit', function(e) {
+                        e.preventDefault();
+                        alert('Thank you for your enquiry! We will get back to you soon.');
+                        headerModal.classList.remove('show');
+                        document.body.style.overflow = 'auto';
+                        this.reset();
+                    });
+                });
+            </script>

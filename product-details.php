@@ -85,7 +85,7 @@ include('layouts/header.php'); ?>
 									<div class="pbmit-ads-desc">
 										<i class="pbmit-base-icon-phone-call-1"></i>+91 93244 20871
 									</div>
-									<a class="pbmit-btn pbmit-btn-white" href="#">
+									<a class="pbmit-btn pbmit-btn-white" href="contact-us.php">
 										<span class="pbmit-button-text">Contact us Now</span>
 										<span class="pbmit-button-icon-wrapper">
 											<span class="pbmit-button-icon">

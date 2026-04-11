@@ -13,7 +13,7 @@
                     <a href="contact-us.php">
                         <h3>Contact Us</h3>
                     </a>
-                    <a href="#">
+                    <a href="javascript:void(0);" class="header-enquire-btn">
                         <h3>Enquire Now</h3>
                     </a>
                 </div>
