@@ -19,11 +19,11 @@
                 </div>
                 <div class="col-md-12 col-lg-6 pbmit-footer-right-info">
                     <div class="pbmit-footer-box pbmit-footer-box-1">
-                        <a href="tel:+91 8080 80 3374">
+                        <a href="tel:+91 93244 20871">
                             <span class="pbmit-footer-box-icon">
                                 <i class="pbmit-agrimo-icon pbmit-agrimo-icon-phone-call"></i>
                             </span>
-                            <span class="pbmit-footer-box-title">+91 8080 80 3374</span>
+                            <span class="pbmit-footer-box-title">+91 93244 20871</span>
                         </a>
                     </div>
                     <div class="pbmit-footer-box pbmit-footer-box-2">
@@ -31,7 +31,7 @@
                             <span class="pbmit-footer-box-icon">
                                 <i class="pbmit-agrimo-icon pbmit-agrimo-icon-email-1"></i>
                             </span>
-                            <span class="pbmit-footer-box-title"><span class="__cf_email__" data-cfemail="335d5c4156435f4a7343515e5a5d555c4756505b1d505c5e">info@technofra.com</span></span>
+                            <span class="pbmit-footer-box-title"><span class="__cf_email__" data-cfemail="335d5c4156435f4a7343515e5a5d555c4756505b1d505c5e">info@jagdambapaper.com</span></span>
                         </a>
                     </div>
                 </div>
@@ -125,7 +125,7 @@
                     <aside class="widget">
                         <h2 class="widget-title">Our address</h2>
                         <div class="pbmit-contact-widget-line pbmit-contact-widget-address">
-                            501, 5th Floor, Ghanshyam Enclave, Kandivali (West), Mumbai - 400067. <br> Maharashtra - INDIA
+                            304, Kalpataru Plaza, Rambaug, Chincholi Bunder Road, Malad (W), Mumbai - 400 064, Maharashtra, </br> India.
                         </div>
                     </aside>
                 </div>

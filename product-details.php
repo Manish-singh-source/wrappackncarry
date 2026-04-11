@@ -376,7 +376,7 @@ include('layouts/header.php'); ?>
 								<div class="col-lg-4 mb-4">
 									<div class="purchase-option-card">
 										<h4>Reel Format</h4>
-										<p>Available in bulk rolls ideal for high-volume packaging operations. Custom widths available.</p>
+										<p>Ideal for continuous wrapping and high-volume usage in food packaging operations.</p>
 										<button class="pbmit-btn enquire-btn" data-format="Reel">
 											<span class="pbmit-button-text">Enquire Now</span>
 											<span class="pbmit-button-icon-wrapper">
@@ -390,7 +390,7 @@ include('layouts/header.php'); ?>
 								<div class="col-lg-4 mb-4">
 									<div class="purchase-option-card">
 										<h4>Sheet Format</h4>
-										<p>Pre-cut sheets in various sizes for convenient use. Perfect for small to medium businesses.</p>
+										<p>Pre-cut sheets suitable for easy handling, quick wrapping, and daily food service use.</p>
 										<button class="pbmit-btn enquire-btn" data-format="Sheet">
 											<span class="pbmit-button-text">Enquire Now</span>
 											<span class="pbmit-button-icon-wrapper">
@@ -404,7 +404,7 @@ include('layouts/header.php'); ?>
 								<div class="col-lg-4 mb-4">
 									<div class="purchase-option-card">
 										<h4>Box Format</h4>
-										<p>Ready-to-use packaging boxes with OGR paper lining. Ideal for complete packaging solutions.</p>
+										<p>Custom packaging boxes designed for safe packing, storage, and delivery purposes.</p>
 										<button class="pbmit-btn enquire-btn" data-format="Box">
 											<span class="pbmit-button-text">Enquire Now</span>
 											<span class="pbmit-button-icon-wrapper">
@@ -527,36 +527,44 @@ include('layouts/header.php'); ?>
 <!-- Enquiry Modal -->
 <div class="enquiry-modal" id="enquiryModal">
     <div class="modal-content">
-        <span class="close-modal">&times;</span>
-        <h4>Product Enquiry</h4>
+        <button class="close-modal" type="button">&times;</button>
+        <div class="modal-header">
+            <h4>Product Enquiry</h4>
+            <p>Fill in your details and we'll get back to you shortly</p>
+        </div>
         <div class="product-format-info">
-            <i class="fa-solid fa-circle-info"></i>
-            <span id="modalProductName">OGR Paper</span> - <span id="modalFormat">Reel</span> Format
+            <i class="fa-solid fa-box-archive"></i>
+            <span id="modalProductName">OGR Paper</span>
+            <span class="format-badge" id="modalFormat">Reel</span>
         </div>
         <form class="enquiry-form" id="enquiryForm">
-            <div class="form-group">
-                <label for="name">Full Name *</label>
-                <input type="text" id="name" name="name" required placeholder="Enter your full name">
+            <div class="form-row">
+                <div class="form-group form-group-half">
+                    <label for="name">Full Name <span class="required">*</span></label>
+                    <input type="text" id="name" name="name" required placeholder="Your name">
+                </div>
+                <div class="form-group form-group-half">
+                    <label for="phone">Phone <span class="required">*</span></label>
+                    <input type="tel" id="phone" name="phone" required placeholder="Your phone">
+                </div>
             </div>
             <div class="form-group">
-                <label for="phone">Phone Number *</label>
-                <input type="tel" id="phone" name="phone" required placeholder="Enter your phone number">
+                <label for="email">Email Address <span class="required">*</span></label>
+                <input type="email" id="email" name="email" required placeholder="your@email.com">
+            </div>
+            <div class="form-row">
+                <div class="form-group form-group-half">
+                    <label for="product">Product</label>
+                    <input type="text" id="product" name="product" value="OGR Paper" readonly>
+                </div>
+                <div class="form-group form-group-half">
+                    <label for="format">Format</label>
+                    <input type="text" id="format" name="format" value="Reel" readonly>
+                </div>
             </div>
             <div class="form-group">
-                <label for="email">Email Address *</label>
-                <input type="email" id="email" name="email" required placeholder="Enter your email">
-            </div>
-            <div class="form-group">
-                <label for="product">Product Name</label>
-                <input type="text" id="product" name="product" value="OGR Paper" readonly>
-            </div>
-            <div class="form-group">
-                <label for="format">Format</label>
-                <input type="text" id="format" name="format" value="Reel" readonly>
-            </div>
-            <div class="form-group">
-                <label for="quantity">Quantity (Kg/Tons)</label>
-                <input type="text" id="quantity" name="quantity" placeholder="Enter required quantity">
+                <label for="quantity">Quantity</label>
+                <input type="text" id="quantity" name="quantity" placeholder="e.g. 100 kg, 500 kg, 1 ton">
             </div>
             <div class="form-group">
                 <label for="message">Message</label>
