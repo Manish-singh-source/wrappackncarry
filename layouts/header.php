@@ -54,7 +54,7 @@
                         <div class="pbmit-logo-menuarea d-flex justify-content-between align-items-center">
                             <div class="site-branding">
                                 <h1 class="site-title">
-                                    <a href="#">
+                                    <a href="index.php">
                                         <img class="logo-img" src="images/wrap-logo.png" alt="Agrimo">
                                     </a>
                                 </h1>
@@ -80,16 +80,23 @@
                                             </span>
                                             <ul class="navigation clearfix">
                                                 <li class="dropdown active">
-                                                    <a href="#">Home</a>
+                                                    <a href="index.php">Home</a>
+                                                </li>
+                                                <li class="">
+                                                    <a href="about-us.php">About Us</a>
                                                 </li>
                                                 <li class="dropdown">
-                                                    <a href="#">About Us</a>
-                                                </li>
-                                                <li class="dropdown">
-                                                    <a href="#">Product</a>
-                                                    <!-- <ul>
-														<li><a href="#">Service Detail</a></li>
-													</ul> -->
+                                                    <a href="products.php">Products</a>
+                                                    <ul>
+														<li><a href="#">OGR Paper</a></li>
+                                                        <li><a href="#">BakeON Paper</a></li>
+                                                        <li><a href="#">Slip Easy Paper</a></li>
+                                                        <li><a href="#">Sachet Paper</a></li>
+                                                        <li><a href="#">Kraft Paper Bag</a></li>
+                                                        <li><a href="#">MG Poster Bag</a></li>
+                                                        <li><a href="#">Pizza Boxes</a></li>
+                                                        <li><a href="#">Tableware</a></li>
+													</ul>
                                                 </li>
                                                 <li class="dropdown">
                                                     <a href="#">Contact Us</a>

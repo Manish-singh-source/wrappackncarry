@@ -4,10 +4,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-lg-6 pbmit-footer-left-menu">
-                    <a href="#">
+                    <a href="about-us.php">
                         <h3>About Us</h3>
                     </a>
-                    <a href="#">
+                    <a href="products.php">
                         <h3>Products</h3>
                     </a>
                     <a href="#">
