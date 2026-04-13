@@ -7,10 +7,13 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12 text-center text-md-center">
-                <script>
-                    document.write(new Date().getFullYear())
-                </script>
-                © Wpap Pack N Carry - By <span class="fw-bold text-decoration-underline text-uppercase text-reset fs-12"><a href="https://technofra.com/"> Technofra </a></span>
+                <span class="text-muted fs-12">
+                    <script>
+                        document.write(new Date().getFullYear())
+                    </script>
+                    © Wrap Pack N Carry - Designed by 
+                    <a href="https://technofra.com/" class="text-primary text-decoration-none fw-semibold">Technofra</a>
+                </span>
             </div>
         </div>
     </div>

@@ -98,7 +98,7 @@
                                 </div>
 
                                 <!-- My Profile -->
-                                <a href="#!" class="dropdown-item">
+                                <a href="profile.php" class="dropdown-item">
                                     <i class="ti ti-user-circle me-1 fs-lg align-middle"></i>
                                     <span class="align-middle">Profile</span>
                                 </a>
@@ -143,7 +143,7 @@
                 <div id="user-profile-settings" class="sidenav-user" style="background: url(assets/images/user-bg-pattern.svg)">
                     <div class="d-flex justify-content-between align-items-center">
                         <div>
-                            <a href="#!" class="link-reset">
+                            <a href="profile.php" class="link-reset">
                                 <img src="assets/images/users/user-1.jpg" alt="user-image" class="rounded-circle mb-2 avatar-md" />
                                 <span class="sidenav-user-name fw-bold"><?php echo $_SESSION['admin_name'] ?? 'Admin'; ?></span>
                                 <span class="fs-12 fw-semibold" data-lang="user-role">Art Director</span>
@@ -161,7 +161,7 @@
                                 </div>
 
                                 <!-- My Profile -->
-                                <a href="#!" class="dropdown-item">
+                                <a href="profile.php" class="dropdown-item">
                                     <i class="ti ti-user-circle me-1 fs-lg align-middle"></i>
                                     <span class="align-middle">Profile</span>
                                 </a>
@@ -216,8 +216,8 @@
         </div>
         <!-- Sidenav Menu End -->
 
-        <div class="content-page">
-        <div class="container-fluid">
+        <div class="content-page d-flex flex-column">
+        <div class="container-fluid flex-grow-1" style="min-height: calc(100vh - 200px);">
             <div class="page-title-head d-flex align-items-center mt-3">
                 <div class="flex-grow-1">
                     <h4 class="page-main-title m-0"><?php echo $pageName ?? ''; ?></h4>
