@@ -40,7 +40,7 @@
                     <!-- Topbar Brand Logo -->
                     <div class="logo-topbar">
                         <!-- Logo light -->
-                        <a href="index.html" class="logo-light">
+                        <a href="index.php" class="logo-light">
                             <span class="logo-lg">
                                 <img src="assets/images/wrap-logo.png" alt="logo" />
                             </span>
@@ -50,7 +50,7 @@
                         </a>
 
                         <!-- Logo Dark -->
-                        <a href="index.html" class="logo-dark">
+                        <a href="index.php" class="logo-dark">
                             <span class="logo-lg">
                                 <img src="assets/images/wrap-logo.png" alt="dark logo" />
                             </span>
@@ -117,14 +117,14 @@
         <!-- Topbar End -->
         <div class="sidenav-menu">
             <!-- Brand Logo -->
-            <a href="index.html" class="logo">
+            <a href="index.php" class="logo">
                 <span class="logo logo-light">
                     <span class="logo-lg"><img src="assets/images/wrap-logo.png" alt="logo" /></span>
                     <span class="logo-sm"><img src="assets/images/wrap-logo.png" alt="small logo" /></span>
                 </span>
 
                 <span class="logo logo-dark">
-                    <span class="logo-lg"><img src="assets/images/wrap-logo.png" alt="dark logo" style="width: 50px;height:50px;" /></span>
+                    <span class="logo-lg"><img src="assets/images/wrap-logo.png" alt="dark logo" style="width: 80px;height:80px;" /></span>
                     <span class="logo-sm"><img src="assets/images/wrap-logo.png" alt="small logo" /></span>
                 </span>
             </a>
@@ -191,7 +191,7 @@
                 <!--- Sidenav Menu -->
                 <div id="sidenav-menu">
                     <ul class="side-nav">
-                        <!-- <li class="side-nav-title mt-2" data-lang="main">Main</li> -->
+                        <li class="side-nav-title mt-2" data-lang="main">Main</li>
                         <li class="side-nav-item">
                             <a href="index.php" class="side-nav-link">
                                 <span class="menu-icon"><i class="ti ti-dashboard"></i></span>

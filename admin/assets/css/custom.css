@@ -5,6 +5,10 @@
     padding: 15px;
 }
 
+.logo span.logo-lg {
+    display: flex;
+}
+
 .sidenav-menu, .topbar-menu {
     background-color: #F8F7F0 !important;
 }
@@ -12,4 +16,9 @@
 .footer {
     background-color: #F8F7F0 !important;
     border: none;
+}
+
+.logo-lg img {
+    width: 80px !important;
+    height: 80px !important;
 }
