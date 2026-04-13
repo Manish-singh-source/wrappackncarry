@@ -89,13 +89,13 @@
                                                     <a href="products.php">Products</a>
                                                     <ul>
                                                         <li><a href="product-details.php">OGR Paper</a></li>
-                                                        <li><a href="#">BakeON Paper</a></li>
-                                                        <li><a href="#">Slip Easy Paper</a></li>
-                                                        <li><a href="#">Sachet Paper</a></li>
-                                                        <li><a href="#">Kraft Paper Bag</a></li>
-                                                        <li><a href="#">MG Poster Bag</a></li>
-                                                        <li><a href="#">Pizza Boxes</a></li>
-                                                        <li><a href="#">Tableware</a></li>
+                                                        <li><a href="product-details.php">BakeON Paper</a></li>
+                                                        <li><a href="product-details.php">Slip Easy Paper</a></li>
+                                                        <li><a href="product-details.php">Sachet Paper</a></li>
+                                                        <li><a href="product-details.php">Kraft Paper Bag</a></li>
+                                                        <li><a href="product-details.php">MG Poster Bag</a></li>
+                                                        <li><a href="product-details.php">Pizza Boxes</a></li>
+                                                        <li><a href="product-details.php">Tableware</a></li>
                                                     </ul>
                                                 </li>
                                                 <li class="dropdown">
@@ -244,10 +244,23 @@
 
                     document.getElementById('headerEnquiryForm').addEventListener('submit', function(e) {
                         e.preventDefault();
-                        alert('Thank you for your enquiry! We will get back to you soon.');
-                        headerModal.classList.remove('show');
-                        document.body.style.overflow = 'auto';
-                        this.reset();
+                        var formData = new FormData(this);
+                        fetch('submit-enquiry.php', {
+                            method: 'POST',
+                            body: formData
+                        })
+                        .then(response => response.json())
+                        .then(data => {
+                            alert(data.message);
+                            if(data.success) {
+                                headerModal.classList.remove('show');
+                                document.body.style.overflow = 'auto';
+                                this.reset();
+                            }
+                        })
+                        .catch(error => {
+                            alert('Something went wrong. Please try again.');
+                        });
                     });
                 });
             </script>

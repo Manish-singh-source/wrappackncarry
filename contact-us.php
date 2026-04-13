@@ -1,6 +1,7 @@
 <?php
 $title = "Contact Us";
-include('layouts/header.php'); ?>
+include('layouts/header.php');
+?>
 
 
 <!-- Title Bar -->
@@ -142,7 +143,10 @@ include('layouts/header.php'); ?>
 							<h4 class="pbmit-subtitle">Get to Contact us</h4>
 							<h2 class="pbmit-title">Have a any Questions? <br> Get in Touch!</h2>
 						</div>
-						<form class="contact-form" method="post" id="contact-form" action="https://agrimo-demo.pbminfotech.com/html-demo/send-dummy.php">
+						<form class="contact-form" method="post" id="contact-form" action="submit-contact.php">
+							<?php if (isset($_GET['success']) && $_GET['success'] == '1'): ?>
+							<div class="alert alert-success">Thank you! Your message has been sent successfully. We will contact you soon.</div>
+							<?php endif; ?>
 							<div class="row">
 								<div class="col-md-6">
 									<input type="text" class="form-control" placeholder="Your Name" name="name" required>

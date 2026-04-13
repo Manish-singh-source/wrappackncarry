@@ -527,7 +527,7 @@ include('layouts/header.php'); ?>
 <!-- Enquiry Modal -->
 <div class="enquiry-modal" id="enquiryModal">
     <div class="modal-content">
-        <button class="close-modal" type="button">&times;</button>
+        <!-- <button class="close-modal" type="button">&times;</button> -->
         <div class="modal-header">
             <h4>Product Enquiry</h4>
             <p>Fill in your details and we'll get back to you shortly</p>
@@ -621,10 +621,23 @@ include('layouts/header.php'); ?>
         
         document.getElementById('enquiryForm').addEventListener('submit', function(e) {
             e.preventDefault();
-            alert('Thank you for your enquiry! We will get back to you soon.');
-            modal.classList.remove('show');
-            document.body.style.overflow = 'auto';
-            this.reset();
+            var formData = new FormData(this);
+            fetch('submit-enquiry.php', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert(data.message);
+                if(data.success) {
+                    modal.classList.remove('show');
+                    document.body.style.overflow = 'auto';
+                    this.reset();
+                }
+            })
+            .catch(error => {
+                alert('Something went wrong. Please try again.');
+            });
         });
     });
 </script>

@@ -1,0 +1,15 @@
+.logo-lg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+
+.sidenav-menu, .topbar-menu {
+    background-color: #F8F7F0 !important;
+}
+
+.footer {
+    background-color: #F8F7F0 !important;
+    border: none;
+}
