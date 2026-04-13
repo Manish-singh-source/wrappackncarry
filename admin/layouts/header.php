@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Dashboard | Wrpa Pack N Carry - Admin </title>
+    <title><?php echo $title ?? ''; ?> | Wrpa Pack N Carry - Admin </title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="Wrpa Pack N Carry is a modern, responsive admin dashboard available on ThemeForest. Ideal for building CRM, CMS, project management tools, and custom web applications with a clean UI, flexible layouts, and rich features." />
     <meta name="keywords" content="Wrpa Pack N Carry, admin dashboard, ThemeForest, Bootstrap 5 admin, responsive admin, CRM dashboard, CMS admin, web app UI, admin theme, premium admin template" />
@@ -191,7 +191,7 @@
                 <!--- Sidenav Menu -->
                 <div id="sidenav-menu">
                     <ul class="side-nav">
-                        <li class="side-nav-title mt-2" data-lang="main">Main</li>
+                        <!-- <li class="side-nav-title mt-2" data-lang="main">Main</li> -->
                         <li class="side-nav-item">
                             <a href="index.php" class="side-nav-link">
                                 <span class="menu-icon"><i class="ti ti-dashboard"></i></span>
