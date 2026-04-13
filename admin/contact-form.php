@@ -40,6 +40,7 @@ if (!$conn->connect_error) {
                             <th>Phone</th>
                             <th>Subject</th>
                             <th>Message</th>
+                            <th>Timing</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -51,6 +52,7 @@ if (!$conn->connect_error) {
                             <td><?php echo htmlspecialchars($contact['phone']); ?></td>
                             <td><?php echo htmlspecialchars($contact['subject']); ?></td>
                             <td><?php echo htmlspecialchars($contact['message']); ?></td>
+                            <td><?php echo htmlspecialchars(date("d F Y, h:i A", strtotime($contact['created_at'])));?></td>
                         </tr>
                         <?php endforeach; ?>
                     </tbody>

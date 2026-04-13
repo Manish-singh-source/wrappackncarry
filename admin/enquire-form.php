@@ -42,6 +42,7 @@ if (!$conn->connect_error) {
                             <th>Format</th>
                             <th>Quantity</th>
                             <th>Message</th>
+                            <th>Timing</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -55,6 +56,7 @@ if (!$conn->connect_error) {
                             <td><?php echo htmlspecialchars($enquire['format']); ?></td>
                             <td><?php echo htmlspecialchars($enquire['quantity']); ?></td>
                             <td><?php echo htmlspecialchars($enquire['message']); ?></td>
+                            <td><?php echo htmlspecialchars(date("d M Y, h:i A", strtotime($enquire['created_at'])));?></td>
                         </tr>
                         <?php endforeach; ?>
                     </tbody>
