@@ -22,7 +22,7 @@ include("layouts/header.php");
                             <div class="overflow-hidden flex-shrink-0">
                                 <h3 class="fw-normal text-reset fs-20 lh-base">
                                     <span class="text-muted fs-base text-uppercase h5">Good Day,</span> <br />
-                                    <b>David Dev!</b>
+                                    <b><?php echo $_SESSION['admin_name'] ?? 'Admin'; ?>!</b>
                                 </h3>
                             </div>
                             <div class="flex-grow-1 text-end">

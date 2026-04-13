@@ -1,3 +1,4 @@
+<?php include("auth.php"); ?>
 <!doctype html>
 <html lang="en">
 
@@ -84,7 +85,7 @@
                                 <img src="assets/images/users/user-1.jpg" width="32" class="rounded-circle me-lg-2 d-flex" alt="user-image" />
                                 <div class="d-lg-flex align-items-center gap-1 d-none">
                                     <span>
-                                        <h5 class="my-0 lh-1 pro-username">David Dev</h5>
+                                        <h5 class="my-0 lh-1 pro-username"><?php echo $_SESSION['admin_name'] ?? 'Admin'; ?></h5>
                                         <span class="fs-xs lh-1">Admin Head</span>
                                     </span>
                                     <i class="ti ti-chevron-down align-middle"></i>
@@ -103,7 +104,7 @@
                                 </a>
 
                                 <!-- Logout -->
-                                <a href="javascript:void(0);" class="dropdown-item fw-semibold">
+                                <a href="logout.php" class="dropdown-item fw-semibold">
                                     <i class="ti ti-logout me-1 fs-lg align-middle"></i>
                                     <span class="align-middle">Log Out</span>
                                 </a>
@@ -144,7 +145,7 @@
                         <div>
                             <a href="#!" class="link-reset">
                                 <img src="assets/images/users/user-1.jpg" alt="user-image" class="rounded-circle mb-2 avatar-md" />
-                                <span class="sidenav-user-name fw-bold">David Dev</span>
+                                <span class="sidenav-user-name fw-bold"><?php echo $_SESSION['admin_name'] ?? 'Admin'; ?></span>
                                 <span class="fs-12 fw-semibold" data-lang="user-role">Art Director</span>
                             </a>
                         </div>
