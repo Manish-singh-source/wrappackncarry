@@ -106,7 +106,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action'])) {
             <div class="card-body">
                 <div class="text-center mb-4">
                     <div class="avatar avatar-xl mx-auto mb-3">
-                        <span class="avatar-title bg-primary rounded-circle fs-1">
+                        <span class="avatar-title bg-primary-subtle text-primary rounded-circle fs-1">
                             <?php echo strtoupper(substr($admin['name'] ?? 'A', 0, 1)); ?>
                         </span>
                     </div>
@@ -120,21 +120,21 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action'])) {
                         <label class="form-label">Full Name <span class="text-danger">*</span></label>
                         <div class="input-group">
                             <span class="input-group-text"><i class="ti ti-user"></i></span>
-                            <input type="text" class="form-control" name="name" value="<?php echo htmlspecialchars($admin['name']); ?>" required>
+                            <input type="text" class="form-control" name="name" value="<?php echo htmlspecialchars($admin['name']); ?>" required disabled>
                         </div>
                     </div>
                     <div class="mb-3">
                         <label class="form-label">Email Address <span class="text-danger">*</span></label>
                         <div class="input-group">
                             <span class="input-group-text"><i class="ti ti-mail"></i></span>
-                            <input type="email" class="form-control" name="email" value="<?php echo htmlspecialchars($admin['email']); ?>" required>
+                            <input type="email" class="form-control" name="email" value="<?php echo htmlspecialchars($admin['email']); ?>" required disabled>
                         </div>
                     </div>
-                    <div class="d-grid">
+                    <!-- <div class="d-grid">
                         <button type="submit" class="btn btn-primary">
                             <i class="ti ti-device-floppy me-1"></i> Save Changes
                         </button>
-                    </div>
+                    </div> -->
                 </form>
             </div>
         </div>
@@ -194,5 +194,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action'])) {
         </div>
     </div>
 </div>
+
+<!-- end row -->
+</div>
+<!-- container -->  
 
 <?php include('layouts/footer.php'); ?>
