@@ -45,8 +45,9 @@ body .pbmit-bg-color-secondary {
     /* background-size: contain; */
     background-attachment: scroll;
     font-size: 15px;
-    color: var(--pbmit-blackish-color);
-    background-color: var(--pbmit-white-color);
+    color: #e3dbbb;
+    /* background-color: var(--pbmit-white-color); */
+    background-color: #333828;
 }
 
 .site-footer .pbmit-footer-big-area .pbmit-main-logo {
@@ -570,6 +571,57 @@ body .pbmit-bg-color-secondary {
 
 .contact-img-box {
     background-image: url(../images/products/contact-us.avif);
+}
+
+.site-footer .pbmit-footer-big-area .pbmit-footer-right h3 {
+    font-size: 32px;
+    line-height: 42px;
+    margin: 0;
+    color: var(--pbmit-white-color);
+}
+
+.site-footer .widget .widget-title {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: 0px;
+    color: #E3DBBB;
+    text-transform: capitalize;
+    font-style: normal;
+    margin-bottom: 15px;
+}
+
+.site-footer .widget ul li a {
+    color: #cfcfcf;
+}
+
+.site-footer .pbmit-footer-text-area a, .site-footer .pbmit-footer-copyright-text-area {
+    color: #E3DBBB;
+}
+
+.site-footer .pbmit-footer-widget-col-1 .pbmit-social-links li a {
+    font-size: 15px;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: #000000;
+    background-color: var(--pbmit-light-color);
+    border-radius: 50%;
+    -webkit-transition: all .25s ease-in-out;
+    transition: all .25s ease-in-out;
+}
+
+body .pbmit-bg-color-global {
+    background-color: #AEB784;
+}
+
+.site-footer .widget .pbmit-contact-widget-address {
+    font-size: 15px;
+    opacity: 0.8;
+    line-height: 28px;
+    color: #cfcfcf;
 }
 
 /* 
