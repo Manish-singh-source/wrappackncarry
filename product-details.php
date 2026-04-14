@@ -526,65 +526,77 @@ include('layouts/header.php'); ?>
 
 <!-- Enquiry Modal -->
 <div class="enquiry-modal" id="enquiryModal">
-    <div class="modal-content">
-        <!-- <button class="close-modal" type="button">&times;</button> -->
-        <div class="modal-header">
-            <h4>Product Enquiry</h4>
-            <p>Fill in your details and we'll get back to you shortly</p>
-        </div>
-        <!-- <div class="product-format-info">
+	<div class="modal-content">
+		<!-- <button class="close-modal" type="button">&times;</button> -->
+		<div class="modal-header">
+			<h4>Product Enquiry</h4>
+			<p>Fill in your details and we'll get back to you shortly</p>
+		</div>
+		<!-- <div class="product-format-info">
             <i class="fa-solid fa-box-archive"></i>
             <span id="modalProductName">OGR Paper</span>
             <span class="format-badge" id="modalFormat">Reel</span>
         </div> -->
-        <form class="enquiry-form" id="enquiryForm">
-            <div class="form-row">
-                <div class="form-group form-group-half">
-                    <label for="name">Full Name <span class="required">*</span></label>
-                    <input type="text" id="name" name="name" required placeholder="Your name">
-                </div>
-                <div class="form-group form-group-half">
-                    <label for="phone">Phone <span class="required">*</span></label>
-                    <input type="tel" id="phone" name="phone" required placeholder="Your phone">
-                </div>
-            </div>
-            <div class="form-group">
-                <label for="email">Email Address <span class="required">*</span></label>
-                <input type="email" id="email" name="email" required placeholder="your@email.com">
-            </div>
-            <div class="form-row">
-                <div class="form-group form-group-half">
-                    <label for="product">Product</label>
-                    <input type="text" id="product" name="product" value="OGR Paper" readonly>
-                </div>
-                <div class="form-group form-group-half">
-                    <label for="format">Format</label>
-                    <input type="text" id="format" name="format" value="Reel" readonly>
-                </div>
-            </div>
-            <div class="form-row box-variant-row" style="display: none;">
-                <div class="form-group form-group-half">
-                    <label for="variant">Variant</label>
-                    <select id="variant" name="variant">
-                        <option value="">Select Variant</option>
-                        <option value="20 meter">20 Meter</option>
-                        <option value="200 meter">200 Meter</option>
-                    </select>
-                </div>
-            </div>
-            <div class="platform-links-row" style="display: none;">
-                <div class="platform-links">
-                    <span class="platform-label">Buy from:</span>
-                    <a href="https://www.flipkart.com" target="_blank" class="platform-link" title="Flipkart">
-                        <img src="images/logo/flipkart.png" alt="Flipkart">
-                    </a>
-                    <a href="https://www.amazon.in" target="_blank" class="platform-link" title="Amazon">
-                        <img src="images/logo/amazon.png" alt="Amazon">
-                    </a>
-                </div>
-                <p class="discount-note">Is platform se lene par 10% discount milega!</p>
-            </div>
-            <!-- <div class="form-group">
+		<form class="enquiry-form" id="enquiryForm">
+			<div class="form-row">
+				<div class="form-group form-group-half">
+					<label for="name">Full Name <span class="required">*</span></label>
+					<input type="text" id="name" name="name" required placeholder="Your name">
+				</div>
+				<div class="form-group form-group-half">
+					<label for="phone">Phone <span class="required">*</span></label>
+					<input type="tel" id="phone" name="phone" required placeholder="Your phone">
+				</div>
+			</div>
+			<div class="form-group">
+				<label for="email">Email Address <span class="required">*</span></label>
+				<input type="email" id="email" name="email" required placeholder="your@email.com">
+			</div>
+			<div class="form-row">
+				<div class="form-group form-group-half">
+					<label for="product">Product</label>
+					<input type="text" id="product" name="product" value="OGR Paper" readonly>
+				</div>
+				<div class="form-group form-group-half">
+					<label for="format">Format</label>
+					<input type="text" id="format" name="format" value="Reel" readonly>
+				</div>
+			</div>
+			<!-- <div class="form-row box-variant-row" style="display: none;">
+				<div class="form-group form-group-half">
+					<label for="variant">Variant</label>
+					<select id="variant" name="variant">
+						<option value="">Select Variant</option>
+						<option value="20 meter">20 Meter</option>
+						<option value="200 meter">200 Meter</option>
+					</select>
+				</div>
+			</div> -->
+			<div class="form-row box-variant-row" style="display: none;">
+				<div class="form-group form-group-half">
+					<label for="variant">Variant</label>
+					<div style="display: flex;gap: 10px;width: max-content;">
+						<input type="text" id="Variant" name="Variant" value="20 meter" readonly>
+						<input type="text" id="Variant" name="Variant" value="200 meter" readonly>
+					</div>
+				</div>
+				<div class="form-group form-group-half">
+					<!-- <label for="format">Format</label> -->
+				</div>
+			</div>
+			<div class="platform-links-row" style="display: none;">
+				<div class="platform-links">
+					<!-- <span class="platform-label">Buy from:</span> -->
+					<p class="discount-note">Get 10% Discount on</p>
+					<a href="https://www.flipkart.com" target="_blank" class="platform-link" title="Flipkart">
+						<img src="images/products/flipkart.png" alt="Flipkart">
+					</a>
+					<a href="https://www.amazon.in" target="_blank" class="platform-link" title="Amazon">
+						<img src="images/products/amazon.png" alt="Amazon">
+					</a>
+				</div>
+			</div>
+			<!-- <div class="form-group">
                 <label for="quantity">Quantity</label>
                 <input type="text" id="quantity" name="quantity" placeholder="e.g. 100 kg, 500 kg, 1 ton">
             </div>
@@ -592,76 +604,87 @@ include('layouts/header.php'); ?>
                 <label for="message">Message</label>
                 <textarea id="message" name="message" placeholder="Any specific requirements or questions?"></textarea>
             </div> -->
-            <button type="submit" class="pbmit-btn">
-                <span class="pbmit-button-text">Submit Enquiry</span>
-                <span class="pbmit-button-icon-wrapper">
-                    <span class="pbmit-button-icon">
-                        <i class="pbmit-base-icon-black-arrow-1"></i>
-                    </span>
-                </span>
-            </button>
-        </form>
-    </div>
+			<button type="submit" class="pbmit-btn">
+				<span class="pbmit-button-text">Submit Enquiry</span>
+				<span class="pbmit-button-icon-wrapper">
+					<span class="pbmit-button-icon">
+						<i class="pbmit-base-icon-black-arrow-1"></i>
+					</span>
+				</span>
+			</button>
+		</form>
+	</div>
 </div>
 
 <script>
-    document.addEventListener('DOMContentLoaded', function() {
-        const modal = document.getElementById('enquiryModal');
-        const closeModal = document.querySelector('.close-modal');
-        const enquireBtns = document.querySelectorAll('.enquire-btn');
-        const formatInput = document.getElementById('format');
-        // const modalFormat = document.getElementById('modalFormat');
-        
-        enquireBtns.forEach(btn => {
-            btn.addEventListener('click', function() {
-                const format = this.getAttribute('data-format');
-                formatInput.value = format;
-                // modalFormat.textContent = format;
-                modal.classList.add('show');
-                document.body.style.overflow = 'hidden';
-            });
-        });
-        
-        closeModal.addEventListener('click', function() {
-            modal.classList.remove('show');
-            document.body.style.overflow = 'auto';
-        });
-        
-        modal.addEventListener('click', function(e) {
-            if (e.target === modal) {
-                modal.classList.remove('show');
-                document.body.style.overflow = 'auto';
-            }
-        });
-        
-        document.addEventListener('keydown', function(e) {
-            if (e.key === 'Escape' && modal.classList.contains('show')) {
-                modal.classList.remove('show');
-                document.body.style.overflow = 'auto';
-            }
-        });
-        
-        document.getElementById('enquiryForm').addEventListener('submit', function(e) {
-            e.preventDefault();
-            var formData = new FormData(this);
-            fetch('submit-enquiry.php', {
-                method: 'POST',
-                body: formData
-            })
-            .then(response => response.json())
-            .then(data => {
-                alert(data.message);
-                if(data.success) {
-                    modal.classList.remove('show');
-                    document.body.style.overflow = 'auto';
-                    this.reset();
-                }
-            })
-            .catch(error => {
-                alert('Something went wrong. Please try again.');
-            });
-        });
-    });
+	document.addEventListener('DOMContentLoaded', function() {
+		const modal = document.getElementById('enquiryModal');
+		const closeModal = document.querySelector('.close-modal');
+		const enquireBtns = document.querySelectorAll('.enquire-btn');
+		const formatInput = document.getElementById('format');
+		// const modalFormat = document.getElementById('modalFormat');
+
+		const variantRow = document.querySelector('.box-variant-row');
+		const platformRow = document.querySelector('.platform-links-row');
+
+		enquireBtns.forEach(btn => {
+			btn.addEventListener('click', function() {
+				const format = this.getAttribute('data-format');
+				formatInput.value = format;
+
+				if (format === 'Box') {
+					variantRow.style.display = 'flex';
+					platformRow.style.display = 'block';
+				} else {
+					variantRow.style.display = 'none';
+					platformRow.style.display = 'none';
+				}
+
+				modal.classList.add('show');
+				document.body.style.overflow = 'hidden';
+			});
+		});
+
+		closeModal.addEventListener('click', function() {
+			modal.classList.remove('show');
+			document.body.style.overflow = 'auto';
+		});
+
+		modal.addEventListener('click', function(e) {
+			if (e.target === modal) {
+				modal.classList.remove('show');
+				document.body.style.overflow = 'auto';
+			}
+		});
+
+		document.addEventListener('keydown', function(e) {
+			if (e.key === 'Escape' && modal.classList.contains('show')) {
+				modal.classList.remove('show');
+				document.body.style.overflow = 'auto';
+			}
+		});
+
+		document.getElementById('enquiryForm').addEventListener('submit', function(e) {
+			e.preventDefault();
+			var formData = new FormData(this);
+			fetch('submit-enquiry.php', {
+					method: 'POST',
+					body: formData
+				})
+				.then(response => response.json())
+				.then(data => {
+					alert(data.message);
+					if (data.success) {
+						modal.classList.remove('show');
+						document.body.style.overflow = 'auto';
+						this.reset();
+					}
+				})
+				.catch(error => {
+					alert('Something went wrong. Please try again.');
+				});
+		});
+	});
 </script>
 
 
