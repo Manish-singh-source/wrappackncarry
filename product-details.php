@@ -15,6 +15,16 @@ include('layouts/header.php'); ?>
 		padding-left: 36px;
 	}
 
+	.product-format-row {
+		display: grid !important;
+		grid-template-columns: 1fr 1fr !important;
+		gap: 18px;
+	}
+
+	.product-format-row .form-group {
+		margin-bottom: 0;
+	}
+
 	@media (max-width: 991px) {
 		.service-right-col {
 			flex: 0 0 100%;
@@ -618,7 +628,7 @@ include('layouts/header.php'); ?>
 				<label for="email">Email Address <span class="required">*</span></label>
 				<input type="email" id="email" name="email" required placeholder="your@email.com">
 			</div>
-			<div class="form-row">
+			<div class="form-row product-format-row">
 				<div class="form-group form-group-half">
 					<label for="product">Product</label>
 					<input type="text" id="product" name="product" value="OGR Paper" readonly>

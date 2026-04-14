@@ -665,7 +665,7 @@ body .pbmit-bg-color-secondary {
     }
     
     .enquiry-form .form-row {
-        gap: 0;
+        gap: 10px;
     }
     
     .enquiry-form .pbmit-btn {
