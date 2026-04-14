@@ -375,7 +375,7 @@ include('layouts/header.php'); ?>
 							<div class="row">
 								<div class="col-lg-4 mb-4">
 									<div class="purchase-option-card">
-										<h4>Reel Format</h4>
+										<h4>Reel</h4>
 										<p>Ideal for continuous wrapping and high-volume usage in food packaging operations.</p>
 										<button class="pbmit-btn enquire-btn" data-format="Reel">
 											<span class="pbmit-button-text">Enquire Now</span>
@@ -389,7 +389,7 @@ include('layouts/header.php'); ?>
 								</div>
 								<div class="col-lg-4 mb-4">
 									<div class="purchase-option-card">
-										<h4>Sheet Format</h4>
+										<h4>Sheet</h4>
 										<p>Pre-cut sheets suitable for easy handling, quick wrapping, and daily food service use.</p>
 										<button class="pbmit-btn enquire-btn" data-format="Sheet">
 											<span class="pbmit-button-text">Enquire Now</span>
@@ -403,7 +403,7 @@ include('layouts/header.php'); ?>
 								</div>
 								<div class="col-lg-4 mb-4">
 									<div class="purchase-option-card">
-										<h4>Box Format</h4>
+										<h4>Box</h4>
 										<p>Custom packaging boxes designed for safe packing, storage, and delivery purposes.</p>
 										<button class="pbmit-btn enquire-btn" data-format="Box">
 											<span class="pbmit-button-text">Enquire Now</span>
@@ -532,11 +532,11 @@ include('layouts/header.php'); ?>
             <h4>Product Enquiry</h4>
             <p>Fill in your details and we'll get back to you shortly</p>
         </div>
-        <div class="product-format-info">
+        <!-- <div class="product-format-info">
             <i class="fa-solid fa-box-archive"></i>
             <span id="modalProductName">OGR Paper</span>
             <span class="format-badge" id="modalFormat">Reel</span>
-        </div>
+        </div> -->
         <form class="enquiry-form" id="enquiryForm">
             <div class="form-row">
                 <div class="form-group form-group-half">
@@ -562,14 +562,36 @@ include('layouts/header.php'); ?>
                     <input type="text" id="format" name="format" value="Reel" readonly>
                 </div>
             </div>
-            <div class="form-group">
+            <div class="form-row box-variant-row" style="display: none;">
+                <div class="form-group form-group-half">
+                    <label for="variant">Variant</label>
+                    <select id="variant" name="variant">
+                        <option value="">Select Variant</option>
+                        <option value="20 meter">20 Meter</option>
+                        <option value="200 meter">200 Meter</option>
+                    </select>
+                </div>
+            </div>
+            <div class="platform-links-row" style="display: none;">
+                <div class="platform-links">
+                    <span class="platform-label">Buy from:</span>
+                    <a href="https://www.flipkart.com" target="_blank" class="platform-link" title="Flipkart">
+                        <img src="images/logo/flipkart.png" alt="Flipkart">
+                    </a>
+                    <a href="https://www.amazon.in" target="_blank" class="platform-link" title="Amazon">
+                        <img src="images/logo/amazon.png" alt="Amazon">
+                    </a>
+                </div>
+                <p class="discount-note">Is platform se lene par 10% discount milega!</p>
+            </div>
+            <!-- <div class="form-group">
                 <label for="quantity">Quantity</label>
                 <input type="text" id="quantity" name="quantity" placeholder="e.g. 100 kg, 500 kg, 1 ton">
             </div>
             <div class="form-group">
                 <label for="message">Message</label>
                 <textarea id="message" name="message" placeholder="Any specific requirements or questions?"></textarea>
-            </div>
+            </div> -->
             <button type="submit" class="pbmit-btn">
                 <span class="pbmit-button-text">Submit Enquiry</span>
                 <span class="pbmit-button-icon-wrapper">
@@ -588,13 +610,13 @@ include('layouts/header.php'); ?>
         const closeModal = document.querySelector('.close-modal');
         const enquireBtns = document.querySelectorAll('.enquire-btn');
         const formatInput = document.getElementById('format');
-        const modalFormat = document.getElementById('modalFormat');
+        // const modalFormat = document.getElementById('modalFormat');
         
         enquireBtns.forEach(btn => {
             btn.addEventListener('click', function() {
                 const format = this.getAttribute('data-format');
                 formatInput.value = format;
-                modalFormat.textContent = format;
+                // modalFormat.textContent = format;
                 modal.classList.add('show');
                 document.body.style.overflow = 'hidden';
             });
