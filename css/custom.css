@@ -304,6 +304,7 @@ body .pbmit-bg-color-secondary {
     transition: all 0.3s ease;
     border: none;
     line-height: 1;
+    z-index: 100;
 }
 
 .enquiry-modal .close-modal:hover {
@@ -563,12 +564,24 @@ body .pbmit-bg-color-secondary {
 }
 
 /* Responsive */
+@media (max-width: 991px) {
+    .enquiry-modal .modal-content {
+        padding: 35px 28px;
+        max-width: 480px;
+    }
+    
+    .enquiry-modal .modal-header h4 {
+        font-size: 26px;
+    }
+}
+
 @media (max-width: 768px) {
     .enquiry-modal .modal-content {
         padding: 30px 24px;
         border-radius: 20px;
-        margin: 20px;
-        width: calc(100% - 40px);
+        margin: 15px;
+        width: calc(100% - 30px);
+        max-width: none;
     }
     
     .enquiry-modal .modal-header h4 {
@@ -610,6 +623,107 @@ body .pbmit-bg-color-secondary {
 
     .purchase-option-card {
         padding: 25px;
+    }
+}
+
+@media (max-width: 575px) {
+    .enquiry-modal .modal-content {
+        padding: 25px 18px;
+        border-radius: 16px;
+        margin: 10px;
+        width: calc(100% - 20px);
+    }
+    
+    .enquiry-modal .modal-header {
+        margin-bottom: 20px;
+        padding-bottom: 18px;
+    }
+    
+    .enquiry-modal .modal-header h4 {
+        font-size: 22px;
+        margin-bottom: 8px;
+    }
+    
+    .enquiry-modal .modal-header p {
+        font-size: 13px;
+    }
+    
+    .enquiry-form .form-group {
+        margin-bottom: 16px;
+    }
+    
+    .enquiry-form input,
+    .enquiry-form select {
+        padding: 14px 16px;
+        font-size: 15px;
+        border-radius: 10px;
+    }
+    
+    .enquiry-form label {
+        font-size: 13px;
+        margin-bottom: 6px;
+    }
+    
+    .enquiry-form .form-row {
+        gap: 0;
+    }
+    
+    .enquiry-form .pbmit-btn {
+        padding: 14px 20px;
+        font-size: 15px;
+        border-radius: 12px;
+    }
+    
+    .enquiry-modal .close-modal {
+        top: 10px;
+        right: 10px;
+        width: 28px;
+        height: 28px;
+        font-size: 16px;
+    }
+    
+    .purchase-option-card {
+        padding: 20px;
+    }
+}
+
+@media (max-width: 400px) {
+    .enquiry-modal .modal-content {
+        padding: 20px 14px;
+        border-radius: 14px;
+        margin: 8px;
+        width: calc(100% - 16px);
+    }
+    
+    .enquiry-modal .modal-header h4 {
+        font-size: 20px;
+    }
+    
+    .enquiry-modal .modal-header p {
+        font-size: 12px;
+    }
+    
+    .enquiry-form input,
+    .enquiry-form select {
+        padding: 12px 14px;
+        font-size: 14px;
+    }
+    
+    .enquiry-form label {
+        font-size: 12px;
+    }
+    
+    .enquiry-form .pbmit-btn {
+        padding: 12px 18px;
+        font-size: 14px;
+    }
+    
+    .enquiry-modal .close-modal {
+        top: 8px;
+        right: 8px;
+        width: 26px;
+        height: 26px;
+        font-size: 14px;
     }
 }
 

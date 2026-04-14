@@ -14,6 +14,72 @@ include('layouts/header.php'); ?>
 		max-width: 72%;
 		padding-left: 36px;
 	}
+
+	@media (max-width: 991px) {
+		.service-right-col {
+			flex: 0 0 100%;
+			max-width: 100%;
+			margin-top: 40px;
+			order: 2;
+		}
+		.service-left-col {
+			flex: 0 0 100%;
+			max-width: 100%;
+			padding-left: 0;
+		}
+	}
+
+	@media (max-width: 767px) {
+		/* .pbmit-title-bar-content-inner {
+			flex-direction: column;
+			text-align: center;
+		}
+		.pbmit-tbar-inner {
+			padding: 20px 15px;
+		}
+		.pbmit-tbar-title {
+			font-size: 24px !important;
+		}
+		.pbmit-breadcrumb-inner {
+			justify-content: center;
+		}
+		.pbmit-title-bar-content-inner .pbmit-tbar,
+		.pbmit-title-bar-content-inner .pbmit-breadcrumb {
+			width: 100%;
+		} */
+		.list-group-item {
+			padding: 12px 0;
+		}
+		.purchase-option-card {
+			padding: 20px;
+		}
+	}
+
+	@media (max-width: 480px) {
+		/* .pbmit-tbar-title {
+			font-size: 20px !important;
+		}
+		.pbmit-tbar-subtitle {
+			font-size: 14px;
+		}
+		.pbmit-title-bar-content-inner {
+			padding: 15px 10px;
+		} */
+		.all-post-list ul {
+			display: block;
+			flex-wrap: wrap;
+			gap: 8px;
+			padding: 0;
+			list-style: none;
+		}
+		.all-post-list li {
+			flex: 0 0 auto;
+		}
+		.all-post-list li a {
+			padding: 8px 12px;
+			font-size: 13px;
+		}
+	}
 </style>
 
 <!-- Title Bar -->
@@ -527,7 +593,7 @@ include('layouts/header.php'); ?>
 <!-- Enquiry Modal -->
 <div class="enquiry-modal" id="enquiryModal">
 	<div class="modal-content">
-		<!-- <button class="close-modal" type="button">&times;</button> -->
+		<button class="close-modal" type="button" id="closeModalBtn">&times;</button>
 		<div class="modal-header">
 			<h4>Product Enquiry</h4>
 			<p>Fill in your details and we'll get back to you shortly</p>
@@ -573,15 +639,12 @@ include('layouts/header.php'); ?>
 				</div>
 			</div> -->
 			<div class="form-row box-variant-row" style="display: none;">
-				<div class="form-group form-group-half">
+				<div class="form-group">
 					<label for="variant">Variant</label>
-					<div style="display: flex;gap: 10px;width: max-content;">
-						<input type="text" id="Variant" name="Variant" value="20 meter" readonly>
-						<input type="text" id="Variant" name="Variant" value="200 meter" readonly>
+					<div class="variant-options" style="display: flex;gap: 10px;flex-wrap: wrap;">
+						<input type="text" id="variant" name="variant" value="20 meter" readonly style="flex: 1;min-width: 80px;">
+						<input type="text" id="variant2" name="variant" value="200 meter" readonly style="flex: 1;min-width: 80px;">
 					</div>
-				</div>
-				<div class="form-group form-group-half">
-					<!-- <label for="format">Format</label> -->
 				</div>
 			</div>
 			<div class="platform-links-row" style="display: none;">
@@ -619,7 +682,7 @@ include('layouts/header.php'); ?>
 <script>
 	document.addEventListener('DOMContentLoaded', function() {
 		const modal = document.getElementById('enquiryModal');
-		const closeModal = document.querySelector('.close-modal');
+		const closeModal = document.getElementById('closeModalBtn');
 		const enquireBtns = document.querySelectorAll('.enquire-btn');
 		const formatInput = document.getElementById('format');
 		// const modalFormat = document.getElementById('modalFormat');
@@ -645,10 +708,12 @@ include('layouts/header.php'); ?>
 			});
 		});
 
-		closeModal.addEventListener('click', function() {
-			modal.classList.remove('show');
-			document.body.style.overflow = 'auto';
-		});
+		if (closeModal) {
+			closeModal.addEventListener('click', function() {
+				modal.classList.remove('show');
+				document.body.style.overflow = 'auto';
+			});
+		}
 
 		modal.addEventListener('click', function(e) {
 			if (e.target === modal) {
