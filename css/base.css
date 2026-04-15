@@ -17,10 +17,10 @@ INDEX:
 @import url('https://fonts.googleapis.com/css2?family=Signika:wght@300..700&display=swap" rel="stylesheet');
  :root {
      /* --pbmit-global-color: #eddd5e; */
-     --pbmit-global-color: #F4B818;
+     /* --pbmit-global-color: #F4B818; */
      /* --pbmit-secondary-color: #5b8c51; */
      /* --pbmit-secondary-color: #7FC241; */
-     --pbmit-secondary-color: #96C93D;
+     /* --pbmit-secondary-color: #96C93D;
      --pbmit-light-color: #f8f7f0;
      --pbmit-white-color: #ffffff;
 	 --pbmit-white-color-rgb: 255,255,255;
@@ -45,21 +45,22 @@ INDEX:
      --pbmit-btn-typography-font-family:"Signika", sans-serif;
      --pbmit-btn-typography-variant: 500;
      --pbmit-btn-typography-font-size: 16px;
-     --pbmit-btn-typography-line-height: 24px;
+     --pbmit-btn-typography-line-height: 24px; */
 
     
     /* --pbmit-global-color: #eddd5e; */
     /* --pbmit-global-color: #F4B818; */
-    --pbmit-global-color: #F4B818;
+    
     /* --pbmit-secondary-color: #5b8c51; */
     /* --pbmit-secondary-color: #7FC241; */
-    --pbmit-secondary-color: #AEB784;
-    --pbmit-light-color: #E3DBBB;
-    --pbmit-white-color: #F8F3E1;
+    
+    
+    
     --pbmit-white-color-rgb: 255,255,255;
     --pbmit-blackish-color: #404a3d;
     --pbmit-blackish-color-rgb: 64,74,61;
-    --pbmit-link-color-normal: #404a3d;
+    /* --pbmit-link-color-normal: #404a3d; */
+    
     --pbmit-link-color-hover: #5b8c51;
     --pbmit-global-color-rgb: 237, 221, 94;
     --pbmit-secondary-color-rgb: 91, 140, 81;
@@ -70,12 +71,21 @@ INDEX:
     --pbmit-body-typography-line-height: 1.6;
     --pbmit-body-typography-color: #666666;
     --pbmit-heading-typography-font-family: "Signika", sans-serif;
-    --pbmit-heading-color: #404a3d;
+    /* --pbmit-heading-color: #404a3d; */
+    
     --pbmit-heading-font-variant: 500;
     --pbmit-btn-typography-font-family: "Signika", sans-serif;
     --pbmit-btn-typography-variant: 500;
     --pbmit-btn-typography-font-size: 16px;
     --pbmit-btn-typography-line-height: 24px;
+
+    --pbmit-global-color: #E3DBBB;
+    --pbmit-light-color: #E3DBBB;
+    --pbmit-white-color: #F8F3E0;
+    --pbmit-secondary-color: #41431B;
+    --pbmit-link-color-normal: #41431B;
+    --pbmit-heading-color: #41431B;
+    --pbmit-green-color: #AEB683;
 
 }
 

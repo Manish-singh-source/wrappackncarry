@@ -18,7 +18,7 @@ include('layouts/header.php'); ?>
 									<p class="pbmit-desc transform-left transform-delay-3">Keeps burgers fresh, secure, and ready for takeaway and delivery.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
 										<a class="pbmit-btn pbmit-btn-white" href="#">
-											<span class="pbmit-button-text">Contact Us </span>
+											<span class="pbmit-button-text">OGR Paper </span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -45,7 +45,7 @@ include('layouts/header.php'); ?>
 									<p class="pbmit-desc transform-left transform-delay-3">Eco-friendly wrapping designed to keep rolls fresh, hygienic, and easy to handle.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
 										<a class="pbmit-btn pbmit-btn-white" href="#">
-											<span class="pbmit-button-text">Contact Us </span>
+											<span class="pbmit-button-text">BakeON Paper </span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -241,7 +241,7 @@ pizzerias -->
 								<div class="pbmit-fld-contents">
 									<div class="pbmit-fld-wrap">
 										<h4 class="pbmit-fid-inner">
-											<span class="pbmit-fid-before"></span>
+											<!-- <span class="pbmit-fid-before"></span> -->
 											<span class="pbmit-number-rotate numinate" data-appear-animation="animateDigits" data-from="0" data-to="500" data-interval="5" data-before="" data-before-style="" data-after="" data-after-style="">500</span>
 											<span class="pbmit-fid"><sup>+</sup></span>
 										</h4>
@@ -1261,11 +1261,7 @@ pizzerias -->
 					<!-- Slide1 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 1</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/1.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/1.png" class="img-fluid" alt="">
@@ -1277,11 +1273,7 @@ pizzerias -->
 					<!-- Slide2 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 2</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/2.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/2.png" class="img-fluid" alt="">
@@ -1293,11 +1285,7 @@ pizzerias -->
 					<!-- Slide3 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 3</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/3.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/3.png" class="img-fluid" alt="">
@@ -1309,11 +1297,7 @@ pizzerias -->
 					<!-- Slide4 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 4</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/4.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/4.png" class="img-fluid" alt="">
@@ -1325,11 +1309,7 @@ pizzerias -->
 					<!-- Slide5 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 5</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/5.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/5.png" class="img-fluid" alt="">
@@ -1341,11 +1321,7 @@ pizzerias -->
 					<!-- Slide6 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 6</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/6.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/6.png" class="img-fluid" alt="">
@@ -1357,11 +1333,7 @@ pizzerias -->
 					<!-- Slide7 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 7</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/7.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/7.png" class="img-fluid" alt="">
@@ -1373,11 +1345,7 @@ pizzerias -->
 					<!-- Slide8 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 8</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/8.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/8.png" class="img-fluid" alt="">
@@ -1389,11 +1357,7 @@ pizzerias -->
 					<!-- Slide9 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 9</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/9.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/9.png" class="img-fluid" alt="">
@@ -1405,11 +1369,7 @@ pizzerias -->
 					<!-- Slide10 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 10</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/10.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/10.png" class="img-fluid" alt="">
@@ -1421,11 +1381,7 @@ pizzerias -->
 					<!-- Slide11 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 11</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/11.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/11.png" class="img-fluid" alt="">
@@ -1437,11 +1393,7 @@ pizzerias -->
 					<!-- Slide12 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 12</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/12.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/12.png" class="img-fluid" alt="">
@@ -1453,11 +1405,7 @@ pizzerias -->
 					<!-- Slide13 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 13</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/13.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/13.png" class="img-fluid" alt="">
@@ -1469,11 +1417,7 @@ pizzerias -->
 					<!-- Slide14 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 14</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/14.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/14.png" class="img-fluid" alt="">

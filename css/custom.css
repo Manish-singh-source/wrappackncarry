@@ -31,11 +31,9 @@
     width: 50px;
 }
 
-body .pbmit-bg-color-secondary {
-    /* background-color: var(--pbmit-secondary-color); */
-    /* background-color: #99CA3F; */
+/* body .pbmit-bg-color-secondary {
     background-color: #333828;
-}
+} */
 
 .site-footer {
     /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk_kH_YEgsqNF934cOc3wr4tjKa55bG2PbcQ&s); */
@@ -45,9 +43,9 @@ body .pbmit-bg-color-secondary {
     /* background-size: contain; */
     background-attachment: scroll;
     font-size: 15px;
-    color: #e3dbbb;
-    /* background-color: var(--pbmit-white-color); */
-    background-color: #333828;
+    color: var(--pbmit-light-color);
+    background-color: var(--pbmit-secondary-color);
+    /* background-color: #333828; */
 }
 
 .site-footer .pbmit-footer-big-area .pbmit-main-logo {
@@ -193,7 +191,7 @@ body .pbmit-bg-color-secondary {
 }
 
 .purchase-option-card .pbmit-btn {
-    background: var(--pbmit-secondary-color);
+    background: var(--pbmit-light-color);
     padding: 14px 30px;
     font-size: 15px;
 }
@@ -224,8 +222,13 @@ body .pbmit-bg-color-secondary {
 }
 
 @keyframes modalFadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
 }
 
 .enquiry-modal .modal-content {
@@ -235,19 +238,20 @@ body .pbmit-bg-color-secondary {
     width: 92%;
     max-width: 520px;
     position: relative;
-    box-shadow: 0 25px 80px rgba(0, 0, 0, 0.35), 0 10px 30px rgba(0, 0, 0, 0.15), inset 0 1px 0 rgba(255,255,255,0.8);
+    box-shadow: 0 25px 80px rgba(0, 0, 0, 0.35), 0 10px 30px rgba(0, 0, 0, 0.15), inset 0 1px 0 rgba(255, 255, 255, 0.8);
     animation: modalSlideUp 0.4s cubic-bezier(0.16, 1, 0.3, 1);
     border: 1px solid rgba(139, 90, 43, 0.1);
 }
 
 @keyframes modalSlideUp {
-    from { 
-        transform: translateY(40px) scale(0.96); 
-        opacity: 0; 
+    from {
+        transform: translateY(40px) scale(0.96);
+        opacity: 0;
     }
-    to { 
-        transform: translateY(0) scale(1); 
-        opacity: 1; 
+
+    to {
+        transform: translateY(0) scale(1);
+        opacity: 1;
     }
 }
 
@@ -269,7 +273,7 @@ body .pbmit-bg-color-secondary {
     transform: translateX(-50%);
     width: 60px;
     height: 3px;
-    background: linear-gradient(90deg, var(--pbmit-secondary-color), #7FC241);
+    background: var(--pbmit-secondary-color );
     border-radius: 2px;
 }
 
@@ -417,7 +421,7 @@ body .pbmit-bg-color-secondary {
 
 .enquiry-form .pbmit-btn {
     width: 100%;
-    background: linear-gradient(135deg, var(--pbmit-secondary-color) 0%, #7FC241 100%);
+    background: var(--pbmit-light-color);
     padding: 18px 35px;
     font-size: 16px;
     font-weight: 600;
@@ -437,7 +441,7 @@ body .pbmit-bg-color-secondary {
     left: -100%;
     width: 100%;
     height: 100%;
-    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+    /* background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent); */
     transition: left 0.5s ease;
 }
 
@@ -446,9 +450,7 @@ body .pbmit-bg-color-secondary {
 }
 
 .enquiry-form .pbmit-btn:hover {
-    background: linear-gradient(135deg, #4a753f 0%, var(--pbmit-secondary-color) 100%);
-    transform: translateY(-2px);
-    box-shadow: 0 10px 30px rgba(91, 140, 81, 0.4);
+    background: var(--pbmit-secondary-color);
 }
 
 .enquiry-form .pbmit-btn .pbmit-button-text {
@@ -508,7 +510,7 @@ body .pbmit-bg-color-secondary {
 } */
 
 .enquiry-modal .discount-note {
-    background: linear-gradient(135deg, #28a745 0%, #20c997 100%);
+    background: var(--pbmit-secondary-color);
     color: white;
     padding: 12px 16px;
     border-radius: 8px;
@@ -520,8 +522,15 @@ body .pbmit-bg-color-secondary {
 }
 
 @keyframes pulse {
-    0%, 100% { transform: scale(1); }
-    50% { transform: scale(1.02); }
+
+    0%,
+    100% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.02);
+    }
 }
 
 .enquiry-form .success-message {
@@ -553,13 +562,14 @@ body .pbmit-bg-color-secondary {
 }
 
 @keyframes fadeInUp {
-    from { 
-        opacity: 0; 
-        transform: translateY(20px); 
+    from {
+        opacity: 0;
+        transform: translateY(20px);
     }
-    to { 
-        opacity: 1; 
-        transform: translateY(0); 
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
     }
 }
 
@@ -569,7 +579,7 @@ body .pbmit-bg-color-secondary {
         padding: 35px 28px;
         max-width: 480px;
     }
-    
+
     .enquiry-modal .modal-header h4 {
         font-size: 26px;
     }
@@ -583,16 +593,16 @@ body .pbmit-bg-color-secondary {
         width: calc(100% - 30px);
         max-width: none;
     }
-    
+
     .enquiry-modal .modal-header h4 {
         font-size: 24px;
     }
-    
+
     .enquiry-modal .form-row {
         grid-template-columns: 1fr;
         gap: 0;
     }
-    
+
     .enquiry-modal .close-modal {
         top: 12px;
         right: 12px;
@@ -600,7 +610,7 @@ body .pbmit-bg-color-secondary {
         height: 32px;
         font-size: 18px;
     }
-    
+
     .enquiry-form .pbmit-btn {
         padding: 16px 25px;
     }
@@ -633,47 +643,47 @@ body .pbmit-bg-color-secondary {
         margin: 10px;
         width: calc(100% - 20px);
     }
-    
+
     .enquiry-modal .modal-header {
         margin-bottom: 20px;
         padding-bottom: 18px;
     }
-    
+
     .enquiry-modal .modal-header h4 {
         font-size: 22px;
         margin-bottom: 8px;
     }
-    
+
     .enquiry-modal .modal-header p {
         font-size: 13px;
     }
-    
+
     .enquiry-form .form-group {
         margin-bottom: 16px;
     }
-    
+
     .enquiry-form input,
     .enquiry-form select {
         padding: 14px 16px;
         font-size: 15px;
         border-radius: 10px;
     }
-    
+
     .enquiry-form label {
         font-size: 13px;
         margin-bottom: 6px;
     }
-    
+
     .enquiry-form .form-row {
         gap: 10px;
     }
-    
+
     .enquiry-form .pbmit-btn {
         padding: 14px 20px;
         font-size: 15px;
         border-radius: 12px;
     }
-    
+
     .enquiry-modal .close-modal {
         top: 10px;
         right: 10px;
@@ -681,7 +691,7 @@ body .pbmit-bg-color-secondary {
         height: 28px;
         font-size: 16px;
     }
-    
+
     .purchase-option-card {
         padding: 20px;
     }
@@ -694,30 +704,30 @@ body .pbmit-bg-color-secondary {
         margin: 8px;
         width: calc(100% - 16px);
     }
-    
+
     .enquiry-modal .modal-header h4 {
         font-size: 20px;
     }
-    
+
     .enquiry-modal .modal-header p {
         font-size: 12px;
     }
-    
+
     .enquiry-form input,
     .enquiry-form select {
         padding: 12px 14px;
         font-size: 14px;
     }
-    
+
     .enquiry-form label {
         font-size: 12px;
     }
-    
+
     .enquiry-form .pbmit-btn {
         padding: 12px 18px;
         font-size: 14px;
     }
-    
+
     .enquiry-modal .close-modal {
         top: 8px;
         right: 8px;
@@ -761,7 +771,7 @@ body .pbmit-bg-color-secondary {
     font-size: 18px;
     line-height: 26px;
     letter-spacing: 0px;
-    color: #E3DBBB;
+    color: var(--pbmit-light-color);
     text-transform: capitalize;
     font-style: normal;
     margin-bottom: 15px;
@@ -771,8 +781,9 @@ body .pbmit-bg-color-secondary {
     color: #cfcfcf;
 }
 
-.site-footer .pbmit-footer-text-area a, .site-footer .pbmit-footer-copyright-text-area {
-    color: #E3DBBB;
+.site-footer .pbmit-footer-text-area a,
+.site-footer .pbmit-footer-copyright-text-area {
+    color: var(--pbmit-light-color);
 }
 
 .site-footer .pbmit-footer-widget-col-1 .pbmit-social-links li a {
@@ -798,6 +809,64 @@ body .pbmit-bg-color-global {
     opacity: 0.8;
     line-height: 28px;
     color: #cfcfcf;
+}
+
+.pbminfotech-ele-fid-style-2 .pbmit-fld-contents {
+    border-radius: 30px;
+    padding: 24px 45px 38px 40px;
+    background-color: #333828;
+}
+
+.pbminfotech-ele-fid-style-2 .pbmit-fid-inner {
+    color: var(--pbmit-light-color);
+}
+
+.pbminfotech-ele-fid-style-2 .pbmit-heading-desc {
+    color: var(--pbmit-light-color);
+}
+
+.pbmit-ihbox-style-12 .pbmit-ihbox-icon,
+.pbmit-ihbox-style-12 .pbmit-ihbox-svg {
+    margin-right: 30px;
+    position: relative;
+    display: inline-block;
+    background-color: #aeb784;
+    color: var(--pbmit-blackish-color);
+    border-radius: 50%;
+}
+
+.site-footer .widget ul li a:hover,
+.site-footer .pbmit-footer-text-inner .pbmit-footer-menu li a:hover,
+.site-footer .pbmit-footer-copyright-text-area a:hover {
+    color: var(--pbmit-light-color);
+}
+
+.site-footer .pbmit-footer-widget-col-1 .pbmit-social-links li a:hover {
+    color: #000000;
+    background-color: #aeb784;
+}
+
+.list-group .pbmit-icon-list-icon i {
+    width: auto;
+    line-height: inherit;
+    font-size: 20px;
+    line-height: 20px;
+    color: #AEB683;
+}
+
+.pbminfotech-ele-fid-style-2 .pbmit-number-rotate::before {
+    position: absolute;
+    content: "\e88d";
+    font-family: "pbminfotech-base-icons";
+    font-size: 18px;
+    left: 0;
+    top: -4px;
+    color: #e3dbbb;
+}
+
+.pbmit-slider-area .pbmit-slider-content .pbmit-sub-title {
+    color: #292929;
+    border: 1px solid #292929;
 }
 
 /* 

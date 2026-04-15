@@ -117,7 +117,7 @@ include('layouts/header.php'); ?>
 						<span class="sep">
 							<i class="pbmit-base-icon-angle-right"></i>
 						</span>
-						<span><span class="post-root post post-post current-item"> OGR Papersss</span></span>
+						<span><span class="post-root post post-post current-item"> OGR Paper</span></span>
 					</div>
 				</div>
 			</div>
@@ -186,7 +186,7 @@ include('layouts/header.php'); ?>
 											</span>
 										</a>
 									</div>
-									<div class="item-download">
+									<div class="item-download d-none">
 										<a href="#" target="_blank" rel="noopener noreferrer">
 											<span class="pbmit-download-content">
 												<i class="pbmit-base-icon-pdf-file-format-symbol-1"></i> Download Word File
@@ -497,7 +497,7 @@ include('layouts/header.php'); ?>
 							<div class="pbmit-heading animation-style2">
 								<h3 class="pbmit-title mb-3">Why Choose OGR Paper</h3>
 							</div>
-							<p>OGR Paper from Wrap Pack N Carry stands out as the preferred choice for food packaging professionals. Our commitment to quality ensures that every sheet delivers consistent oil and grease resistance, protecting your food presentation while maintaining structural integrity. The paper's smooth surface allows for clean, professional wrapping that enhances the visual appeal of your products. Being eco-friendly and biodegradable, it aligns with modern sustainable business practices, helping you reduce your environmental footprint while meeting customer expectations for green packaging solutions. With reliable durability and food safety certification, OGR Paper provides peace of mind along with exceptional performance.</p>
+							<p>OGR Paper from <strong>'Wrap Pack N Carry'</strong> stands out as the preferred choice for food packaging professionals. Our commitment to quality ensures that every sheet delivers consistent oil and grease resistance, protecting your food presentation while maintaining structural integrity. The paper's smooth surface allows for clean, professional wrapping that enhances the visual appeal of your products. Being eco-friendly and biodegradable, it aligns with modern sustainable business practices, helping you reduce your environmental footprint while meeting customer expectations for green packaging solutions. With reliable durability and food safety certification, OGR Paper provides peace of mind along with exceptional performance.</p>
 						</div>
 						<!-- <div class="pt-5">
 							<div class="pbmit-heading animation-style2">

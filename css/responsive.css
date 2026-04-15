@@ -1999,7 +1999,7 @@ body {
 		z-index: 100;
 		visibility: hidden;
 		border-top: 3px solid var(--pbmit-global-color);
-		background-color: #ffffff;
+		background-color: #f8f3e1;
 		opacity: 0;
 		-webkit-box-shadow: 0 0 60px 0 rgb(53 57 69 / 15%);
 		-moz-box-shadow: 0 0 60px 0 rgba(53, 57, 69, 0.15);
