@@ -115,7 +115,7 @@ include('layouts/header.php'); ?>
 	<!-- Who We Are End -->
 
 	<!-- Service Start -->
-	<section class="section-lgt section-lgb">
+	<!-- <section class="section-lgt section-lgb">
 		<div class="container">
 			<div class="pbmit-heading-subheading text-center animation-style4">
 				<h4 class="pbmit-subtitle">who we are</h4>
@@ -123,7 +123,6 @@ include('layouts/header.php'); ?>
 			</div>
 			<div class="swiper-slider service-two-slider" data-autoplay="false" data-loop="true" data-dots="true" data-arrows="false" data-columns="4" data-margin="30" data-effect="slide">
 				<div class="swiper-wrapper">
-					<!-- Slide1 -->
 					<article class="pbmit-ele-service pbmit-service-style-2 swiper-slide">
 						<div class="pbminfotech-post-item">
 							<div class="pbminfotech-box-content">
@@ -164,7 +163,6 @@ include('layouts/header.php'); ?>
 							<a class="pbmit-link" href="#"></a>
 						</div>
 					</article>
-					<!-- Slide2 -->
 					<article class="pbmit-ele-service pbmit-service-style-2 swiper-slide">
 						<div class="pbminfotech-post-item">
 							<div class="pbminfotech-box-content">
@@ -205,7 +203,6 @@ include('layouts/header.php'); ?>
 							<a class="pbmit-link" href="#"></a>
 						</div>
 					</article>
-					<!-- Slide3 -->
 					<article class="pbmit-ele-service pbmit-service-style-2 swiper-slide">
 						<div class="pbminfotech-post-item">
 							<div class="pbminfotech-box-content">
@@ -246,7 +243,6 @@ include('layouts/header.php'); ?>
 							<a class="pbmit-link" href="#"></a>
 						</div>
 					</article>
-					<!-- Slide4 -->
 					<article class="pbmit-ele-service pbmit-service-style-2 swiper-slide">
 						<div class="pbminfotech-post-item">
 							<div class="pbminfotech-box-content">
@@ -287,7 +283,6 @@ include('layouts/header.php'); ?>
 							<a class="pbmit-link" href="#"></a>
 						</div>
 					</article>
-					<!-- Slide5 -->
 					<article class="pbmit-ele-service pbmit-service-style-2 swiper-slide">
 						<div class="pbminfotech-post-item">
 							<div class="pbminfotech-box-content">
@@ -328,7 +323,6 @@ include('layouts/header.php'); ?>
 							<a class="pbmit-link" href="#"></a>
 						</div>
 					</article>
-					<!-- Slide6 -->
 					<article class="pbmit-ele-service pbmit-service-style-2 swiper-slide">
 						<div class="pbminfotech-post-item">
 							<div class="pbminfotech-box-content">
@@ -369,7 +363,6 @@ include('layouts/header.php'); ?>
 							<a class="pbmit-link" href="#"></a>
 						</div>
 					</article>
-					<!-- Slide7 -->
 					<article class="pbmit-ele-service pbmit-service-style-2 swiper-slide">
 						<div class="pbminfotech-post-item">
 							<div class="pbminfotech-box-content">
@@ -410,7 +403,6 @@ include('layouts/header.php'); ?>
 							<a class="pbmit-link" href="#"></a>
 						</div>
 					</article>
-					<!-- Slide8 -->
 					<article class="pbmit-ele-service pbmit-service-style-2 swiper-slide">
 						<div class="pbminfotech-post-item">
 							<div class="pbminfotech-box-content">
@@ -451,7 +443,6 @@ include('layouts/header.php'); ?>
 							<a class="pbmit-link" href="#"></a>
 						</div>
 					</article>
-					<!-- Slide9 -->
 					<article class="pbmit-ele-service pbmit-service-style-2 swiper-slide">
 						<div class="pbminfotech-post-item">
 							<div class="pbminfotech-box-content">
@@ -492,7 +483,6 @@ include('layouts/header.php'); ?>
 							<a class="pbmit-link" href="#"></a>
 						</div>
 					</article>
-					<!-- Slide10 -->
 					<article class="pbmit-ele-service pbmit-service-style-2 swiper-slide">
 						<div class="pbminfotech-post-item">
 							<div class="pbminfotech-box-content">
@@ -536,8 +526,89 @@ include('layouts/header.php'); ?>
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<!-- Service End -->
+
+	<!-- Marquee Start -->
+	<section class="section-lg">
+		<div class="container-fluid p-0">
+			<div class="swiper-slider marquee">
+				<div class="swiper-wrapper">
+					<article class="pbmit-marquee-effect-style-1 swiper-slide">
+						<div class="pbmit-tag-wrapper">
+							<h2 class="pbmit-element-title" data-text="Restaurants">
+								Restaurants
+							</h2>
+						</div>
+					</article>
+					<article class="pbmit-marquee-effect-style-1 swiper-slide">
+						<div class="pbmit-tag-wrapper">
+							<h2 class="pbmit-element-title" data-text="Cafes">
+								Cafes
+							</h2>
+						</div>
+					</article>
+					<article class="pbmit-marquee-effect-style-1 swiper-slide">
+						<div class="pbmit-tag-wrapper">
+							<h2 class="pbmit-element-title" data-text="Bakeries">
+								Bakeries
+							</h2>
+						</div>
+					</article>
+					<article class="pbmit-marquee-effect-style-1 swiper-slide">
+						<div class="pbmit-tag-wrapper">
+							<h2 class="pbmit-element-title" data-text="Cloud kitchens">
+								Cloud kitchens
+							</h2>
+						</div>
+					</article>
+					<article class="pbmit-marquee-effect-style-1 swiper-slide">
+						<div class="pbmit-tag-wrapper">
+							<h2 class="pbmit-element-title" data-text="Fast Food">
+								Fast Food
+							</h2>
+						</div>
+					</article>
+					<article class="pbmit-marquee-effect-style-1 swiper-slide">
+						<div class="pbmit-tag-wrapper">
+							<h2 class="pbmit-element-title" data-text="Takeaways">
+								Takeaways
+							</h2>
+						</div>
+					</article>
+					<article class="pbmit-marquee-effect-style-1 swiper-slide">
+						<div class="pbmit-tag-wrapper">
+							<h2 class="pbmit-element-title" data-text="Catering">
+								Catering
+							</h2>
+						</div>
+					</article>
+					<article class="pbmit-marquee-effect-style-1 swiper-slide">
+						<div class="pbmit-tag-wrapper">
+							<h2 class="pbmit-element-title" data-text="Food Trucks">
+								Food Trucks
+							</h2>
+						</div>
+					</article>
+					<article class="pbmit-marquee-effect-style-1 swiper-slide">
+						<div class="pbmit-tag-wrapper">
+							<h2 class="pbmit-element-title" data-text="Hotels">
+								Hotels
+							</h2>
+						</div>
+					</article>
+					<article class="pbmit-marquee-effect-style-1 swiper-slide">
+						<div class="pbmit-tag-wrapper">
+							<h2 class="pbmit-element-title" data-text="Retail">
+								Retail
+							</h2>
+						</div>
+					</article>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Marquee End -->
 
 	<!-- Static Box Start -->
 	<section class="pbmit-extend-animation pbmit-bg-color-secondary pbmit-text-color-white section-xl pbmit-element-static-box-style-1">

@@ -52,7 +52,7 @@ include('layouts/header.php');
 								</div>
 							</div>
 							<div class="pbmit-content-wrapper">
-								<div class="pbmit-heading-desc"><a href="https://agrimo-demo.pbminfotech.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="cdbdafa0a4a3aba28daca9a0a4a3e3aea2a0">info@jagdambapaper.com</a> <br> <a href="https://agrimo-demo.pbminfotech.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6e1e0c030f0a0307002e07000801400d0103">info@jagdambapaper.com</a></div>
+								<div class="pbmit-heading-desc"><a href="https://agrimo-demo.pbminfotech.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="cdbdafa0a4a3aba28daca9a0a4a3e3aea2a0">info@wrappackncarry.com</a> <br> <a href="https://agrimo-demo.pbminfotech.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6e1e0c030f0a0307002e07000801400d0103">info@wrappackncarry.com</a></div>
 							</div>
 						</div>
 						<div class="pbmit-ihbox-btn">

@@ -32,6 +32,7 @@ include('layouts/header.php'); ?>
 			margin-top: 40px;
 			order: 2;
 		}
+
 		.service-left-col {
 			flex: 0 0 100%;
 			max-width: 100%;
@@ -40,6 +41,7 @@ include('layouts/header.php'); ?>
 	}
 
 	@media (max-width: 767px) {
+
 		/* .pbmit-title-bar-content-inner {
 			flex-direction: column;
 			text-align: center;
@@ -60,12 +62,14 @@ include('layouts/header.php'); ?>
 		.list-group-item {
 			padding: 12px 0;
 		}
+
 		.purchase-option-card {
 			padding: 20px;
 		}
 	}
 
 	@media (max-width: 480px) {
+
 		/* .pbmit-tbar-title {
 			font-size: 20px !important;
 		}
@@ -82,9 +86,11 @@ include('layouts/header.php'); ?>
 			padding: 0;
 			list-style: none;
 		}
+
 		.all-post-list li {
 			flex: 0 0 auto;
 		}
+
 		.all-post-list li a {
 			padding: 8px 12px;
 			font-size: 13px;
@@ -426,12 +432,6 @@ include('layouts/header.php'); ?>
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
 											<span class="pbmit-icon-list-text">Cloud Kitchens</span>
-										</li>
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Food Trucks</span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
