@@ -88,14 +88,14 @@
                                                 <li class="dropdown">
                                                     <a href="products.php">Products</a>
                                                     <ul>
-                                                        <li><a href="product-details.php">OGR Paper</a></li>
-                                                        <li><a href="product-details.php">BakeON Paper</a></li>
-                                                        <li><a href="product-details.php">Slip Easy Paper</a></li>
-                                                        <li><a href="product-details.php">Sachet Paper</a></li>
-                                                        <li><a href="product-details.php">Kraft Paper Bag</a></li>
-                                                        <li><a href="product-details.php">MG Poster Bag</a></li>
-                                                        <li><a href="product-details.php">Pizza Boxes</a></li>
-                                                        <li><a href="product-details.php">Tableware</a></li>
+                                                        <li><a href="ogr-paper.php">OGR Paper</a></li>
+                                                        <li><a href="bakeon-paper.php">BakeON Paper</a></li>
+                                                        <li><a href="slip-easy-paper.php">Slip Easy Paper</a></li>
+                                                        <li><a href="sachet-paper.php">Sachet Paper</a></li>
+                                                        <li><a href="kraft-paper-bag.php">Kraft Paper Bag</a></li>
+                                                        <li><a href="mg-poster-bag.php">MG Poster Bag</a></li>
+                                                        <li><a href="pizza-boxes.php">Pizza Boxes</a></li>
+                                                        <li><a href="tableware.php">Tableware</a></li>
                                                     </ul>
                                                 </li>
                                                 <li class="dropdown">

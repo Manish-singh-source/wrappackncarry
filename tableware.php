@@ -1,5 +1,5 @@
 <?php
-$title = "OGR Paper";
+$title = "Tableware";
 include('layouts/header.php'); ?>
 
 
@@ -106,7 +106,7 @@ include('layouts/header.php'); ?>
 				<div class="pbmit-tbar">
 					<div class="pbmit-tbar-inner container">
 						<h3 class="pbmit-tbar-subtitle"> Product</h3>
-						<h1 class="pbmit-tbar-title"> OGR Paper</h1>
+						<h1 class="pbmit-tbar-title"> Tableware</h1>
 					</div>
 				</div>
 				<div class="pbmit-breadcrumb">
@@ -123,7 +123,7 @@ include('layouts/header.php'); ?>
 						<span class="sep">
 							<i class="pbmit-base-icon-angle-right"></i>
 						</span>
-						<span><span class="post-root post post-post current-item"> OGR Paper</span></span>
+						<span><span class="post-root post post-post current-item"> Tableware</span></span>
 					</div>
 				</div>
 			</div>
@@ -145,14 +145,14 @@ include('layouts/header.php'); ?>
 							<h2 class="widget-title">Our Products</h2>
 							<div class="all-post-list">
 								<ul>
-									<li class="post-active"><a href="service-details.html">OGR Paper </a></li>
-									<li><a href="service-details.html"> BakeON Paper </a></li>
-									<li><a href="service-details.html"> Slip Easy Paper </a></li>
-									<li><a href="service-details.html"> Sachet Paper </a></li>
-									<li><a href="service-details.html"> Kraft Paper Bag </a></li>
-									<li><a href="service-details.html"> MG Poster Bag </a></li>
-									<li><a href="service-details.html"> Pizza Boxes </a></li>
-									<li><a href="service-details.html"> Tableware </a></li>
+									<li><a href="ogr-paper.php">OGR Paper </a></li>
+									<li><a href="bakeon-paper.php"> BakeON Paper </a></li>
+									<li><a href="slip-easy-paper.php"> Slip Easy Paper </a></li>
+									<li><a href="sachet-paper.php"> Sachet Paper </a></li>
+									<li><a href="kraft-paper-bag.php"> Kraft Paper Bag </a></li>
+									<li><a href="mg-poster-bag.php"> MG Poster Bag </a></li>
+									<li><a href="pizza-boxes.php"> Pizza Boxes </a></li>
+									<!-- <li><a href="tableware.php"> Tableware </a></li> -->
 
 								</ul>
 							</div>
@@ -208,73 +208,21 @@ include('layouts/header.php'); ?>
 					</aside>
 				</div>
 				<div class="col-lg-9 service-left-col">
-					<!-- <div class="pbmit-service-feature-image">
-						<img src="images/products/OGR Paper.png" class="img-fluid w-100" alt="">
-					</div> -->
 					<div class="pbmit-entry-content">
 						<div class="pbmit-service-content">
 							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">OGR Paper</h3>
+								<h3 class="pbmit-title mb-3">Tableware</h3>
 							</div>
 							<p class="pbmit-firstletter">
-								OGR Paper (Oil & Grease Resistant Paper) is specially designed for the food packaging industry. This high-quality paper provides excellent resistance to oil and grease, making it the perfect choice for wrapping greasy and oily food items. Made from premium raw materials, it ensures safe food contact while maintaining the freshness and presentation of your food products.
+								Tableware products are designed for hygienic food serving and takeaway needs. Made from eco-friendly materials, they provide a convenient and sustainable solution for modern food businesses. Ideal for both dine-in and takeaway services, they ensure clean and efficient food presentation.
 							</p>
-							<p>Ideal for quick-service restaurants, food trucks, and takeaway establishments, OGR Paper delivers reliable performance with every use.</p>
-							<!-- <div class="pbmit-ihbox-line">
-								<div class="row g-0">
-									<article class="pbmit-miconheading-style-9 col-md-4">
-										<div class="pbmit-ihbox-style-9">
-											<div class="pbmit-ihbox-headingicon">
-												<div class="pbmit-ihbox-icon">
-													<div class="pbmit-ihbox-icon-wrapper pbmit-ihbox-icon-type-text">01</div>
-												</div>
-												<div class="pbmit-ihbox-contents">
-													<h2 class="pbmit-element-title">
-														Schedule Your Experience
-													</h2>
-													<div class="pbmit-heading-desc">Corrupti ut consequatur magni minus! Iusto eos consectetur similique minus culpa odio temporibus.</div>
-												</div>
-											</div>
-										</div>
-									</article>
-									<article class="pbmit-miconheading-style-9 col-md-4">
-										<div class="pbmit-ihbox-style-9">
-											<div class="pbmit-ihbox-headingicon">
-												<div class="pbmit-ihbox-icon">
-													<div class="pbmit-ihbox-icon-wrapper pbmit-ihbox-icon-type-text">02</div>
-												</div>
-												<div class="pbmit-ihbox-contents">
-													<h2 class="pbmit-element-title">
-														Get Professional Advice
-													</h2>
-													<div class="pbmit-heading-desc">Corrupti ut consequatur magni minus! Iusto eos consectetur similique minus culpa odio temporibus.</div>
-												</div>
-											</div>
-										</div>
-									</article>
-									<article class="pbmit-miconheading-style-9 col-md-4">
-										<div class="pbmit-ihbox-style-9">
-											<div class="pbmit-ihbox-headingicon">
-												<div class="pbmit-ihbox-icon">
-													<div class="pbmit-ihbox-icon-wrapper pbmit-ihbox-icon-type-text">03</div>
-												</div>
-												<div class="pbmit-ihbox-contents">
-													<h2 class="pbmit-element-title">
-														Meet Our Expert People
-													</h2>
-													<div class="pbmit-heading-desc">Corrupti ut consequatur magni minus! Iusto eos consectetur similique minus culpa odio temporibus.</div>
-												</div>
-											</div>
-										</div>
-									</article>
-								</div>
-							</div> -->
+							<p>Eco-friendly tableware for hygienic serving and food presentation.</p>
 						</div>
 						<div class="pt-5">
 							<div class="pbmit-heading animation-style2">
 								<h3 class="pbmit-title mb-3">Advanced Packaging Features</h3>
 							</div>
-							<p>Designed to deliver clean, safe, and efficient food wrapping solutions for modern food businesses. Our paper ensures better handling, hygiene, and presentation for everyday packaging needs.</p>
+							<p>Eco-friendly serving solutions designed for modern food businesses.</p>
 							<div class="row">
 								<div class="col-md-6">
 									<ul class="list-group list-group-borderless">
@@ -282,25 +230,25 @@ include('layouts/header.php'); ?>
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Oil-resistant surface for clean food wrapping</span>
+											<span class="pbmit-icon-list-text">Eco-friendly material</span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Smooth texture for easy handling and use</span>
+											<span class="pbmit-icon-list-text">Lightweight and practical</span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Food-safe material suitable for direct contact</span>
+											<span class="pbmit-icon-list-text">Hygienic for food serving</span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Lightweight yet strong for practical packaging</span>
+											<span class="pbmit-icon-list-text">Disposable and convenient</span>
 										</li>
 									</ul>
 								</div>
@@ -310,25 +258,25 @@ include('layouts/header.php'); ?>
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Helps maintain hygiene and neat presentation</span>
+											<span class="pbmit-icon-list-text">Suitable for takeaway use</span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Suitable for takeaway and fast food use</span>
+											<span class="pbmit-icon-list-text">Durable and safe</span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Prevents leakage and keeps packaging clean</span>
+											<span class="pbmit-icon-list-text">Easy to handle</span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Reliable quality for daily business operations</span>
+											<span class="pbmit-icon-list-text">Supports clean presentation</span>
 										</li>
 									</ul>
 								</div>
@@ -338,7 +286,7 @@ include('layouts/header.php'); ?>
 							<div class="pbmit-heading animation-style2">
 								<h3 class="pbmit-title mb-3">Wide Range of Food Applications</h3>
 							</div>
-							<p>OGR Paper is widely used for wrapping and packing various food items, ensuring clean handling, hygiene, and better presentation for takeaway and serving needs.</p>
+							<p>Versatile serving solutions for various food service applications.</p>
 							<div class="row">
 								<div class="col-md-6">
 									<ul class="list-group list-group-borderless">
@@ -346,13 +294,13 @@ include('layouts/header.php'); ?>
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Burgers</span>
+											<span class="pbmit-icon-list-text">Plates</span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Frankies & rolls</span>
+											<span class="pbmit-icon-list-text">Food serving</span>
 										</li>
 
 									</ul>
@@ -363,13 +311,13 @@ include('layouts/header.php'); ?>
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Sandwiches</span>
+											<span class="pbmit-icon-list-text">Snacks</span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">French fries</span>
+											<span class="pbmit-icon-list-text">Takeaway meals</span>
 										</li>
 									</ul>
 								</div>
@@ -379,7 +327,7 @@ include('layouts/header.php'); ?>
 							<div class="pbmit-heading animation-style2">
 								<h3 class="pbmit-title mb-3">Serving Diverse Food Businesses</h3>
 							</div>
-							<p>Our packaging solutions are designed to support a wide range of food and retail industries, ensuring practical, hygienic, and efficient packaging for everyday operations.</p>
+							<p>Perfect for events, catering, and food service businesses.</p>
 							<div class="row">
 								<div class="col-md-4">
 									<ul class="list-group list-group-borderless">
@@ -399,7 +347,7 @@ include('layouts/header.php'); ?>
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Bakeries</span>
+											<span class="pbmit-icon-list-text">Catering</span>
 										</li>
 									</ul>
 								</div>
@@ -409,13 +357,7 @@ include('layouts/header.php'); ?>
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Hotels</span>
-										</li>
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Catering</span>
+											<span class="pbmit-icon-list-text">Events</span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
@@ -423,6 +365,12 @@ include('layouts/header.php'); ?>
 											</span>
 											<span class="pbmit-icon-list-text">Food Trucks</span>
 										</li>
+										<li class="list-group-item">
+											<span class="pbmit-icon-list-icon">
+												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
+											</span>
+											<span class="pbmit-icon-list-text">Cloud Kitchens</span>
+										</li>
 									</ul>
 								</div>
 								<div class="col-md-4">
@@ -431,7 +379,7 @@ include('layouts/header.php'); ?>
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Cloud Kitchens</span>
+											<span class="pbmit-icon-list-text">Takeaways</span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
@@ -447,13 +395,13 @@ include('layouts/header.php'); ?>
 							<div class="pbmit-heading animation-style2">
 								<h3 class="pbmit-title mb-3">Flexible Packaging Formats</h3>
 							</div>
-							<p>Choose the format that best suits your business needs. We offer multiple packaging options to support different usage and operational requirements.</p>
+							<p>Choose from various tableware options.</p>
 							<div class="row">
 								<div class="col-lg-4 mb-4">
 									<div class="purchase-option-card">
-										<h4>Reel</h4>
-										<p>Ideal for continuous wrapping and high-volume usage in food packaging operations.</p>
-										<button class="pbmit-btn enquire-btn" data-format="Reel">
+										<h4>Plates</h4>
+										<p>Disposable plates in various sizes.</p>
+										<button class="pbmit-btn enquire-btn" data-format="Plates">
 											<span class="pbmit-button-text">Enquire Now</span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
@@ -465,9 +413,9 @@ include('layouts/header.php'); ?>
 								</div>
 								<div class="col-lg-4 mb-4">
 									<div class="purchase-option-card">
-										<h4>Sheet</h4>
-										<p>Pre-cut sheets suitable for easy handling, quick wrapping, and daily food service use.</p>
-										<button class="pbmit-btn enquire-btn" data-format="Sheet">
+										<h4>Bowls</h4>
+										<p>Deep bowls for soups and noodles.</p>
+										<button class="pbmit-btn enquire-btn" data-format="Bowls">
 											<span class="pbmit-button-text">Enquire Now</span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
@@ -479,9 +427,23 @@ include('layouts/header.php'); ?>
 								</div>
 								<div class="col-lg-4 mb-4">
 									<div class="purchase-option-card">
-										<h4>Box</h4>
-										<p>Custom packaging boxes designed for safe packing, storage, and delivery purposes.</p>
-										<button class="pbmit-btn enquire-btn" data-format="Box">
+										<h4>Cutlery</h4>
+										<p>Complete cutlery sets.</p>
+										<button class="pbmit-btn enquire-btn" data-format="Cutlery">
+											<span class="pbmit-button-text">Enquire Now</span>
+											<span class="pbmit-button-icon-wrapper">
+												<span class="pbmit-button-icon">
+													<i class="pbmit-base-icon-black-arrow-1"></i>
+												</span>
+											</span>
+										</button>
+									</div>
+								</div>
+								<div class="col-lg-4 mb-4">
+									<div class="purchase-option-card">
+										<h4>Combo</h4>
+										<p>Plate with compartment for sides.</p>
+										<button class="pbmit-btn enquire-btn" data-format="Combo">
 											<span class="pbmit-button-text">Enquire Now</span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
@@ -495,102 +457,10 @@ include('layouts/header.php'); ?>
 						</div>
 						<div class="pt-5">
 							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">Why Choose OGR Paper</h3>
+								<h3 class="pbmit-title mb-3">Why Choose Tableware</h3>
 							</div>
-							<p>OGR Paper from <strong>'Wrap Pack N Carry'</strong> stands out as the preferred choice for food packaging professionals. Our commitment to quality ensures that every sheet delivers consistent oil and grease resistance, protecting your food presentation while maintaining structural integrity. The paper's smooth surface allows for clean, professional wrapping that enhances the visual appeal of your products. Being eco-friendly and biodegradable, it aligns with modern sustainable business practices, helping you reduce your environmental footprint while meeting customer expectations for green packaging solutions. With reliable durability and food safety certification, OGR Paper provides peace of mind along with exceptional performance.</p>
+							<p>Tableware from <strong>'Wrap Pack N Carry'</strong> products offer a clean, convenient, and eco-friendly solution for food serving. Their lightweight and hygienic design makes them ideal for modern food businesses. They ensure ease of use while supporting sustainable practices.</p>
 						</div>
-						<!-- <div class="pt-5">
-							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">Frequently asked questions</h3>
-							</div>
-							<p>They offer adaptability, high nutritional value, and can yield higher yields with minimal agronomical inputs. continued at up to zealously necessary breakfast is motionless she end literature farmers in dry and rainfed semi-arid regions.</p>
-							<div class="accordion" id="accordionExample1">
-								<div class="accordion-item active" id="headingOne1">
-									<h2 class="accordion-header">
-										<button class="accordion-button" type="button" data-bs-toggle="collapse"
-											data-bs-target="#collapseOne1" aria-expanded="false" aria-controls="collapseOne1">
-											<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-												<span class="pbmit-accordion-icon-closed">
-													<svg class="e-font-icon-svg e-fas-chevron-down" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
-														<path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path>
-													</svg>
-												</span>
-												<span class="pbmit-accordion-icon-opened">
-													<svg class="e-font-icon-svg e-fas-chevron-up" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
-														<path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"></path>
-													</svg>
-												</span>
-											</span>
-											<span class="pbmit-accordion-title">
-												01. What is Agricultural Biotechnology?
-											</span>
-										</button>
-									</h2>
-									<div id="collapseOne1" class="accordion-collapse collapse show" aria-labelledby="headingOne1"
-										data-bs-parent="#accordionExample1">
-										<div class="accordion-body">
-											Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
-										</div>
-									</div>
-								</div>
-								<div class="accordion-item">
-									<h2 class="accordion-header" id="headingTwo1">
-										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-											data-bs-target="#collapseTwo1" aria-expanded="false" aria-controls="collapseTwo1">
-											<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-												<span class="pbmit-accordion-icon-closed">
-													<svg class="e-font-icon-svg e-fas-chevron-down" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
-														<path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path>
-													</svg>
-												</span>
-												<span class="pbmit-accordion-icon-opened">
-													<svg class="e-font-icon-svg e-fas-chevron-up" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
-														<path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"></path>
-													</svg>
-												</span>
-											</span>
-											<span class="pbmit-accordion-title">
-												02. Can the products be applied during rainy season?
-											</span>
-										</button>
-									</h2>
-									<div id="collapseTwo1" class="accordion-collapse collapse" aria-labelledby="headingTwo1"
-										data-bs-parent="#accordionExample1">
-										<div class="accordion-body">
-											Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
-										</div>
-									</div>
-								</div>
-								<div class="accordion-item">
-									<h2 class="accordion-header" id="headingThree1">
-										<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-											data-bs-target="#collapseThree1" aria-expanded="false" aria-controls="collapseThree1">
-											<span class="pbmit-accordion-icon pbmit-accordion-icon-right">
-												<span class="pbmit-accordion-icon-closed">
-													<svg class="e-font-icon-svg e-fas-chevron-down" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
-														<path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path>
-													</svg>
-												</span>
-												<span class="pbmit-accordion-icon-opened">
-													<svg class="e-font-icon-svg e-fas-chevron-up" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
-														<path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"></path>
-													</svg>
-												</span>
-											</span>
-											<span class="pbmit-accordion-title">
-												03. What vegetables can I grow in my hothouse?
-											</span>
-										</button>
-									</h2>
-									<div id="collapseThree1" class="accordion-collapse collapse" aria-labelledby="headingThree1"
-										data-bs-parent="#accordionExample1">
-										<div class="accordion-body">
-											Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.
-										</div>
-									</div>
-								</div>
-							</div>
-						</div> -->
 					</div>
 				</div>
 			</div>
@@ -631,7 +501,7 @@ include('layouts/header.php'); ?>
 			<div class="form-row product-format-row">
 				<div class="form-group form-group-half">
 					<label for="product">Product</label>
-					<input type="text" id="product" name="product" value="OGR Paper" readonly>
+					<input type="text" id="product" name="product" value="Tableware" readonly>
 				</div>
 				<div class="form-group form-group-half">
 					<label for="format">Format</label>
