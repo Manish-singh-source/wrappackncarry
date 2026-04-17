@@ -131,7 +131,7 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-service-image-wrapper">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/products/Slip Easy Paper.png" class="img-fluid" alt="">
+											<img src="images/products/Slip Easy Paper.jpg" class="img-fluid" alt="">
 										</div>
 									</div>
 									<a class="pbmit-service-btn" href="slip-easy-paper.php" title="Slip Easy Paper">

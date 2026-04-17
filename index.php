@@ -17,7 +17,7 @@ include('layouts/header.php'); ?>
 									<h2 class="pbmit-title transform-left transform-delay-2">Perfect Wrapping <br>for Every Burger</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">Keeps burgers fresh, secure, and ready for takeaway and delivery.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
-										<a class="pbmit-btn pbmit-btn-white" href="#">
+										<a class="pbmit-btn pbmit-btn-white" href="ogr-paper.php">
 											<span class="pbmit-button-text">OGR Paper </span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
@@ -44,8 +44,8 @@ include('layouts/header.php'); ?>
 									<h2 class="pbmit-title transform-left transform-delay-2">Wrap Your Rolls <br> the Right Way</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">Eco-friendly wrapping designed to keep rolls fresh, hygienic, and easy to handle.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
-										<a class="pbmit-btn pbmit-btn-white" href="#">
-											<span class="pbmit-button-text">BakeON Paper </span>
+										<a class="pbmit-btn pbmit-btn-white" href="slip-easy-paper.php">
+											<span class="pbmit-button-text">Slip Easy Paper</span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -68,11 +68,38 @@ include('layouts/header.php'); ?>
 							<div class="col-md-9 col-lg-7">
 								<div class="pbmit-slider-content">
 									<h5 class="pbmit-sub-title transform-top transform-delay-1">Fresh & Clean Packaging</h5>
-									<h2 class="pbmit-title transform-left transform-delay-2">Clean Wraps for <br>Fresh Bites</h2>
-									<p class="pbmit-desc transform-left transform-delay-3">Clean and reliable packaging that keeps sandwiches fresh, neat, and well presented.</p>
+									<h2 class="pbmit-title transform-left transform-delay-2">Clean Wraps for <br>Fresh Sandwiches</h2>
+									<p class="pbmit-desc transform-left transform-delay-3">Reliable paper wrapping that keeps sandwiches fresh, neat, and well presented.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
-										<a class="pbmit-btn pbmit-btn-white" href="#">
-											<span class="pbmit-button-text">Contact Us </span>
+										<a class="pbmit-btn pbmit-btn-white" href="bakeon-paper.php">
+											<span class="pbmit-button-text">BakeON Paper</span>
+											<span class="pbmit-button-icon-wrapper">
+												<span class="pbmit-button-icon">
+													<i class="pbmit-base-icon-black-arrow-1"></i>
+												</span>
+											</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Slide4 -->
+			<div class="swiper-slide">
+				<div class="pbmit-slider-item">
+					<div class="pbmit-slider-bg hero-4"></div>
+					<div class="container">
+						<div class="row g-0">
+							<div class="col-md-9 col-lg-7">
+								<div class="pbmit-slider-content">
+									<h5 class="pbmit-sub-title transform-top transform-delay-1">Everyday Food Packaging</h5>
+									<h2 class="pbmit-title transform-left transform-delay-2">Simple Wraps for <br>Daily Meals</h2>
+									<p class="pbmit-desc transform-left transform-delay-3">Lightweight and practical paper for roti, wraps, and everyday food packaging.</p>
+									<div class="pbmit-button transform-bottom transform-delay-4">
+										<a class="pbmit-btn pbmit-btn-white" href="ogr-paper.php">
+											<span class="pbmit-button-text">OGR Paper</span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -498,7 +525,7 @@ pizzerias -->
 									<div class="pbmit-service-image-wrapper">
 										<div class="pbmit-featured-img-wrapper">
 											<div class="pbmit-featured-wrapper">
-												<img src="images/products/Slip Easy Paper.png" class="img-fluid" alt="service-img-01">
+												<img src="images/products/Slip Easy Paper.jpg" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
 										<a class="pbmit-service-btn" href="slip-easy-paper.php" title="Slip Easy Paper">

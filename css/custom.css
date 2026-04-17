@@ -144,6 +144,12 @@
     background-image: url(../images/banners/new-3.png);
 }
 
+.pbmit-slider-bg.hero-4 {
+    background-image: url(../images/banners/new-4.png);
+}
+
+
+
 /* Purchase Option Card */
 .purchase-option-card {
     background: var(--pbmit-white-color);
@@ -915,6 +921,10 @@ body .pbmit-bg-color-global {
         background-image: url(../images/banners/new-mobile-3.png);
     }
 
+    .pbmit-slider-bg.hero-4 {
+        background-image: url(../images/banners/new-mobile-4.png);
+    }
+
     .pbmit-heading-subheading {
         margin-bottom: 0px;
         position: relative;
@@ -950,6 +960,10 @@ body .pbmit-bg-color-global {
         background-image: url(../images/banners/new-3.png);
     }
 
+    .pbmit-slider-bg.hero-4 {
+        background-image: url(../images/banners/new-4.png);
+    }
+
     .pbmit-heading-subheading {
         margin-bottom: 0px;
         position: relative;
@@ -975,6 +989,10 @@ body .pbmit-bg-color-global {
 
     .pbmit-slider-bg.hero-3 {
         background-image: url(../images/banners/new-3.png);
+    }
+
+    .pbmit-slider-bg.hero-4 {
+        background-image: url(../images/banners/new-4.png);
     }
 
     .pbmit-heading-subheading {
@@ -1012,6 +1030,10 @@ body .pbmit-bg-color-global {
         background-image: url(../images/banners/new-3.png);
     }
 
+    .pbmit-slider-bg.hero-4 {
+        background-image: url(../images/banners/new-4.png);
+    }
+
     .pbmit-heading-subheading {
         margin-bottom: 0px;
         position: relative;
@@ -1037,6 +1059,10 @@ body .pbmit-bg-color-global {
 
     .pbmit-slider-bg.hero-3 {
         background-image: url(../images/banners/new-3.png);
+    }
+
+    .pbmit-slider-bg.hero-4 {
+        background-image: url(../images/banners/new-4.png);
     }
 
     .pbmit-heading-subheading {
@@ -1084,6 +1110,10 @@ body .pbmit-bg-color-global {
 
     .pbmit-slider-bg.hero-3 {
         background-image: url(../images/banners/new-3.png);
+    }
+
+    .pbmit-slider-bg.hero-4 {
+        background-image: url(../images/banners/new-4.png);
     }
 
     .pbmit-heading-subheading {
