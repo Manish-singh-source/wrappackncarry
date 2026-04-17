@@ -183,7 +183,7 @@ include('layouts/header.php'); ?>
 							<div class="textwidget">
 								<div class="download">
 									<div class="item-download">
-										<a href="#" target="_blank" rel="noopener noreferrer">
+										<a href="wrap_pack_n_carry_company_profile.pdf" target="_blank" rel="noopener noreferrer">
 											<span class="pbmit-download-content">
 												<i class="pbmit-base-icon-pdf-file-format-symbol-1"></i> Download Pdf File
 											</span>
