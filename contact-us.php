@@ -144,7 +144,7 @@ include('layouts/header.php');
 					<div class="contact-form-area pbmit-bg-color-white">
 						<div class="pbmit-heading-subheading animation-style4">
 							<h4 class="pbmit-subtitle">Get to Contact us</h4>
-							<h2 class="pbmit-title">Have a any Questions? <br> Get in Touch!</h2>
+							<h2 class="pbmit-title">Have any Questions? <br> Get in Touch!</h2>
 						</div>
 						<form class="contact-form" method="post" id="contact-form" action="submit-contact.php">
 							<?php if (isset($_GET['success']) && $_GET['success'] == '1'): ?>
@@ -169,7 +169,7 @@ include('layouts/header.php');
 								<div class="col-md-12">
 									<button class="pbmit-btn pbmit-btn-hover-global">
 										<i class="form-btn-loader fa fa-circle-o-notch fa-spin fa-fw margin-bottom d-none"></i>
-										<span class="pbmit-button-text">Send Massage</span>
+										<span class="pbmit-button-text">Send Message</span>
 										<span class="pbmit-button-icon-wrapper">
 											<span class="pbmit-button-icon">
 												<i class="pbmit-base-icon-black-arrow-1"></i>
