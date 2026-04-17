@@ -52,7 +52,10 @@ include('layouts/header.php');
 								</div>
 							</div>
 							<div class="pbmit-content-wrapper">
-								<div class="pbmit-heading-desc"><a href="https://agrimo-demo.pbminfotech.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="cdbdafa0a4a3aba28daca9a0a4a3e3aea2a0">info@wrappackncarry.com</a> <br> <a href="https://agrimo-demo.pbminfotech.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6e1e0c030f0a0307002e07000801400d0103">info@wrappackncarry.com</a></div>
+								<div class="pbmit-heading-desc">
+									<a href="mailto:info@wrappackncarry.com">info@wrappackncarry.com</a><br>
+									<a href="mailto:info@wrappackncarry.com">info@wrappackncarry.com</a>
+								</div>
 							</div>
 						</div>
 						<div class="pbmit-ihbox-btn">
@@ -145,7 +148,7 @@ include('layouts/header.php');
 						</div>
 						<form class="contact-form" method="post" id="contact-form" action="submit-contact.php">
 							<?php if (isset($_GET['success']) && $_GET['success'] == '1'): ?>
-							<div class="alert alert-success">Thank you! Your message has been sent successfully. We will contact you soon.</div>
+								<div class="alert alert-success">Thank you! Your message has been sent successfully. We will contact you soon.</div>
 							<?php endif; ?>
 							<div class="row">
 								<div class="col-md-6">

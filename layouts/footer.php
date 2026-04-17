@@ -27,11 +27,13 @@
                         </a>
                     </div>
                     <div class="pbmit-footer-box pbmit-footer-box-2">
-                        <a href="#">
+                        <a href="mailto:info@wrappackncarry.com">
                             <span class="pbmit-footer-box-icon">
                                 <i class="pbmit-agrimo-icon pbmit-agrimo-icon-email-1"></i>
                             </span>
-                            <span class="pbmit-footer-box-title"><span class="__cf_email__" data-cfemail="335d5c4156435f4a7343515e5a5d555c4756505b1d505c5e">info@wrappackncarry.com</span></span>
+                            <span class="pbmit-footer-box-title">
+                                info@wrappackncarry.com
+                            </span>
                         </a>
                     </div>
                 </div>
