@@ -192,11 +192,7 @@ include('layouts/header.php');
 					<!-- Slide1 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 1</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/1.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/1.png" class="img-fluid" alt="">
@@ -208,11 +204,7 @@ include('layouts/header.php');
 					<!-- Slide2 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 2</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/2.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/2.png" class="img-fluid" alt="">
@@ -224,11 +216,7 @@ include('layouts/header.php');
 					<!-- Slide3 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 3</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/3.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/3.png" class="img-fluid" alt="">
@@ -240,11 +228,7 @@ include('layouts/header.php');
 					<!-- Slide4 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 4</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/4.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/4.png" class="img-fluid" alt="">
@@ -256,11 +240,7 @@ include('layouts/header.php');
 					<!-- Slide5 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 5</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/5.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/5.png" class="img-fluid" alt="">
@@ -272,11 +252,7 @@ include('layouts/header.php');
 					<!-- Slide6 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 6</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/6.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/6.png" class="img-fluid" alt="">
@@ -288,11 +264,7 @@ include('layouts/header.php');
 					<!-- Slide7 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 7</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/7.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/7.png" class="img-fluid" alt="">
@@ -304,11 +276,7 @@ include('layouts/header.php');
 					<!-- Slide8 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 8</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/8.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/8.png" class="img-fluid" alt="">
@@ -320,11 +288,7 @@ include('layouts/header.php');
 					<!-- Slide9 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 9</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/9.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/9.png" class="img-fluid" alt="">
@@ -336,11 +300,7 @@ include('layouts/header.php');
 					<!-- Slide10 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 10</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/10.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/10.png" class="img-fluid" alt="">
@@ -352,11 +312,7 @@ include('layouts/header.php');
 					<!-- Slide11 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 11</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/11.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/11.png" class="img-fluid" alt="">
@@ -368,11 +324,7 @@ include('layouts/header.php');
 					<!-- Slide12 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 12</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/12.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/12.png" class="img-fluid" alt="">
@@ -384,11 +336,7 @@ include('layouts/header.php');
 					<!-- Slide13 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 13</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/13.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/13.png" class="img-fluid" alt="">
@@ -400,11 +348,7 @@ include('layouts/header.php');
 					<!-- Slide14 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper pbmit-client-with-hover-img">
-								<h4 class="pbmit-hide">Client 14</h4>
-								<div class="pbmit-client-hover-img">
-									<img src="images/clients/14.png" alt="">
-								</div>
+							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/14.png" class="img-fluid" alt="">
