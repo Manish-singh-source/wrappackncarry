@@ -395,6 +395,56 @@ include('layouts/header.php'); ?>
 							<div class="pbmit-heading animation-style2">
 								<h3 class="pbmit-title mb-3">Flexible Packaging Formats</h3>
 							</div>
+							<p>Choose the format that best suits your business needs. We offer multiple packaging options to support different usage and operational requirements.</p>
+							<div class="row">
+								<div class="col-lg-4 mb-4">
+									<div class="purchase-option-card">
+										<h4>Reel</h4>
+										<p>Ideal for continuous wrapping and high-volume usage in food packaging operations.</p>
+										<button class="pbmit-btn enquire-btn" data-format="Reel">
+											<span class="pbmit-button-text">Enquire Now</span>
+											<span class="pbmit-button-icon-wrapper">
+												<span class="pbmit-button-icon">
+													<i class="pbmit-base-icon-black-arrow-1"></i>
+												</span>
+											</span>
+										</button>
+									</div>
+								</div>
+								<div class="col-lg-4 mb-4">
+									<div class="purchase-option-card">
+										<h4>Sheet</h4>
+										<p>Pre-cut sheets suitable for easy handling, quick wrapping, and daily food service use.</p>
+										<button class="pbmit-btn enquire-btn" data-format="Sheet">
+											<span class="pbmit-button-text">Enquire Now</span>
+											<span class="pbmit-button-icon-wrapper">
+												<span class="pbmit-button-icon">
+													<i class="pbmit-base-icon-black-arrow-1"></i>
+												</span>
+											</span>
+										</button>
+									</div>
+								</div>
+								<div class="col-lg-4 mb-4">
+									<div class="purchase-option-card">
+										<h4>Box</h4>
+										<p>Custom packaging boxes designed for safe packing, storage, and delivery purposes.</p>
+										<button class="pbmit-btn enquire-btn" data-format="Box">
+											<span class="pbmit-button-text">Enquire Now</span>
+											<span class="pbmit-button-icon-wrapper">
+												<span class="pbmit-button-icon">
+													<i class="pbmit-base-icon-black-arrow-1"></i>
+												</span>
+											</span>
+										</button>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- <div class="pt-5">
+							<div class="pbmit-heading animation-style2">
+								<h3 class="pbmit-title mb-3">Flexible Packaging Formats</h3>
+							</div>
 							<p>Available in formats suited for different operational needs.</p>
 							<div class="row">
 								<div class="col-lg-4 mb-4">
@@ -440,7 +490,7 @@ include('layouts/header.php'); ?>
 									</div>
 								</div>
 							</div>
-						</div>
+						</div> -->
 						<div class="pt-5">
 							<div class="pbmit-heading animation-style2">
 								<h3 class="pbmit-title mb-3">Why Choose Slip Easy Paper</h3>

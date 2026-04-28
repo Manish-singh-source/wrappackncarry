@@ -761,6 +761,15 @@
     background-attachment: scroll;
 }
 
+.pbmit-title-bar-wrapper.ogr {
+    position: relative;
+    z-index: 1;
+    background-image: url(../images/new-banner/ogr-paper.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+}
 .pbmit-title-bar-wrapper.bakeon {
     position: relative;
     z-index: 1;
@@ -795,6 +804,36 @@
     position: relative;
     z-index: 1;
     background-image: url(../images/new-banner/pizza.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.pbmit-title-bar-wrapper.kraft {
+    position: relative;
+    z-index: 1;
+    background-image: url(../images/new-banner/kraft-paper-bag.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.pbmit-title-bar-wrapper.sachet {
+    position: relative;
+    z-index: 1;
+    background-image: url(../images/new-banner/sachet-paper.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.pbmit-title-bar-wrapper.tableware {
+    position: relative;
+    z-index: 1;
+    background-image: url(../images/new-banner/tablewear.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
