@@ -98,107 +98,6 @@ include('layouts/header.php'); ?>
 	}
 </style>
 
-<style>
-	.coming-soon {
-		position: relative;
-		min-height: 100vh;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		padding: 40px 20px;
-		background: #E3DBBB;
-		font-family: "Inter", sans-serif;
-		overflow: hidden;
-	}
-
-	.coming-container {
-		position: relative;
-		max-width: 680px;
-		width: 100%;
-		text-align: center;
-		padding: 60px 40px;
-		border-radius: 28px;
-		background: #F8F3E0;
-		backdrop-filter: blur(18px);
-		box-shadow:
-			0 30px 80px rgba(0, 0, 0, 0.12),
-			inset 0 1px 0 rgba(255, 255, 255, 0.9);
-		animation: fadeUp 1s ease;
-	}
-
-	.coming-container h1 {
-		font-size: clamp(42px, 6vw, 72px);
-		font-weight: 800;
-		color: #101412;
-		margin-bottom: 16px;
-		letter-spacing: -0.03em;
-	}
-
-	.subtitle {
-		font-size: 18px;
-		color: rgba(16, 20, 18, 0.65);
-		margin-bottom: 24px;
-	}
-
-	.divider {
-		width: 60px;
-		height: 4px;
-		margin: 20px auto;
-		border-radius: 999px;
-		background: linear-gradient(90deg, #8bd70d, #254e58);
-	}
-
-	.desc {
-		font-size: 15px;
-		color: rgba(16, 20, 18, 0.6);
-		margin-bottom: 30px;
-	}
-
-	.back-btn {
-		display: inline-block;
-		padding: 12px 26px;
-		border-radius: 999px;
-		background: #101412;
-		color: #fff;
-		font-size: 14px;
-		font-weight: 600;
-		text-decoration: none;
-		transition: 0.3s ease;
-	}
-
-	.back-btn:hover {
-		background: #8bd70d;
-		color: #101412;
-	}
-
-	/* animation */
-	@keyframes fadeUp {
-		from {
-			opacity: 0;
-			transform: translateY(40px);
-		}
-
-		to {
-			opacity: 1;
-			transform: translateY(0);
-		}
-	}
-
-	@media (max-width: 767px) {
-		.coming-container {
-			padding: 40px 24px;
-		}
-
-		.subtitle {
-			font-size: 16px;
-		}
-
-		.desc {
-			font-size: 14px;
-		}
-	}
-</style>
-
 <!-- Title Bar -->
 <div class="pbmit-title-bar-wrapper tableware">
 	<div class="container">
@@ -233,40 +132,8 @@ include('layouts/header.php'); ?>
 </div>
 <!-- Title Bar End-->
 
-<!-- Coming Soon Section  -->
-<section class="coming-soon">
-	<div class="overlay"></div>
-
-	<div class="coming-container">
-		<h1>Coming Soon</h1>
-
-		<p class="subtitle">
-			We’re working on something amazing for our tableware collection.
-		</p>
-
-		<!-- <div class="divider"></div> -->
-
-		<p class="desc">
-			Stay tuned — new designs and premium quality products are on the way.
-		</p>
-
-		<!-- <a href="/" class="back-btn">Back to Home</a> -->
-
-		<div class="pbmit-button transform-bottom transform-delay-4">
-			<a class="pbmit-btn" href="ogr-paper.php">
-				<span class="pbmit-button-text">Back To Home</span>
-				<span class="pbmit-button-icon-wrapper">
-					<span class="pbmit-button-icon">
-						<i class="pbmit-base-icon-black-arrow-1"></i>
-					</span>
-				</span>
-			</a>
-		</div>
-	</div>
-</section>
-
 <!-- Page Content -->
-<div class="page-content d-none">
+<div class="page-content">
 
 	<!-- Service Details -->
 	<section class="site-content service-details">
