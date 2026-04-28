@@ -105,7 +105,7 @@ include('layouts/header.php'); ?>
 			<div class="pbmit-title-bar-content-inner">
 				<div class="pbmit-tbar">
 					<div class="pbmit-tbar-inner container">
-						<h3 class="pbmit-tbar-subtitle"> Product</h3>
+						<h3 class="pbmit-tbar-subtitle"> Products</h3>
 						<h1 class="pbmit-tbar-title"> Pizza Boxes</h1>
 					</div>
 				</div>
@@ -118,7 +118,7 @@ include('layouts/header.php'); ?>
 							<i class="pbmit-base-icon-angle-right"></i>
 						</span>
 						<span>
-							<a title="" href="product.php" class="home"><span>Product</span></a>
+							<a title="" href="product.php" class="home"><span>Products</span></a>
 						</span>
 						<span class="sep">
 							<i class="pbmit-base-icon-angle-right"></i>
