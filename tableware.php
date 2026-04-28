@@ -253,7 +253,7 @@ include('layouts/header.php'); ?>
 		<!-- <a href="/" class="back-btn">Back to Home</a> -->
 
 		<div class="pbmit-button transform-bottom transform-delay-4">
-			<a class="pbmit-btn" href="ogr-paper.php">
+			<a class="pbmit-btn" href="index.php">
 				<span class="pbmit-button-text">Back To Home</span>
 				<span class="pbmit-button-icon-wrapper">
 					<span class="pbmit-button-icon">
