@@ -99,7 +99,7 @@ include('layouts/header.php'); ?>
 </style>
 
 <!-- Title Bar -->
-<div class="pbmit-title-bar-wrapper">
+<div class="pbmit-title-bar-wrapper pizza">
 	<div class="container">
 		<div class="pbmit-title-bar-content">
 			<div class="pbmit-title-bar-content-inner">

@@ -279,7 +279,7 @@
     transform: translateX(-50%);
     width: 60px;
     height: 3px;
-    background: var(--pbmit-secondary-color );
+    background: var(--pbmit-secondary-color);
     border-radius: 2px;
 }
 
@@ -755,6 +755,46 @@
     position: relative;
     z-index: 1;
     background-image: url(../images/banners/about-us-banner.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.pbmit-title-bar-wrapper.bakeon {
+    position: relative;
+    z-index: 1;
+    background-image: url(../images/new-banner/bakeonpaper.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.pbmit-title-bar-wrapper.slip {
+    position: relative;
+    z-index: 1;
+    background-image: url(../images/new-banner/slip-easy-paper.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.pbmit-title-bar-wrapper.mg {
+    position: relative;
+    z-index: 1;
+    background-image: url(../images/new-banner/mg.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.pbmit-title-bar-wrapper.pizza {
+    position: relative;
+    z-index: 1;
+    background-image: url(../images/new-banner/pizza.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
