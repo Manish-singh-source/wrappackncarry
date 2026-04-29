@@ -250,6 +250,12 @@ include('layouts/header.php'); ?>
 											</span>
 											<span class="pbmit-icon-list-text">Strong and durable material</span>
 										</li>
+										<li class="list-group-item">
+											<span class="pbmit-icon-list-icon">
+												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
+											</span>
+											<span class="pbmit-icon-list-text">Heat sealing property</span>
+										</li>
 									</ul>
 								</div>
 								<div class="col-md-6">
@@ -277,6 +283,12 @@ include('layouts/header.php'); ?>
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
 											<span class="pbmit-icon-list-text">Reliable packaging performance</span>
+										</li>
+										<li class="list-group-item">
+											<span class="pbmit-icon-list-icon">
+												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
+											</span>
+											<span class="pbmit-icon-list-text">Idle for high speed feeling station</span>
 										</li>
 									</ul>
 								</div>
