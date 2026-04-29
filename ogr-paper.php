@@ -106,7 +106,7 @@ include('layouts/header.php'); ?>
 				<div class="pbmit-tbar">
 					<div class="pbmit-tbar-inner container">
 						<h3 class="pbmit-tbar-subtitle"> Products</h3>
-						<h1 class="pbmit-tbar-title"> OGR Paper</h1>
+						<h1 class="pbmit-tbar-title">Oil Grease Resistant Paper (OGR)</h1>
 					</div>
 				</div>
 				<div class="pbmit-breadcrumb">
@@ -123,7 +123,7 @@ include('layouts/header.php'); ?>
 						<span class="sep">
 							<i class="pbmit-base-icon-angle-right"></i>
 						</span>
-						<span><span class="post-root post post-post current-item"> OGR Paper</span></span>
+						<span><span class="post-root post post-post current-item"> Oil Grease Resistant Paper (OGR)</span></span>
 					</div>
 				</div>
 			</div>
@@ -214,10 +214,10 @@ include('layouts/header.php'); ?>
 					<div class="pbmit-entry-content">
 						<div class="pbmit-service-content">
 							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">OGR Paper</h3>
+								<h3 class="pbmit-title mb-3">Oil Grease Resistant Paper (OGR)</h3>
 							</div>
 							<p class="pbmit-firstletter">
-								OGR Paper (Oil & Grease Resistant Paper) is specially designed for the food packaging industry. This high-quality paper provides excellent resistance to oil and grease, making it the perfect choice for wrapping greasy and oily food items. Made from premium raw materials, it ensures safe food contact while maintaining the freshness and presentation of your food products. Ideal for quick-service restaurants, food trucks, and takeaway establishments, OGR Paper delivers reliable performance with every use.
+								OGR Paper (Oil Grease Resistant Paper) is specially designed for the food packaging industry. This high-quality paper provides excellent resistance to oil and grease, making it the perfect choice for wrapping greasy and oily food items. Made from premium Virgin materials, it ensures safe food contact while maintaining the freshness and presentation of your food products. Ideal for quick-service restaurants, food trucks, and takeaway establishments, OGR Paper delivers reliable performance with every use.
 							</p>
 							<p>Oil-resistant paper ideal for wrapping greasy food items neatly.</p>
 							<!-- <div class="pbmit-ihbox-line">
@@ -272,7 +272,7 @@ include('layouts/header.php'); ?>
 						</div>
 						<div class="pt-5">
 							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">Advanced Packaging Features</h3>
+								<h3 class="pbmit-title mb-3">Food Wrapping Paper</h3>
 							</div>
 							<p>Designed to deliver clean, safe, and efficient food wrapping solutions for modern food businesses. Our paper ensures better handling, hygiene, and presentation for everyday packaging needs.</p>
 							<div class="row">
@@ -288,7 +288,7 @@ include('layouts/header.php'); ?>
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Smooth texture for easy handling and use</span>
+											<span class="pbmit-icon-list-text">Smooth texture for easy printing & handling </span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
@@ -336,11 +336,11 @@ include('layouts/header.php'); ?>
 						</div>
 						<div class="pt-5">
 							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">Wide Range of Food Applications</h3>
+								<h3 class="pbmit-title mb-3">Wide Range of Food Wrapping</h3>
 							</div>
 							<p>OGR Paper is widely used for wrapping and packing various food items, ensuring clean handling, hygiene, and better presentation for takeaway and serving needs.</p>
 							<div class="row">
-								<div class="col-md-6">
+								<div class="col-md-4">
 									<ul class="list-group list-group-borderless">
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
@@ -357,7 +357,7 @@ include('layouts/header.php'); ?>
 
 									</ul>
 								</div>
-								<div class="col-md-6">
+								<div class="col-md-4">
 									<ul class="list-group list-group-borderless">
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
@@ -373,11 +373,21 @@ include('layouts/header.php'); ?>
 										</li>
 									</ul>
 								</div>
+								<div class="col-md-4">
+									<ul class="list-group list-group-borderless">
+										<li class="list-group-item">
+											<span class="pbmit-icon-list-icon">
+												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
+											</span>
+											<span class="pbmit-icon-list-text">Roti</span>
+										</li>
+									</ul>
+								</div>
 							</div>
 						</div>
 						<div class="pt-5">
 							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">Serving Diverse Food Businesses</h3>
+								<h3 class="pbmit-title mb-3"><span>H</span> <span>O</span> <span>R</span> <span>E</span> <span>C</span> <span>A</span> Businesses</h3>
 							</div>
 							<p>Our packaging solutions are designed to support a wide range of food and retail industries, ensuring practical, hygienic, and efficient packaging for everyday operations.</p>
 							<div class="row">
