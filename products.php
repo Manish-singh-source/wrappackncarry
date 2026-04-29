@@ -131,6 +131,141 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-service-image-wrapper">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
+											<img src="images/products/Kraft Paper Bag.png" class="img-fluid" alt="">
+										</div>
+									</div>
+									<a class="pbmit-service-btn" href="kraft-paper-bag.php" title="Kraft Paper Bag">
+										<span class="pbmit-button-icon-wrapper">
+											<span class="pbmit-button-icon">
+												<i class="pbmit-base-icon-black-arrow-1"></i>
+											</span>
+										</span>
+									</a>
+								</div>
+								<div class="pbmit-box-content-inner">
+									<div class="pbmit-contant-box">
+										<div class="pbmit-serv-cat">
+											<a href="products.php" rel="tag">Packaging Paper</a>
+										</div>
+										<h3 class="pbmit-service-title">
+											<a href="kraft-paper-bag.php">Kraft Paper Bag</a>
+										</h3>
+										<div class="pbmit-service-description">
+											Strong and durable paper bags for takeaway and carrying.
+										</div>
+									</div>
+								</div>
+							</div>
+							<a class="pbmit-service-btn" href="kraft-paper-bag.php" title="Kraft Paper Bag">
+								<span class="pbmit-button-icon-wrapper">
+									<span class="pbmit-button-icon">
+										<i class="pbmit-base-icon-black-arrow-1"></i>
+									</span>
+								</span>
+							</a>
+						</div>
+						<a class="pbmit-link" href="kraft-paper-bag.php"></a>
+					</div>
+				</article>
+			</div>
+			<div class="col-md-4">
+				<article class="pbmit-ele-service pbmit-service-style-1">
+					<div class="pbminfotech-post-item">
+						<div class="pbminfotech-box-content">
+							<div class="pbmit-box-content-wrap">
+								<div class="pbmit-service-image-wrapper">
+									<div class="pbmit-featured-img-wrapper">
+										<div class="pbmit-featured-wrapper">
+											<img src="images/products/Tableware.png" class="img-fluid" alt="">
+										</div>
+									</div>
+									<a class="pbmit-service-btn" href="tableware.php" title="Tableware">
+										<span class="pbmit-button-icon-wrapper">
+											<span class="pbmit-button-icon">
+												<i class="pbmit-base-icon-black-arrow-1"></i>
+											</span>
+										</span>
+									</a>
+								</div>
+								<div class="pbmit-box-content-inner">
+									<div class="pbmit-contant-box">
+										<div class="pbmit-serv-cat">
+											<a href="products.php" rel="tag">Packaging Paper</a>
+										</div>
+										<h3 class="pbmit-service-title">
+											<a href="tableware.php">Tableware</a>
+										</h3>
+										<div class="pbmit-service-description">
+											Eco-friendly tableware for hygienic serving and food presentation.
+										</div>
+									</div>
+								</div>
+							</div>
+							<a class="pbmit-service-btn" href="tableware.php" title="Tableware">
+								<span class="pbmit-button-icon-wrapper">
+									<span class="pbmit-button-icon">
+										<i class="pbmit-base-icon-black-arrow-1"></i>
+									</span>
+								</span>
+							</a>
+						</div>
+						<a class="pbmit-link" href="tableware.php"></a>
+					</div>
+				</article>
+			</div>
+			<div class="col-md-4">
+				<article class="pbmit-ele-service pbmit-service-style-1">
+					<div class="pbminfotech-post-item">
+						<div class="pbminfotech-box-content">
+							<div class="pbmit-box-content-wrap">
+								<div class="pbmit-service-image-wrapper">
+									<div class="pbmit-featured-img-wrapper">
+										<div class="pbmit-featured-wrapper">
+											<img src="images/products/Pizza Boxes.png" class="img-fluid" alt="">
+										</div>
+									</div>
+									<a class="pbmit-service-btn" href="pizza-boxes.php" title="Pizza Boxes">
+										<span class="pbmit-button-icon-wrapper">
+											<span class="pbmit-button-icon">
+												<i class="pbmit-base-icon-black-arrow-1"></i>
+											</span>
+										</span>
+									</a>
+								</div>
+								<div class="pbmit-box-content-inner">
+									<div class="pbmit-contant-box">
+										<div class="pbmit-serv-cat">
+											<a href="products.php" rel="tag">Packaging Paper</a>
+										</div>
+										<h3 class="pbmit-service-title">
+											<a href="pizza-boxes.php">Pizza Boxes</a>
+										</h3>
+										<div class="pbmit-service-description">
+											Strong pizza boxes made for safe packing and delivery.
+										</div>
+									</div>
+								</div>
+							</div>
+							<a class="pbmit-service-btn" href="pizza-boxes.php" title="Pizza Boxes">
+								<span class="pbmit-button-icon-wrapper">
+									<span class="pbmit-button-icon">
+										<i class="pbmit-base-icon-black-arrow-1"></i>
+									</span>
+								</span>
+							</a>
+						</div>
+						<a class="pbmit-link" href="pizza-boxes.php"></a>
+					</div>
+				</article>
+			</div>
+			<div class="col-md-4">
+				<article class="pbmit-ele-service pbmit-service-style-1">
+					<div class="pbminfotech-post-item">
+						<div class="pbminfotech-box-content">
+							<div class="pbmit-box-content-wrap">
+								<div class="pbmit-service-image-wrapper">
+									<div class="pbmit-featured-img-wrapper">
+										<div class="pbmit-featured-wrapper">
 											<img src="images/products/Slip Easy Paper.jpg" class="img-fluid" alt="">
 										</div>
 									</div>
@@ -221,51 +356,6 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-service-image-wrapper">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/products/Kraft Paper Bag.png" class="img-fluid" alt="">
-										</div>
-									</div>
-									<a class="pbmit-service-btn" href="kraft-paper-bag.php" title="Kraft Paper Bag">
-										<span class="pbmit-button-icon-wrapper">
-											<span class="pbmit-button-icon">
-												<i class="pbmit-base-icon-black-arrow-1"></i>
-											</span>
-										</span>
-									</a>
-								</div>
-								<div class="pbmit-box-content-inner">
-									<div class="pbmit-contant-box">
-										<div class="pbmit-serv-cat">
-											<a href="products.php" rel="tag">Packaging Paper</a>
-										</div>
-										<h3 class="pbmit-service-title">
-											<a href="kraft-paper-bag.php">Kraft Paper Bag</a>
-										</h3>
-										<div class="pbmit-service-description">
-											Strong and durable paper bags for takeaway and carrying.
-										</div>
-									</div>
-								</div>
-							</div>
-							<a class="pbmit-service-btn" href="kraft-paper-bag.php" title="Kraft Paper Bag">
-								<span class="pbmit-button-icon-wrapper">
-									<span class="pbmit-button-icon">
-										<i class="pbmit-base-icon-black-arrow-1"></i>
-									</span>
-								</span>
-							</a>
-						</div>
-						<a class="pbmit-link" href="kraft-paper-bag.php"></a>
-					</div>
-				</article>
-			</div>
-			<div class="col-md-4">
-				<article class="pbmit-ele-service pbmit-service-style-1">
-					<div class="pbminfotech-post-item">
-						<div class="pbminfotech-box-content">
-							<div class="pbmit-box-content-wrap">
-								<div class="pbmit-service-image-wrapper">
-									<div class="pbmit-featured-img-wrapper">
-										<div class="pbmit-featured-wrapper">
 											<img src="images/products/Oil Grease Resistant Paper.png" class="img-fluid" alt="">
 										</div>
 									</div>
@@ -300,96 +390,6 @@ include('layouts/header.php'); ?>
 							</a>
 						</div>
 						<a class="pbmit-link" href="mg-poster-bag.php"></a>
-					</div>
-				</article>
-			</div>
-			<div class="col-md-4">
-				<article class="pbmit-ele-service pbmit-service-style-1">
-					<div class="pbminfotech-post-item">
-						<div class="pbminfotech-box-content">
-							<div class="pbmit-box-content-wrap">
-								<div class="pbmit-service-image-wrapper">
-									<div class="pbmit-featured-img-wrapper">
-										<div class="pbmit-featured-wrapper">
-											<img src="images/products/Pizza Boxes.png" class="img-fluid" alt="">
-										</div>
-									</div>
-									<a class="pbmit-service-btn" href="pizza-boxes.php" title="Pizza Boxes">
-										<span class="pbmit-button-icon-wrapper">
-											<span class="pbmit-button-icon">
-												<i class="pbmit-base-icon-black-arrow-1"></i>
-											</span>
-										</span>
-									</a>
-								</div>
-								<div class="pbmit-box-content-inner">
-									<div class="pbmit-contant-box">
-										<div class="pbmit-serv-cat">
-											<a href="products.php" rel="tag">Packaging Paper</a>
-										</div>
-										<h3 class="pbmit-service-title">
-											<a href="pizza-boxes.php">Pizza Boxes</a>
-										</h3>
-										<div class="pbmit-service-description">
-											Strong pizza boxes made for safe packing and delivery.
-										</div>
-									</div>
-								</div>
-							</div>
-							<a class="pbmit-service-btn" href="pizza-boxes.php" title="Pizza Boxes">
-								<span class="pbmit-button-icon-wrapper">
-									<span class="pbmit-button-icon">
-										<i class="pbmit-base-icon-black-arrow-1"></i>
-									</span>
-								</span>
-							</a>
-						</div>
-						<a class="pbmit-link" href="pizza-boxes.php"></a>
-					</div>
-				</article>
-			</div>
-			<div class="col-md-4">
-				<article class="pbmit-ele-service pbmit-service-style-1">
-					<div class="pbminfotech-post-item">
-						<div class="pbminfotech-box-content">
-							<div class="pbmit-box-content-wrap">
-								<div class="pbmit-service-image-wrapper">
-									<div class="pbmit-featured-img-wrapper">
-										<div class="pbmit-featured-wrapper">
-											<img src="images/products/Tableware.png" class="img-fluid" alt="">
-										</div>
-									</div>
-									<a class="pbmit-service-btn" href="tableware.php" title="Tableware">
-										<span class="pbmit-button-icon-wrapper">
-											<span class="pbmit-button-icon">
-												<i class="pbmit-base-icon-black-arrow-1"></i>
-											</span>
-										</span>
-									</a>
-								</div>
-								<div class="pbmit-box-content-inner">
-									<div class="pbmit-contant-box">
-										<div class="pbmit-serv-cat">
-											<a href="products.php" rel="tag">Packaging Paper</a>
-										</div>
-										<h3 class="pbmit-service-title">
-											<a href="tableware.php">Tableware</a>
-										</h3>
-										<div class="pbmit-service-description">
-											Eco-friendly tableware for hygienic serving and food presentation.
-										</div>
-									</div>
-								</div>
-							</div>
-							<a class="pbmit-service-btn" href="tableware.php" title="Tableware">
-								<span class="pbmit-button-icon-wrapper">
-									<span class="pbmit-button-icon">
-										<i class="pbmit-base-icon-black-arrow-1"></i>
-									</span>
-								</span>
-							</a>
-						</div>
-						<a class="pbmit-link" href="tableware.php"></a>
 					</div>
 				</article>
 			</div>
