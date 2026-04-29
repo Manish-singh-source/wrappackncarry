@@ -215,9 +215,12 @@
     top: 0;
     width: 100%;
     height: 100%;
+    padding: 24px 12px;
+    box-sizing: border-box;
     background-color: rgba(30, 35, 40, 0.85);
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
+    overflow-y: auto;
 }
 
 .enquiry-modal.show {
@@ -243,6 +246,12 @@
     padding: 45px;
     width: 92%;
     max-width: 520px;
+    max-height: calc(100vh - 48px);
+    max-height: calc(100dvh - 48px);
+    overflow-y: auto;
+    box-sizing: border-box;
+    scrollbar-gutter: stable;
+    overscroll-behavior: contain;
     position: relative;
     box-shadow: 0 25px 80px rgba(0, 0, 0, 0.35), 0 10px 30px rgba(0, 0, 0, 0.15), inset 0 1px 0 rgba(255, 255, 255, 0.8);
     animation: modalSlideUp 0.4s cubic-bezier(0.16, 1, 0.3, 1);
