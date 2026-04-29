@@ -220,7 +220,7 @@ include('layouts/header.php'); ?>
 						</div>
 						<div class="pt-5">
 							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">Food Baking & Cooling Paper</h3>
+								<h3 class="pbmit-title mb-3">Food Baking & CooKing Paper</h3>
 							</div>
 							<p>Engineered for high-performance baking and food preparation, Baking & Cooking Paper delivers superior heat resistance and non-stick properties for professional kitchen use.</p>
 							<div class="row">
@@ -249,6 +249,12 @@ include('layouts/header.php'); ?>
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
 											<span class="pbmit-icon-list-text">Food-safe and hygienic material</span>
+										</li>
+										<li class="list-group-item">
+											<span class="pbmit-icon-list-icon">
+												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
+											</span>
+											<span class="pbmit-icon-list-text">Slip Easy Baking Paper</span>
 										</li>
 									</ul>
 								</div>
@@ -288,7 +294,7 @@ include('layouts/header.php'); ?>
 							</div>
 							<p>Versatile paper suitable for various baking and food wrapping applications in both commercial and home kitchens.</p>
 							<div class="row">
-								<div class="col-md-6">
+								<div class="col-md-4">
 									<ul class="list-group list-group-borderless">
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
@@ -305,7 +311,7 @@ include('layouts/header.php'); ?>
 
 									</ul>
 								</div>
-								<div class="col-md-6">
+								<div class="col-md-4">
 									<ul class="list-group list-group-borderless">
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
@@ -321,11 +327,21 @@ include('layouts/header.php'); ?>
 										</li>
 									</ul>
 								</div>
+								<div class="col-md-4">
+									<ul class="list-group list-group-borderless">
+										<li class="list-group-item">
+											<span class="pbmit-icon-list-icon">
+												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
+											</span>
+											<span class="pbmit-icon-list-text">Airfryer Paper</span>
+										</li>
+									</ul>
+								</div>
 							</div>
 						</div>
 						<div class="pt-5">
 							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">Serving Diverse Food Businesses</h3>
+								<h3 class="pbmit-title mb-3"><span>H</span> <span>O</span> <span>R</span> <span>E</span> <span>C</span> <span>A</span> Businesses</h3>
 							</div>
 							<p>Designed to meet the demanding needs of professional food businesses, ensuring consistent performance and quality.</p>
 							<div class="row">
@@ -349,6 +365,12 @@ include('layouts/header.php'); ?>
 											</span>
 											<span class="pbmit-icon-list-text">Restaurants</span>
 										</li>
+										<li class="list-group-item">
+											<span class="pbmit-icon-list-icon">
+												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
+											</span>
+											<span class="pbmit-icon-list-text">Home Baker</span>
+										</li>
 									</ul>
 								</div>
 								<div class="col-md-4">
@@ -371,6 +393,12 @@ include('layouts/header.php'); ?>
 											</span>
 											<span class="pbmit-icon-list-text">Hotels</span>
 										</li>
+										<li class="list-group-item">
+											<span class="pbmit-icon-list-icon">
+												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
+											</span>
+											<span class="pbmit-icon-list-text">Fast growing segement Airfryer Uses</span>
+										</li>
 									</ul>
 								</div>
 								<div class="col-md-4">
@@ -386,6 +414,12 @@ include('layouts/header.php'); ?>
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
 											<span class="pbmit-icon-list-text">QSR Chains</span>
+										</li>
+										<li class="list-group-item">
+											<span class="pbmit-icon-list-icon">
+												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
+											</span>
+											<span class="pbmit-icon-list-text">Cake Shop</span>
 										</li>
 									</ul>
 								</div>

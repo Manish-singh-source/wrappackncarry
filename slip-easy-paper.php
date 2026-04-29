@@ -321,6 +321,16 @@ include('layouts/header.php'); ?>
 										</li>
 									</ul>
 								</div>
+								<div class="col-md-4">
+									<ul class="list-group list-group-borderless">
+										<li class="list-group-item">
+											<span class="pbmit-icon-list-icon">
+												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
+											</span>
+											<span class="pbmit-icon-list-text">Air Fires Paper</span>
+										</li>
+									</ul>
+								</div>
 							</div>
 						</div>
 						<div class="pt-5">

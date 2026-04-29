@@ -68,8 +68,8 @@ include('layouts/header.php'); ?>
 							<div class="col-md-9 col-lg-7">
 								<div class="pbmit-slider-content">
 									<h5 class="pbmit-sub-title transform-top transform-delay-1">Fresh & Clean Packaging</h5>
-									<h2 class="pbmit-title transform-left transform-delay-2">Clean Wraps for <br>Fresh Sandwiches</h2>
-									<p class="pbmit-desc transform-left transform-delay-3">Reliable paper wrapping that keeps sandwiches fresh, neat, and well presented.</p>
+									<h2 class="pbmit-title transform-left transform-delay-2">Baking & <br>Cooking Paper</h2>
+									<p class="pbmit-desc transform-left transform-delay-3">Heat Resistant, Non-stick, OvenSafe upto ~ 230°C</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
 										<a class="pbmit-btn pbmit-btn-white" href="baking-and-cooking-paper.php">
 											<span class="pbmit-button-text">Baking & Cooking Paper</span>
@@ -122,7 +122,7 @@ include('layouts/header.php'); ?>
 							<div class="col-md-9 col-lg-7">
 								<div class="pbmit-slider-content">
 									<h5 class="pbmit-sub-title transform-top transform-delay-1">Paratha Packaging</h5>
-									<h2 class="pbmit-title transform-left transform-delay-2">>Fresh & Hygienic <br>Paratha Wrapping</h2>
+									<h2 class="pbmit-title transform-left transform-delay-2">Fresh & Hygienic <br>Paratha Wrapping</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">Specially designed paper to keep parathas warm, fresh, and oil-resistant for better taste and hygiene.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
 										<a class="pbmit-btn pbmit-btn-white" href="baking-and-cooking-paper.php">
