@@ -357,8 +357,14 @@ include('layouts/header.php'); ?>
 							</div>
 							<p>Eco-friendly serving solutions designed for modern food businesses.</p>
 							<div class="row">
-								<div class="col-md-6">
+								<div class="col-md-4">
 									<ul class="list-group list-group-borderless">
+										<li class="list-group-item">
+											<span class="pbmit-icon-list-icon">
+												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
+											</span>
+											<span class="pbmit-icon-list-text">Strong Oil & Water Resistant</span>
+										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
@@ -369,24 +375,24 @@ include('layouts/header.php'); ?>
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Lightweight and practical</span>
-										</li>
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Hygienic for food serving</span>
-										</li>
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
-											</span>
 											<span class="pbmit-icon-list-text">Disposable and convenient</span>
+										</li>
+										<li class="list-group-item">
+											<span class="pbmit-icon-list-icon">
+												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
+											</span>
+											<span class="pbmit-icon-list-text">Lightweight & sturdy Even for dry and Semi liquid food</span>
 										</li>
 									</ul>
 								</div>
-								<div class="col-md-6">
+								<div class="col-md-4">
 									<ul class="list-group list-group-borderless">
+										<li class="list-group-item">
+											<span class="pbmit-icon-list-icon">
+												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
+											</span>
+											<span class="pbmit-icon-list-text">Microwave & Freezer Safe</span>
+										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
@@ -398,6 +404,16 @@ include('layouts/header.php'); ?>
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
 											<span class="pbmit-icon-list-text">Durable and safe</span>
+										</li>
+									</ul>
+								</div>
+								<div class="col-md-4">
+									<ul class="list-group list-group-borderless">
+										<li class="list-group-item">
+											<span class="pbmit-icon-list-icon">
+												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
+											</span>
+											<span class="pbmit-icon-list-text">Hygienic for food serving</span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
@@ -411,47 +427,7 @@ include('layouts/header.php'); ?>
 											</span>
 											<span class="pbmit-icon-list-text">Supports clean presentation</span>
 										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="pt-5">
-							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">Wide Range of Food Applications</h3>
-							</div>
-							<p>Versatile serving solutions for various food service applications.</p>
-							<div class="row">
-								<div class="col-md-6">
-									<ul class="list-group list-group-borderless">
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Plates</span>
-										</li>
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Food serving</span>
-										</li>
-
-									</ul>
-								</div>
-								<div class="col-md-6">
-									<ul class="list-group list-group-borderless">
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Snacks</span>
-										</li>
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Takeaway meals</span>
-										</li>
+										
 									</ul>
 								</div>
 							</div>
@@ -528,56 +504,6 @@ include('layouts/header.php'); ?>
 							<div class="pbmit-heading animation-style2">
 								<h3 class="pbmit-title mb-3">Flexible Packaging Formats</h3>
 							</div>
-							<p>Choose the format that best suits your business needs. We offer multiple packaging options to support different usage and operational requirements.</p>
-							<div class="row">
-								<div class="col-lg-4 mb-4">
-									<div class="purchase-option-card">
-										<h4>Reel</h4>
-										<p>Ideal for continuous wrapping and high-volume usage in food packaging operations.</p>
-										<button class="pbmit-btn enquire-btn" data-format="Reel">
-											<span class="pbmit-button-text">Enquire Now</span>
-											<span class="pbmit-button-icon-wrapper">
-												<span class="pbmit-button-icon">
-													<i class="pbmit-base-icon-black-arrow-1"></i>
-												</span>
-											</span>
-										</button>
-									</div>
-								</div>
-								<div class="col-lg-4 mb-4">
-									<div class="purchase-option-card">
-										<h4>Sheet</h4>
-										<p>Pre-cut sheets suitable for easy handling, quick wrapping, and daily food service use.</p>
-										<button class="pbmit-btn enquire-btn" data-format="Sheet">
-											<span class="pbmit-button-text">Enquire Now</span>
-											<span class="pbmit-button-icon-wrapper">
-												<span class="pbmit-button-icon">
-													<i class="pbmit-base-icon-black-arrow-1"></i>
-												</span>
-											</span>
-										</button>
-									</div>
-								</div>
-								<div class="col-lg-4 mb-4">
-									<div class="purchase-option-card">
-										<h4>Box</h4>
-										<p>Custom packaging boxes designed for safe packing, storage, and delivery purposes.</p>
-										<button class="pbmit-btn enquire-btn" data-format="Box">
-											<span class="pbmit-button-text">Enquire Now</span>
-											<span class="pbmit-button-icon-wrapper">
-												<span class="pbmit-button-icon">
-													<i class="pbmit-base-icon-black-arrow-1"></i>
-												</span>
-											</span>
-										</button>
-									</div>
-								</div>
-							</div>
-						</div>
-						<!-- <div class="pt-5">
-							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">Flexible Packaging Formats</h3>
-							</div>
 							<p>Choose from various tableware options.</p>
 							<div class="row">
 								<div class="col-lg-4 mb-4">
@@ -608,36 +534,8 @@ include('layouts/header.php'); ?>
 										</button>
 									</div>
 								</div>
-								<div class="col-lg-4 mb-4">
-									<div class="purchase-option-card">
-										<h4>Cutlery</h4>
-										<p>Complete cutlery sets.</p>
-										<button class="pbmit-btn enquire-btn" data-format="Cutlery">
-											<span class="pbmit-button-text">Enquire Now</span>
-											<span class="pbmit-button-icon-wrapper">
-												<span class="pbmit-button-icon">
-													<i class="pbmit-base-icon-black-arrow-1"></i>
-												</span>
-											</span>
-										</button>
-									</div>
-								</div>
-								<div class="col-lg-4 mb-4">
-									<div class="purchase-option-card">
-										<h4>Combo</h4>
-										<p>Plate with compartment for sides.</p>
-										<button class="pbmit-btn enquire-btn" data-format="Combo">
-											<span class="pbmit-button-text">Enquire Now</span>
-											<span class="pbmit-button-icon-wrapper">
-												<span class="pbmit-button-icon">
-													<i class="pbmit-base-icon-black-arrow-1"></i>
-												</span>
-											</span>
-										</button>
-									</div>
-								</div>
 							</div>
-						</div> -->
+						</div>
 						<div class="pt-5">
 							<div class="pbmit-heading animation-style2">
 								<h3 class="pbmit-title mb-3">Why Choose Tableware</h3>
