@@ -302,7 +302,12 @@ include('layouts/header.php'); ?>
 											</span>
 											<span class="pbmit-icon-list-text">Baking cups</span>
 										</li>
-
+										<li class="list-group-item">
+											<span class="pbmit-icon-list-icon">
+												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
+											</span>
+											<span class="pbmit-icon-list-text">AirFryer Safe</span>
+										</li>
 									</ul>
 								</div>
 								<div class="col-md-6">
@@ -319,15 +324,11 @@ include('layouts/header.php'); ?>
 											</span>
 											<span class="pbmit-icon-list-text">Snacks & wraps</span>
 										</li>
-									</ul>
-								</div>
-								<div class="col-md-4">
-									<ul class="list-group list-group-borderless">
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Air Fires Paper</span>
+											<span class="pbmit-icon-list-text">Non-Stick Cookware</span>
 										</li>
 									</ul>
 								</div>
@@ -335,7 +336,7 @@ include('layouts/header.php'); ?>
 						</div>
 						<div class="pt-5">
 							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">Serving Diverse Food Businesses</h3>
+								<h3 class="pbmit-title mb-3"><span>H</span> <span>O</span> <span>R</span> <span>E</span> <span>C</span> <span>A</span> Businesses</h3>
 							</div>
 							<p>Trusted by food businesses requiring consistent quality and performance in packaging.</p>
 							<div class="row">
