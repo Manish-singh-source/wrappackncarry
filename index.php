@@ -113,6 +113,33 @@ include('layouts/header.php'); ?>
 					</div>
 				</div>
 			</div>
+			<!-- Slide5 -->
+			<div class="swiper-slide">
+				<div class="pbmit-slider-item">
+					<div class="pbmit-slider-bg hero-5"></div>
+					<div class="container">
+						<div class="row g-0">
+							<div class="col-md-9 col-lg-7">
+								<div class="pbmit-slider-content">
+									<h5 class="pbmit-sub-title transform-top transform-delay-1">Paratha Packaging</h5>
+									<h2 class="pbmit-title transform-left transform-delay-2">>Fresh & Hygienic <br>Paratha Wrapping</h2>
+									<p class="pbmit-desc transform-left transform-delay-3">Specially designed paper to keep parathas warm, fresh, and oil-resistant for better taste and hygiene.</p>
+									<div class="pbmit-button transform-bottom transform-delay-4">
+										<a class="pbmit-btn pbmit-btn-white" href="bakeon-paper.php">
+											<span class="pbmit-button-text">BakeOn Paer</span>
+											<span class="pbmit-button-icon-wrapper">
+												<span class="pbmit-button-icon">
+													<i class="pbmit-base-icon-black-arrow-1"></i>
+												</span>
+											</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>

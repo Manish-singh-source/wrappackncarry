@@ -148,6 +148,10 @@
     background-image: url(../images/banners/new-4.png);
 }
 
+.pbmit-slider-bg.hero-5 {
+    background-image: url(../images/banners/new-5.png);
+}
+
 
 
 /* Purchase Option Card */
@@ -1051,6 +1055,10 @@ body .pbmit-bg-color-global {
     .pbmit-slider-bg.hero-4 {
         background-image: url(../images/banners/new-4.png);
     }
+    
+    .pbmit-slider-bg.hero-5 {
+        background-image: url(../images/banners/new-5.png);
+    }
 
     .pbmit-heading-subheading {
         margin-bottom: 0px;
@@ -1081,6 +1089,10 @@ body .pbmit-bg-color-global {
 
     .pbmit-slider-bg.hero-4 {
         background-image: url(../images/banners/new-4.png);
+    }
+
+    .pbmit-slider-bg.hero-5 {
+        background-image: url(../images/banners/new-5.png);
     }
 
     .pbmit-heading-subheading {
@@ -1122,6 +1134,10 @@ body .pbmit-bg-color-global {
         background-image: url(../images/banners/new-4.png);
     }
 
+    .pbmit-slider-bg.hero-5 {
+        background-image: url(../images/banners/new-5.png);
+    }
+
     .pbmit-heading-subheading {
         margin-bottom: 0px;
         position: relative;
@@ -1151,6 +1167,10 @@ body .pbmit-bg-color-global {
 
     .pbmit-slider-bg.hero-4 {
         background-image: url(../images/banners/new-4.png);
+    }
+
+    .pbmit-slider-bg.hero-5 {
+        background-image: url(../images/banners/new-5.png);
     }
 
     .pbmit-heading-subheading {
@@ -1202,6 +1222,10 @@ body .pbmit-bg-color-global {
 
     .pbmit-slider-bg.hero-4 {
         background-image: url(../images/banners/new-4.png);
+    }
+
+    .pbmit-slider-bg.hero-5 {
+        background-image: url(../images/banners/new-5.png);
     }
 
     .pbmit-heading-subheading {

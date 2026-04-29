@@ -234,7 +234,7 @@ include('layouts/header.php'); ?>
 <!-- Title Bar End-->
 
 <!-- Coming Soon Section  -->
-<section class="coming-soon">
+<section class="coming-soon d-none">
 	<div class="overlay"></div>
 
 	<div class="coming-container">
@@ -266,7 +266,7 @@ include('layouts/header.php'); ?>
 </section>
 
 <!-- Page Content -->
-<div class="page-content d-none">
+<div class="page-content">
 
 	<!-- Service Details -->
 	<section class="site-content service-details">
