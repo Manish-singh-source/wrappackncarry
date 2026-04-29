@@ -41,10 +41,10 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-service-image-wrapper">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/products/OGR Paper.png" class="img-fluid" alt="">
+											<img src="images/products/Oil Grease Resistant Paper.png" class="img-fluid" alt="">
 										</div>
 									</div>
-									<a class="pbmit-service-btn" href="ogr-paper.php" title="OGR Paper">
+									<a class="pbmit-service-btn" href="ogr-paper.php" title="Oil Grease Resistant Paper">
 										<span class="pbmit-button-icon-wrapper">
 											<span class="pbmit-button-icon">
 												<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -58,7 +58,7 @@ include('layouts/header.php'); ?>
 											<a href="products.php" rel="tag">Packaging Paper</a>
 										</div>
 										<h3 class="pbmit-service-title">
-											<a href="ogr-paper.php">OGR Paper</a>
+											<a href="ogr-paper.php">Oil Grease Resistant Paper</a>
 										</h3>
 										<div class="pbmit-service-description">
 											Oil-resistant paper ideal for wrapping greasy food items neatly.
@@ -66,7 +66,7 @@ include('layouts/header.php'); ?>
 									</div>
 								</div>
 							</div>
-							<a class="pbmit-service-btn" href="ogr-paper.php" title="OGR Paper">
+							<a class="pbmit-service-btn" href="ogr-paper.php" title="Oil Grease Resistant Paper">
 								<span class="pbmit-button-icon-wrapper">
 									<span class="pbmit-button-icon">
 										<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -86,10 +86,10 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-service-image-wrapper">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/products/BakeON Paper.png" class="img-fluid" alt="">
+											<img src="images/products/Baking & Cooking Paper.png" class="img-fluid" alt="">
 										</div>
 									</div>
-									<a class="pbmit-service-btn" href="bakeon-paper.php" title="BakeON Paper">
+									<a class="pbmit-service-btn" href="baking-and-cooking-paper.php" title="Baking & Cooking Paper">
 										<span class="pbmit-button-icon-wrapper">
 											<span class="pbmit-button-icon">
 												<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -103,7 +103,7 @@ include('layouts/header.php'); ?>
 											<a href="products.php" rel="tag">Packaging Paper</a>
 										</div>
 										<h3 class="pbmit-service-title">
-											<a href="bakeon-paper.php">BakeON Paper</a>
+											<a href="baking-and-cooking-paper.php">Baking & Cooking Paper</a>
 										</h3>
 										<div class="pbmit-service-description">
 											Reliable paper suitable for baking, packing, and food wrapping.
@@ -111,7 +111,7 @@ include('layouts/header.php'); ?>
 									</div>
 								</div>
 							</div>
-							<a class="pbmit-service-btn" href="bakeon-paper.php" title="BakeON Paper">
+							<a class="pbmit-service-btn" href="baking-and-cooking-paper.php" title="Baking & Cooking Paper">
 								<span class="pbmit-button-icon-wrapper">
 									<span class="pbmit-button-icon">
 										<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -119,7 +119,7 @@ include('layouts/header.php'); ?>
 								</span>
 							</a>
 						</div>
-						<a class="pbmit-link" href="bakeon-paper.php"></a>
+						<a class="pbmit-link" href="baking-and-cooking-paper.php"></a>
 					</div>
 				</article>
 			</div>
@@ -266,7 +266,7 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-service-image-wrapper">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/products/OGR Paper.png" class="img-fluid" alt="">
+											<img src="images/products/Oil Grease Resistant Paper.png" class="img-fluid" alt="">
 										</div>
 									</div>
 									<a class="pbmit-service-btn" href="mg-poster-bag.php" title="MG Poster Bag">

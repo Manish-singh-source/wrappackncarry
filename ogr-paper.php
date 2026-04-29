@@ -1,5 +1,5 @@
 <?php
-$title = "OGR Paper";
+$title = "Oil Grease Resistant Paper";
 include('layouts/header.php'); ?>
 
 
@@ -145,8 +145,8 @@ include('layouts/header.php'); ?>
 							<h2 class="widget-title">Our Products</h2>
 							<div class="all-post-list">
 								<ul>
-									<!-- <li class="post-active"><a href="ogr-paper.php">OGR Paper </a></li> -->
-									<li><a href="bakeon-paper.php"> BakeON Paper </a></li>
+									<!-- <li class="post-active"><a href="ogr-paper.php">Oil Grease Resistant Paper </a></li> -->
+									<li><a href="baking-and-cooking-paper.php"> Baking & Cooking Paper </a></li>
 									<li><a href="slip-easy-paper.php"> Slip Easy Paper </a></li>
 									<li><a href="sachet-paper.php"> Sachet Paper </a></li>
 									<li><a href="kraft-paper-bag.php"> Kraft Paper Bag </a></li>
@@ -209,7 +209,7 @@ include('layouts/header.php'); ?>
 				</div>
 				<div class="col-lg-9 service-left-col">
 					<!-- <div class="pbmit-service-feature-image">
-						<img src="images/products/OGR Paper.png" class="img-fluid w-100" alt="">
+						<img src="images/products/Oil Grease Resistant Paper.png" class="img-fluid w-100" alt="">
 					</div> -->
 					<div class="pbmit-entry-content">
 						<div class="pbmit-service-content">
@@ -217,7 +217,7 @@ include('layouts/header.php'); ?>
 								<h3 class="pbmit-title mb-3">Oil Grease Resistant Paper (OGR)</h3>
 							</div>
 							<p class="pbmit-firstletter">
-								OGR Paper (Oil Grease Resistant Paper) is specially designed for the food packaging industry. This high-quality paper provides excellent resistance to oil and grease, making it the perfect choice for wrapping greasy and oily food items. Made from premium Virgin materials, it ensures safe food contact while maintaining the freshness and presentation of your food products. Ideal for quick-service restaurants, food trucks, and takeaway establishments, OGR Paper delivers reliable performance with every use.
+								Oil Grease Resistant Paper (Oil Grease Resistant Paper) is specially designed for the food packaging industry. This high-quality paper provides excellent resistance to oil and grease, making it the perfect choice for wrapping greasy and oily food items. Made from premium Virgin materials, it ensures safe food contact while maintaining the freshness and presentation of your food products. Ideal for quick-service restaurants, food trucks, and takeaway establishments, Oil Grease Resistant Paper delivers reliable performance with every use.
 							</p>
 							<p>Oil-resistant paper ideal for wrapping greasy food items neatly.</p>
 							<!-- <div class="pbmit-ihbox-line">
@@ -338,7 +338,7 @@ include('layouts/header.php'); ?>
 							<div class="pbmit-heading animation-style2">
 								<h3 class="pbmit-title mb-3">Wide Range of Food Wrapping</h3>
 							</div>
-							<p>OGR Paper is widely used for wrapping and packing various food items, ensuring clean handling, hygiene, and better presentation for takeaway and serving needs.</p>
+							<p>Oil Grease Resistant Paper is widely used for wrapping and packing various food items, ensuring clean handling, hygiene, and better presentation for takeaway and serving needs.</p>
 							<div class="row">
 								<div class="col-md-4">
 									<ul class="list-group list-group-borderless">
@@ -505,9 +505,9 @@ include('layouts/header.php'); ?>
 						</div>
 						<div class="pt-5">
 							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">Why Choose OGR Paper</h3>
+								<h3 class="pbmit-title mb-3">Why Choose Oil Grease Resistant Paper</h3>
 							</div>
-							<p>OGR Paper from <strong>'Wrap Pack N Carry'</strong> stands out as the preferred choice for food packaging professionals. Our commitment to quality ensures that every sheet delivers consistent oil and grease resistance, protecting your food presentation while maintaining structural integrity. The paper's smooth surface allows for clean, professional wrapping that enhances the visual appeal of your products. Being eco-friendly and biodegradable, it aligns with modern sustainable business practices, helping you reduce your environmental footprint while meeting customer expectations for green packaging solutions. With reliable durability and food safety certification, OGR Paper provides peace of mind along with exceptional performance.</p>
+							<p>Oil Grease Resistant Paper from <strong>'Wrap Pack N Carry'</strong> stands out as the preferred choice for food packaging professionals. Our commitment to quality ensures that every sheet delivers consistent oil and grease resistance, protecting your food presentation while maintaining structural integrity. The paper's smooth surface allows for clean, professional wrapping that enhances the visual appeal of your products. Being eco-friendly and biodegradable, it aligns with modern sustainable business practices, helping you reduce your environmental footprint while meeting customer expectations for green packaging solutions. With reliable durability and food safety certification, Oil Grease Resistant Paper provides peace of mind along with exceptional performance.</p>
 						</div>
 						<!-- <div class="pt-5">
 							<div class="pbmit-heading animation-style2">
@@ -620,7 +620,7 @@ include('layouts/header.php'); ?>
 		</div>
 		<!-- <div class="product-format-info">
             <i class="fa-solid fa-box-archive"></i>
-            <span id="modalProductName">OGR Paper</span>
+            <span id="modalProductName">Oil Grease Resistant Paper</span>
             <span class="format-badge" id="modalFormat">Reel</span>
         </div> -->
 		<form class="enquiry-form" id="enquiryForm">
@@ -641,7 +641,7 @@ include('layouts/header.php'); ?>
 			<div class="form-row product-format-row">
 				<div class="form-group form-group-half">
 					<label for="product">Product</label>
-					<input type="text" id="product" name="product" value="OGR Paper" readonly>
+					<input type="text" id="product" name="product" value="Oil Grease Resistant Paper" readonly>
 				</div>
 				<div class="form-group form-group-half">
 					<label for="format">Format</label>

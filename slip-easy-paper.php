@@ -145,8 +145,8 @@ include('layouts/header.php'); ?>
 							<h2 class="widget-title">Our Products</h2>
 							<div class="all-post-list">
 								<ul>
-									<li><a href="ogr-paper.php">OGR Paper </a></li>
-									<li><a href="bakeon-paper.php"> BakeON Paper </a></li>
+									<li><a href="ogr-paper.php">Oil Grease Resistant Paper </a></li>
+									<li><a href="baking-and-cooking-paper.php"> Baking & Cooking Paper </a></li>
 									<!-- <li><a href="slip-easy-paper.php"> Slip Easy Paper </a></li> -->
 									<li><a href="sachet-paper.php"> Sachet Paper </a></li>
 									<li><a href="kraft-paper-bag.php"> Kraft Paper Bag </a></li>
@@ -516,7 +516,7 @@ include('layouts/header.php'); ?>
 		</div>
 		<!-- <div class="product-format-info">
             <i class="fa-solid fa-box-archive"></i>
-            <span id="modalProductName">OGR Paper</span>
+            <span id="modalProductName">Oil Grease Resistant Paper</span>
             <span class="format-badge" id="modalFormat">Reel</span>
         </div> -->
 		<form class="enquiry-form" id="enquiryForm">

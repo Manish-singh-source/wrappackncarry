@@ -95,8 +95,8 @@
                         <h2 class="widget-title">Our Product</h2>
                         <div class="textwidget">
                             <ul>
-                                <li><a href="#">OGR Paper</a></li>
-                                <li><a href="#">BakeON Paper</a></li>
+                                <li><a href="#">Oil Grease Resistant Paper</a></li>
+                                <li><a href="#">Baking & Cooking Paper</a></li>
                                 <li><a href="#">Slip Easy Paper</a></li>
                                 <li><a href="#">Sachet Paper</a></li>
                             </ul>

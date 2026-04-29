@@ -18,7 +18,7 @@ include('layouts/header.php'); ?>
 									<p class="pbmit-desc transform-left transform-delay-3">Keeps burgers fresh, secure, and ready for takeaway and delivery.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
 										<a class="pbmit-btn pbmit-btn-white" href="ogr-paper.php">
-											<span class="pbmit-button-text">OGR Paper </span>
+											<span class="pbmit-button-text">Oil Grease Resistant Paper </span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -71,8 +71,8 @@ include('layouts/header.php'); ?>
 									<h2 class="pbmit-title transform-left transform-delay-2">Clean Wraps for <br>Fresh Sandwiches</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">Reliable paper wrapping that keeps sandwiches fresh, neat, and well presented.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
-										<a class="pbmit-btn pbmit-btn-white" href="bakeon-paper.php">
-											<span class="pbmit-button-text">BakeON Paper</span>
+										<a class="pbmit-btn pbmit-btn-white" href="baking-and-cooking-paper.php">
+											<span class="pbmit-button-text">Baking & Cooking Paper</span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -99,7 +99,7 @@ include('layouts/header.php'); ?>
 									<p class="pbmit-desc transform-left transform-delay-3">Lightweight and practical paper for roti, wraps, and everyday food packaging.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
 										<a class="pbmit-btn pbmit-btn-white" href="ogr-paper.php">
-											<span class="pbmit-button-text">OGR Paper</span>
+											<span class="pbmit-button-text">Oil Grease Resistant Paper</span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -125,8 +125,8 @@ include('layouts/header.php'); ?>
 									<h2 class="pbmit-title transform-left transform-delay-2">>Fresh & Hygienic <br>Paratha Wrapping</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">Specially designed paper to keep parathas warm, fresh, and oil-resistant for better taste and hygiene.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
-										<a class="pbmit-btn pbmit-btn-white" href="bakeon-paper.php">
-											<span class="pbmit-button-text">BakeOn Paer</span>
+										<a class="pbmit-btn pbmit-btn-white" href="baking-and-cooking-paper.php">
+											<span class="pbmit-button-text">Baking & Cooking Paper</span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -456,7 +456,7 @@ pizzerias -->
 			</div>
 			<div class="swiper-slider" data-autoplay='{"delay":1000}' data-arrows-class="service-arrow" data-loop="true" data-dots="false" data-arrows="true" data-columns="3" data-margin="30" data-effect="slide">
 				<div class="swiper-wrapper">
-					<!-- Slide1 OGR Paper -->
+					<!-- Slide1 Oil Grease Resistant Paper -->
 					<article class="pbmit-ele-service pbmit-service-style-1 swiper-slide">
 						<div class="pbminfotech-post-item">
 							<div class="pbminfotech-box-content">
@@ -464,10 +464,10 @@ pizzerias -->
 									<div class="pbmit-service-image-wrapper">
 										<div class="pbmit-featured-img-wrapper">
 											<div class="pbmit-featured-wrapper">
-												<img src="images/products/OGR Paper.png" class="img-fluid" alt="service-img-01">
+												<img src="images/products/Oil Grease Resistant Paper.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="ogr-paper.php" title="OGR Paper">
+										<a class="pbmit-service-btn" href="ogr-paper.php" title="Oil Grease Resistant Paper">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -481,7 +481,7 @@ pizzerias -->
 												<a href="ogr-paper.php" rel="tag">Packaging Paper</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="ogr-paper.php">OGR Paper</a>
+												<a href="ogr-paper.php">Oil Grease Resistant Paper</a>
 											</h3>
 											<div class="pbmit-service-description">
 												Oil-resistant paper ideal for wrapping greasy food items neatly.
@@ -500,7 +500,7 @@ pizzerias -->
 							<a class="pbmit-link" href="ogr-paper.php"></a>
 						</div>
 					</article>
-					<!-- Slide2 BakeON Paper -->
+					<!-- Slide2 Baking & Cooking Paper -->
 					<article class="pbmit-ele-service pbmit-service-style-1 swiper-slide">
 						<div class="pbminfotech-post-item">
 							<div class="pbminfotech-box-content">
@@ -508,10 +508,10 @@ pizzerias -->
 									<div class="pbmit-service-image-wrapper">
 										<div class="pbmit-featured-img-wrapper">
 											<div class="pbmit-featured-wrapper">
-												<img src="images/products/BakeON Paper.png" class="img-fluid" alt="service-img-01">
+												<img src="images/products/Baking & Cooking Paper.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="bakeon-paper.php" title="BakeON Paper">
+										<a class="pbmit-service-btn" href="baking-and-cooking-paper.php" title="Baking & Cooking Paper">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -522,10 +522,10 @@ pizzerias -->
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="bakeon-paper.php" rel="tag">Packaging Paper</a>
+												<a href="baking-and-cooking-paper.php" rel="tag">Packaging Paper</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="bakeon-paper.php">BakeON Paper</a>
+												<a href="baking-and-cooking-paper.php">Baking & Cooking Paper</a>
 											</h3>
 											<div class="pbmit-service-description">
 												Reliable paper suitable for baking, packing, and food wrapping.
@@ -533,7 +533,7 @@ pizzerias -->
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="bakeon-paper.php" title="Farming Products">
+								<a class="pbmit-service-btn" href="baking-and-cooking-paper.php" title="Farming Products">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-shopping-cart"></i>
@@ -541,7 +541,7 @@ pizzerias -->
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="bakeon-paper.php"></a>
+							<a class="pbmit-link" href="baking-and-cooking-paper.php"></a>
 						</div>
 					</article>
 					<!-- Slide3 Slip Easy Paper -->

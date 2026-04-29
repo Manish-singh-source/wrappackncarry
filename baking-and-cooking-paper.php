@@ -1,5 +1,5 @@
 <?php
-$title = "BakeON Paper";
+$title = "Baking & Cooking Paper";
 include('layouts/header.php'); ?>
 
 
@@ -106,7 +106,7 @@ include('layouts/header.php'); ?>
 				<div class="pbmit-tbar">
 					<div class="pbmit-tbar-inner container">
 						<h3 class="pbmit-tbar-subtitle"> Products</h3>
-						<h1 class="pbmit-tbar-title"> BakeON Paper</h1>
+						<h1 class="pbmit-tbar-title"> Baking & Cooking Paper</h1>
 					</div>
 				</div>
 				<div class="pbmit-breadcrumb">
@@ -123,7 +123,7 @@ include('layouts/header.php'); ?>
 						<span class="sep">
 							<i class="pbmit-base-icon-angle-right"></i>
 						</span>
-						<span><span class="post-root post post-post current-item"> BakeON Paper</span></span>
+						<span><span class="post-root post post-post current-item"> Baking & Cooking Paper</span></span>
 					</div>
 				</div>
 			</div>
@@ -145,8 +145,8 @@ include('layouts/header.php'); ?>
 							<h2 class="widget-title">Our Products</h2>
 							<div class="all-post-list">
 								<ul>
-									<li><a href="ogr-paper.php">OGR Paper </a></li>
-									<!-- <li><a href="bakeon-paper.php"> BakeON Paper </a></li> -->
+									<li><a href="ogr-paper.php">Oil Grease Resistant Paper </a></li>
+									<!-- <li><a href="baking-and-cooking-paper.php"> Baking & Cooking Paper </a></li> -->
 									<li><a href="slip-easy-paper.php"> Slip Easy Paper </a></li>
 									<li><a href="sachet-paper.php"> Sachet Paper </a></li>
 									<li><a href="kraft-paper-bag.php"> Kraft Paper Bag </a></li>
@@ -211,18 +211,18 @@ include('layouts/header.php'); ?>
 					<div class="pbmit-entry-content">
 						<div class="pbmit-service-content">
 							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">BakeON Paper</h3>
+								<h3 class="pbmit-title mb-3">Baking & Cooking Paper</h3>
 							</div>
 							<p class="pbmit-firstletter">
-								BakeON Paper is a premium baking and wrapping paper designed for high-performance kitchen use. It offers excellent heat resistance up to 230°C and can be reused multiple times, making it ideal for baking cookies, cakes, and other food items. With its non-stick surface and hygienic properties, it ensures clean and effortless food handling.Perfect for bakeries, cafes, and commercial kitchens, BakeON Paper enhances efficiency and convenience in food preparation.
+								Baking & Cooking Paper is a premium baking and wrapping paper designed for high-performance kitchen use. It offers excellent heat resistance up to 230°C and can be reused multiple times, making it ideal for baking cookies, cakes, and other food items. With its non-stick surface and hygienic properties, it ensures clean and effortless food handling.Perfect for bakeries, cafes, and commercial kitchens, Baking & Cooking Paper enhances efficiency and convenience in food preparation.
 							</p>
 							<p>Reliable paper suitable for baking, packing, and food wrapping.</p>
 						</div>
 						<div class="pt-5">
 							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">Advanced Packaging Features</h3>
+								<h3 class="pbmit-title mb-3">Food Baking & Cooling Paper</h3>
 							</div>
-							<p>Engineered for high-performance baking and food preparation, BakeON Paper delivers superior heat resistance and non-stick properties for professional kitchen use.</p>
+							<p>Engineered for high-performance baking and food preparation, Baking & Cooking Paper delivers superior heat resistance and non-stick properties for professional kitchen use.</p>
 							<div class="row">
 								<div class="col-md-6">
 									<ul class="list-group list-group-borderless">
@@ -493,9 +493,9 @@ include('layouts/header.php'); ?>
 						</div> -->
 						<div class="pt-5">
 							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">Why Choose BakeON Paper</h3>
+								<h3 class="pbmit-title mb-3">Why Choose Baking & Cooking Paper</h3>
 							</div>
-							<p>BakeON Paper from <strong>'Wrap Pack N Carry'</strong> ensures superior baking performance with high heat resistance and non-stick convenience. Its reusable nature and hygienic properties make it a cost-effective and reliable solution for modern kitchens. Designed for efficiency and cleanliness, it enhances both food quality and preparation experience.</p>
+							<p>Baking & Cooking Paper from <strong>'Wrap Pack N Carry'</strong> ensures superior baking performance with high heat resistance and non-stick convenience. Its reusable nature and hygienic properties make it a cost-effective and reliable solution for modern kitchens. Designed for efficiency and cleanliness, it enhances both food quality and preparation experience.</p>
 						</div>
 					</div>
 				</div>
@@ -516,7 +516,7 @@ include('layouts/header.php'); ?>
 		</div>
 		<!-- <div class="product-format-info">
             <i class="fa-solid fa-box-archive"></i>
-            <span id="modalProductName">OGR Paper</span>
+            <span id="modalProductName">Oil Grease Resistant Paper</span>
             <span class="format-badge" id="modalFormat">Reel</span>
         </div> -->
 		<form class="enquiry-form" id="enquiryForm">
@@ -537,7 +537,7 @@ include('layouts/header.php'); ?>
 			<div class="form-row product-format-row">
 				<div class="form-group form-group-half">
 					<label for="product">Product</label>
-					<input type="text" id="product" name="product" value="BakeON Paper" readonly>
+					<input type="text" id="product" name="product" value="Baking & Cooking Paper" readonly>
 				</div>
 				<div class="form-group form-group-half">
 					<label for="format">Format</label>

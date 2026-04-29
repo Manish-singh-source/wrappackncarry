@@ -1,8 +1,8 @@
 <?php
 $products = [
     'ogr-paper' => [
-        'name' => 'OGR Paper',
-        'description' => "OGR Paper (Oil & Grease Resistant Paper) is specially designed for the food packaging industry. This high-quality paper provides excellent resistance to oil and grease, making it the perfect choice for wrapping greasy and oily food items. Made from premium raw materials, it ensures safe food contact while maintaining the freshness and presentation of your food products.\n\nIdeal for quick-service restaurants, food trucks, and takeaway establishments, OGR Paper delivers reliable performance with every use.",
+        'name' => 'Oil Grease Resistant Paper',
+        'description' => "Oil Grease Resistant Paper (Oil & Grease Resistant Paper) is specially designed for the food packaging industry. This high-quality paper provides excellent resistance to oil and grease, making it the perfect choice for wrapping greasy and oily food items. Made from premium raw materials, it ensures safe food contact while maintaining the freshness and presentation of your food products.\n\nIdeal for quick-service restaurants, food trucks, and takeaway establishments, Oil Grease Resistant Paper delivers reliable performance with every use.",
         'short_description' => 'Oil-resistant paper ideal for wrapping greasy food items neatly.',
         'advanced_title' => 'Advanced Packaging Features',
         'advanced_description' => 'Designed to deliver clean, safe, and efficient food wrapping solutions for modern food businesses. Our paper ensures better handling, hygiene, and presentation for everyday packaging needs.',
@@ -17,7 +17,7 @@ $products = [
             'Reliable quality for daily business operations'
         ],
         'food_app_title' => 'Wide Range of Food Applications',
-        'food_app_description' => 'OGR Paper is widely used for wrapping and packing various food items, ensuring clean handling, hygiene, and better presentation for takeaway and serving needs.',
+        'food_app_description' => 'Oil Grease Resistant Paper is widely used for wrapping and packing various food items, ensuring clean handling, hygiene, and better presentation for takeaway and serving needs.',
         'food_applications' => [
             'Burgers',
             'Frankies & rolls',
@@ -44,17 +44,17 @@ $products = [
             ['name' => 'Sheet', 'description' => 'Pre-cut sheets suitable for easy handling, quick wrapping, and daily food service use.'],
             ['name' => 'Box', 'description' => 'Custom packaging boxes designed for safe packing, storage, and delivery purposes.']
         ],
-        'why_choose_title' => 'Why Choose OGR Paper',
-        'why_choose_description' => "OGR Paper from Wrap Pack N Carry stands out as the preferred choice for food packaging professionals. Our commitment to quality ensures that every sheet delivers consistent oil and grease resistance, protecting your food presentation while maintaining structural integrity. The paper's smooth surface allows for clean, professional wrapping that enhances the visual appeal of your products. Being eco-friendly and biodegradable, it aligns with modern sustainable business practices, helping you reduce your environmental footprint while meeting customer expectations for green packaging solutions. With reliable durability and food safety certification, OGR Paper provides peace of mind along with exceptional performance.",
-        'image' => 'images/products/OGR Paper.png'
+        'why_choose_title' => 'Why Choose Oil Grease Resistant Paper',
+        'why_choose_description' => "Oil Grease Resistant Paper from Wrap Pack N Carry stands out as the preferred choice for food packaging professionals. Our commitment to quality ensures that every sheet delivers consistent oil and grease resistance, protecting your food presentation while maintaining structural integrity. The paper's smooth surface allows for clean, professional wrapping that enhances the visual appeal of your products. Being eco-friendly and biodegradable, it aligns with modern sustainable business practices, helping you reduce your environmental footprint while meeting customer expectations for green packaging solutions. With reliable durability and food safety certification, Oil Grease Resistant Paper provides peace of mind along with exceptional performance.",
+        'image' => 'images/products/Oil Grease Resistant Paper.png'
     ],
 
     'bakeon-paper' => [
-        'name' => 'BakeON Paper',
-        'description' => "BakeON Paper is a premium baking and wrapping paper designed for high-performance kitchen use. It offers excellent heat resistance up to 230°C and can be reused multiple times, making it ideal for baking cookies, cakes, and other food items. With its non-stick surface and hygienic properties, it ensures clean and effortless food handling.\n\nPerfect for bakeries, cafes, and commercial kitchens, BakeON Paper enhances efficiency and convenience in food preparation.",
+        'name' => 'Baking & Cooking Paper',
+        'description' => "Baking & Cooking Paper is a premium baking and wrapping paper designed for high-performance kitchen use. It offers excellent heat resistance up to 230°C and can be reused multiple times, making it ideal for baking cookies, cakes, and other food items. With its non-stick surface and hygienic properties, it ensures clean and effortless food handling.\n\nPerfect for bakeries, cafes, and commercial kitchens, Baking & Cooking Paper enhances efficiency and convenience in food preparation.",
         'short_description' => 'Reliable paper suitable for baking, packing, and food wrapping.',
         'advanced_title' => 'Advanced Packaging Features',
-        'advanced_description' => 'Engineered for high-performance baking and food preparation, BakeON Paper delivers superior heat resistance and non-stick properties for professional kitchen use.',
+        'advanced_description' => 'Engineered for high-performance baking and food preparation, Baking & Cooking Paper delivers superior heat resistance and non-stick properties for professional kitchen use.',
         'advanced_features' => [
             'Heat resistant up to 230°C',
             'Non-stick surface for easy release',
@@ -93,9 +93,9 @@ $products = [
             ['name' => 'Sheet', 'description' => 'Ideal for home bakers and small cafes.'],
             ['name' => 'Pack', 'description' => 'Convenient pre-cut packs for daily bakery use.']
         ],
-        'why_choose_title' => 'Why Choose BakeON Paper',
-        'why_choose_description' => "BakeON Paper from Wrap Pack N Carry ensures superior baking performance with high heat resistance and non-stick convenience. Its reusable nature and hygienic properties make it a cost-effective and reliable solution for modern kitchens. Designed for efficiency and cleanliness, it enhances both food quality and preparation experience.",
-        'image' => 'images/products/BakeON Paper.png'
+        'why_choose_title' => 'Why Choose Baking & Cooking Paper',
+        'why_choose_description' => "Baking & Cooking Paper from Wrap Pack N Carry ensures superior baking performance with high heat resistance and non-stick convenience. Its reusable nature and hygienic properties make it a cost-effective and reliable solution for modern kitchens. Designed for efficiency and cleanliness, it enhances both food quality and preparation experience.",
+        'image' => 'images/products/Baking & Cooking Paper.png'
     ],
 
     'slip-easy-paper' => [

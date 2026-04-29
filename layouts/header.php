@@ -88,8 +88,8 @@
                                                 <li class="dropdown">
                                                     <a href="products.php">Products</a>
                                                     <ul>
-                                                        <li><a href="ogr-paper.php">OGR Paper</a></li>
-                                                        <li><a href="bakeon-paper.php">BakeON Paper</a></li>
+                                                        <li><a href="ogr-paper.php">Oil Grease Resistant Paper</a></li>
+                                                        <li><a href="baking-and-cooking-paper.php">Baking & Cooking Paper</a></li>
                                                         <li><a href="slip-easy-paper.php">Slip Easy Paper</a></li>
                                                         <li><a href="sachet-paper.php">Sachet Paper</a></li>
                                                         <li><a href="kraft-paper-bag.php">Kraft Paper Bag</a></li>
@@ -170,8 +170,8 @@
                                 <label for="headerProduct">Product <span class="required">*</span></label>
                                 <select id="headerProduct" name="product" required>
                                     <option value="">Select Product</option>
-                                    <option value="OGR Paper">OGR Paper</option>
-                                    <option value="BakeON Paper">BakeON Paper</option>
+                                    <option value="Oil Grease Resistant Paper">Oil Grease Resistant Paper</option>
+                                    <option value="Baking & Cooking Paper">Baking & Cooking Paper</option>
                                     <option value="Slip Easy Paper">Slip Easy Paper</option>
                                     <option value="Sachet Paper">Sachet Paper</option>
                                     <option value="Kraft Paper Bag">Kraft Paper Bag</option>
