@@ -90,12 +90,12 @@
                                                     <ul>
                                                         <li><a href="ogr-paper.php">Oil Grease Resistant Paper</a></li>
                                                         <li><a href="baking-and-cooking-paper.php">Baking & Cooking Paper</a></li>
+                                                        <li><a href="kraft-paper-bag.php">Kraft Paper Bag</a></li>
+                                                        <li><a href="tableware.php">Tableware</a></li>
+                                                        <li><a href="pizza-boxes.php">Pizza Boxes</a></li>
                                                         <li><a href="slip-easy-paper.php">Slip Easy Paper</a></li>
                                                         <li><a href="sachet-paper.php">Sachet Paper</a></li>
-                                                        <li><a href="kraft-paper-bag.php">Kraft Paper Bag</a></li>
-                                                        <li><a href="mg-poster-bag.php">MG Poster Bag</a></li>
-                                                        <li><a href="pizza-boxes.php">Pizza Boxes</a></li>
-                                                        <li><a href="tableware.php">Tableware</a></li>
+                                                        <li><a href="mg-poster-bag.php">MG Poster Bag</a></li> 
                                                     </ul>
                                                 </li>
                                                 <li class="dropdown">

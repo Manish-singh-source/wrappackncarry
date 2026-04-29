@@ -220,7 +220,7 @@ include('layouts/header.php'); ?>
 						</div>
 						<div class="pt-5">
 							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">Advanced Packaging Features</h3>
+								<h3 class="pbmit-title mb-3">Food Safe Kraft Paper Bag</h3>
 							</div>
 							<p>Eco-friendly paper bags designed for strength, durability, and sustainable packaging.</p>
 							<div class="row">
@@ -288,47 +288,51 @@ include('layouts/header.php'); ?>
 							</div>
 							<p>Versatile bags suitable for various takeaway and retail applications.</p>
 							<div class="row">
-								<div class="col-md-6">
+								<div class="col-md-4">
 									<ul class="list-group list-group-borderless">
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Takeaway packaging</span>
+											<span class="pbmit-icon-list-text">Shopping Bag</span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Grocery items</span>
+											<span class="pbmit-icon-list-text">Carry Bag</span>
+										</li>
+										<li class="list-group-item">
+											<span class="pbmit-icon-list-icon">
+												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
+											</span>
+											<span class="pbmit-icon-list-text">Retail</span>
 										</li>
 
 									</ul>
 								</div>
-								<div class="col-md-6">
+								<div class="col-md-4">
 									<ul class="list-group list-group-borderless">
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Food carry bags</span>
+											<span class="pbmit-icon-list-text">Grocery & Super Market Chain</span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Retail products</span>
+											<span class="pbmit-icon-list-text">Quick Serving</span>
+										</li>
+										<li class="list-group-item">
+											<span class="pbmit-icon-list-icon">
+												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
+											</span>
+											<span class="pbmit-icon-list-text">Pharma & FMCG Packaging</span>
 										</li>
 									</ul>
 								</div>
-							</div>
-						</div>
-						<div class="pt-5">
-							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">Serving Diverse Food Businesses</h3>
-							</div>
-							<p>Reliable packaging solution for businesses focusing on sustainability.</p>
-							<div class="row">
 								<div class="col-md-4">
 									<ul class="list-group list-group-borderless">
 										<li class="list-group-item">
@@ -341,56 +345,19 @@ include('layouts/header.php'); ?>
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Retail Stores</span>
+											<span class="pbmit-icon-list-text">QSR Chains & Food Delivery</span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Cafes</span>
-										</li>
-									</ul>
-								</div>
-								<div class="col-md-4">
-									<ul class="list-group list-group-borderless">
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Takeaways</span>
-										</li>
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Bakeries</span>
-										</li>
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Supermarkets</span>
-										</li>
-									</ul>
-								</div>
-								<div class="col-md-4">
-									<ul class="list-group list-group-borderless">
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Food Chains</span>
-										</li>
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
-											</span>
-											<span class="pbmit-icon-list-text">QSR Chains</span>
+											<span class="pbmit-icon-list-text">Parcel</span>
 										</li>
 									</ul>
 								</div>
 							</div>
 						</div>
+						
 						<div class="pt-5">
 							<div class="pbmit-heading animation-style2">
 								<h3 class="pbmit-title mb-3">Flexible Packaging Formats</h3>
@@ -402,34 +369,6 @@ include('layouts/header.php'); ?>
 										<h4>Reel</h4>
 										<p>Ideal for continuous wrapping and high-volume usage in food packaging operations.</p>
 										<button class="pbmit-btn enquire-btn" data-format="Reel">
-											<span class="pbmit-button-text">Enquire Now</span>
-											<span class="pbmit-button-icon-wrapper">
-												<span class="pbmit-button-icon">
-													<i class="pbmit-base-icon-black-arrow-1"></i>
-												</span>
-											</span>
-										</button>
-									</div>
-								</div>
-								<div class="col-lg-4 mb-4">
-									<div class="purchase-option-card">
-										<h4>Sheet</h4>
-										<p>Pre-cut sheets suitable for easy handling, quick wrapping, and daily food service use.</p>
-										<button class="pbmit-btn enquire-btn" data-format="Sheet">
-											<span class="pbmit-button-text">Enquire Now</span>
-											<span class="pbmit-button-icon-wrapper">
-												<span class="pbmit-button-icon">
-													<i class="pbmit-base-icon-black-arrow-1"></i>
-												</span>
-											</span>
-										</button>
-									</div>
-								</div>
-								<div class="col-lg-4 mb-4">
-									<div class="purchase-option-card">
-										<h4>Box</h4>
-										<p>Custom packaging boxes designed for safe packing, storage, and delivery purposes.</p>
-										<button class="pbmit-btn enquire-btn" data-format="Box">
 											<span class="pbmit-button-text">Enquire Now</span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
