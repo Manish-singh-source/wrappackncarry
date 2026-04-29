@@ -17,7 +17,7 @@ include('layouts/header.php'); ?>
 									<h2 class="pbmit-title transform-left transform-delay-2">Perfect Wrapping <br>for Every Burger</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">Keeps burgers fresh, secure, and ready for takeaway and delivery.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
-										<a class="pbmit-btn pbmit-btn-white" href="ogr-paper.php">
+										<a class="pbmit-btn pbmit-btn-white" href="oil-grease-resistant-paper.php">
 											<span class="pbmit-button-text">Oil Grease Resistant Paper </span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
@@ -98,7 +98,7 @@ include('layouts/header.php'); ?>
 									<h2 class="pbmit-title transform-left transform-delay-2">Simple Wraps for <br>Daily Meals</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">Lightweight and practical paper for roti, wraps, and everyday food packaging.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
-										<a class="pbmit-btn pbmit-btn-white" href="ogr-paper.php">
+										<a class="pbmit-btn pbmit-btn-white" href="oil-grease-resistant-paper.php">
 											<span class="pbmit-button-text">Oil Grease Resistant Paper</span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
@@ -467,7 +467,7 @@ pizzerias -->
 												<img src="images/products/Oil Grease Resistant Paper.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="ogr-paper.php" title="Oil Grease Resistant Paper">
+										<a class="pbmit-service-btn" href="oil-grease-resistant-paper.php" title="Oil Grease Resistant Paper">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -478,10 +478,10 @@ pizzerias -->
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="ogr-paper.php" rel="tag">Packaging Paper</a>
+												<a href="oil-grease-resistant-paper.php" rel="tag">Packaging Paper</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="ogr-paper.php">Oil Grease Resistant Paper</a>
+												<a href="oil-grease-resistant-paper.php">Oil Grease Resistant Paper</a>
 											</h3>
 											<div class="pbmit-service-description">
 												Oil-resistant paper ideal for wrapping greasy food items neatly.
@@ -489,7 +489,7 @@ pizzerias -->
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="ogr-paper.php" title="Harvest Concepts">
+								<a class="pbmit-service-btn" href="oil-grease-resistant-paper.php" title="Harvest Concepts">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-shopping-cart"></i>
@@ -497,7 +497,7 @@ pizzerias -->
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="ogr-paper.php"></a>
+							<a class="pbmit-link" href="oil-grease-resistant-paper.php"></a>
 						</div>
 					</article>
 					<!-- Slide2 Baking & Cooking Paper -->

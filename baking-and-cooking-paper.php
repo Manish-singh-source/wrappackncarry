@@ -145,7 +145,7 @@ include('layouts/header.php'); ?>
 							<h2 class="widget-title">Our Products</h2>
 							<div class="all-post-list">
 								<ul>
-									<li><a href="ogr-paper.php">Oil Grease Resistant Paper </a></li>
+									<li><a href="oil-grease-resistant-paper.php">Oil Grease Resistant Paper </a></li>
 									<!-- <li><a href="baking-and-cooking-paper.php"> Baking & Cooking Paper </a></li> -->
 									<li><a href="slip-easy-paper.php"> Slip Easy Paper </a></li>
 									<li><a href="sachet-paper.php"> Sachet Paper </a></li>

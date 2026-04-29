@@ -145,7 +145,7 @@ include('layouts/header.php'); ?>
 							<h2 class="widget-title">Our Products</h2>
 							<div class="all-post-list">
 								<ul>
-									<!-- <li class="post-active"><a href="ogr-paper.php">Oil Grease Resistant Paper </a></li> -->
+									<!-- <li class="post-active"><a href="oil-grease-resistant-paper.php">Oil Grease Resistant Paper </a></li> -->
 									<li><a href="baking-and-cooking-paper.php"> Baking & Cooking Paper </a></li>
 									<li><a href="slip-easy-paper.php"> Slip Easy Paper </a></li>
 									<li><a href="sachet-paper.php"> Sachet Paper </a></li>
@@ -387,7 +387,7 @@ include('layouts/header.php'); ?>
 						</div>
 						<div class="pt-5">
 							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">	 Businesses</h3>
+								<h3 class="pbmit-title mb-3"><span>H</span> <span>O</span> <span>R</span> <span>E</span> <span>C</span> <span>A</span> Businesses</h3>
 							</div>
 							<p>Our packaging solutions are designed to support a wide range of food and retail industries, ensuring practical, hygienic, and efficient packaging for everyday operations.</p>
 							<div class="row">

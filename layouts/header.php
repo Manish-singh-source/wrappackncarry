@@ -88,7 +88,7 @@
                                                 <li class="dropdown">
                                                     <a href="products.php">Products</a>
                                                     <ul>
-                                                        <li><a href="ogr-paper.php">Oil Grease Resistant Paper</a></li>
+                                                        <li><a href="oil-grease-resistant-paper.php">Oil Grease Resistant Paper</a></li>
                                                         <li><a href="baking-and-cooking-paper.php">Baking & Cooking Paper</a></li>
                                                         <li><a href="kraft-paper-bag.php">Kraft Paper Bag</a></li>
                                                         <li><a href="tableware.php">Tableware</a></li>

@@ -44,7 +44,7 @@ include('layouts/header.php'); ?>
 											<img src="images/products/Oil Grease Resistant Paper.png" class="img-fluid" alt="">
 										</div>
 									</div>
-									<a class="pbmit-service-btn" href="ogr-paper.php" title="Oil Grease Resistant Paper">
+									<a class="pbmit-service-btn" href="oil-grease-resistant-paper.php" title="Oil Grease Resistant Paper">
 										<span class="pbmit-button-icon-wrapper">
 											<span class="pbmit-button-icon">
 												<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -58,7 +58,7 @@ include('layouts/header.php'); ?>
 											<a href="products.php" rel="tag">Packaging Paper</a>
 										</div>
 										<h3 class="pbmit-service-title">
-											<a href="ogr-paper.php">Oil Grease Resistant Paper</a>
+											<a href="oil-grease-resistant-paper.php">Oil Grease Resistant Paper</a>
 										</h3>
 										<div class="pbmit-service-description">
 											Oil-resistant paper ideal for wrapping greasy food items neatly.
@@ -66,7 +66,7 @@ include('layouts/header.php'); ?>
 									</div>
 								</div>
 							</div>
-							<a class="pbmit-service-btn" href="ogr-paper.php" title="Oil Grease Resistant Paper">
+							<a class="pbmit-service-btn" href="oil-grease-resistant-paper.php" title="Oil Grease Resistant Paper">
 								<span class="pbmit-button-icon-wrapper">
 									<span class="pbmit-button-icon">
 										<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -74,7 +74,7 @@ include('layouts/header.php'); ?>
 								</span>
 							</a>
 						</div>
-						<a class="pbmit-link" href="ogr-paper.php"></a>
+						<a class="pbmit-link" href="oil-grease-resistant-paper.php"></a>
 					</div>
 				</article>
 			</div>
