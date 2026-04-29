@@ -36,7 +36,7 @@ include('layouts/header.php'); ?>
 <div class="page-content">
 
 	<!-- Who We Are Start -->
-	<section class="section-lgt">
+	<section class="section-xl">
 		<div class="container">
 			<div class="row g-0">
 				<div class="col-md-12 col-xl-6">
@@ -528,87 +528,6 @@ include('layouts/header.php'); ?>
 		</div>
 	</section> -->
 	<!-- Service End -->
-
-	<!-- Marquee Start -->
-	<section class="section-lg">
-		<div class="container-fluid p-0">
-			<div class="swiper-slider marquee">
-				<div class="swiper-wrapper">
-					<article class="pbmit-marquee-effect-style-1 swiper-slide">
-						<div class="pbmit-tag-wrapper">
-							<h2 class="pbmit-element-title" data-text="Restaurants">
-								Restaurants
-							</h2>
-						</div>
-					</article>
-					<article class="pbmit-marquee-effect-style-1 swiper-slide">
-						<div class="pbmit-tag-wrapper">
-							<h2 class="pbmit-element-title" data-text="Cafes">
-								Cafes
-							</h2>
-						</div>
-					</article>
-					<article class="pbmit-marquee-effect-style-1 swiper-slide">
-						<div class="pbmit-tag-wrapper">
-							<h2 class="pbmit-element-title" data-text="Bakeries">
-								Bakeries
-							</h2>
-						</div>
-					</article>
-					<article class="pbmit-marquee-effect-style-1 swiper-slide">
-						<div class="pbmit-tag-wrapper">
-							<h2 class="pbmit-element-title" data-text="Cloud kitchens">
-								Cloud kitchens
-							</h2>
-						</div>
-					</article>
-					<article class="pbmit-marquee-effect-style-1 swiper-slide">
-						<div class="pbmit-tag-wrapper">
-							<h2 class="pbmit-element-title" data-text="Fast Food">
-								Fast Food
-							</h2>
-						</div>
-					</article>
-					<article class="pbmit-marquee-effect-style-1 swiper-slide">
-						<div class="pbmit-tag-wrapper">
-							<h2 class="pbmit-element-title" data-text="Takeaways">
-								Takeaways
-							</h2>
-						</div>
-					</article>
-					<article class="pbmit-marquee-effect-style-1 swiper-slide">
-						<div class="pbmit-tag-wrapper">
-							<h2 class="pbmit-element-title" data-text="Catering">
-								Catering
-							</h2>
-						</div>
-					</article>
-					<article class="pbmit-marquee-effect-style-1 swiper-slide">
-						<div class="pbmit-tag-wrapper">
-							<h2 class="pbmit-element-title" data-text="Food Trucks">
-								Food Trucks
-							</h2>
-						</div>
-					</article>
-					<article class="pbmit-marquee-effect-style-1 swiper-slide">
-						<div class="pbmit-tag-wrapper">
-							<h2 class="pbmit-element-title" data-text="Hotels">
-								Hotels
-							</h2>
-						</div>
-					</article>
-					<article class="pbmit-marquee-effect-style-1 swiper-slide">
-						<div class="pbmit-tag-wrapper">
-							<h2 class="pbmit-element-title" data-text="Retail">
-								Retail
-							</h2>
-						</div>
-					</article>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- Marquee End -->
 
 	<!-- Static Box Start -->
 	<section class="pbmit-extend-animation pbmit-bg-color-secondary pbmit-text-color-white section-xl pbmit-element-static-box-style-1">
