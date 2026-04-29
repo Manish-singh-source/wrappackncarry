@@ -217,7 +217,7 @@ include('layouts/header.php'); ?>
 								<h3 class="pbmit-title mb-3">Oil Grease Resistant Paper (OGR)</h3>
 							</div>
 							<p class="pbmit-firstletter">
-								Oil Grease Resistant Paper (Oil Grease Resistant Paper) is specially designed for the food packaging industry. This high-quality paper provides excellent resistance to oil and grease, making it the perfect choice for wrapping greasy and oily food items. Made from premium Virgin materials, it ensures safe food contact while maintaining the freshness and presentation of your food products. Ideal for quick-service restaurants, food trucks, and takeaway establishments, Oil Grease Resistant Paper delivers reliable performance with every use.
+								Oil Grease Resistant Paper (OGR) is specially designed for the food packaging industry. This high-quality paper provides excellent resistance to oil and grease, making it the perfect choice for wrapping greasy and oily food items. Made from premium Virgin materials, it ensures safe food contact while maintaining the freshness and presentation of your food products. Ideal for quick-service restaurants, food trucks, and takeaway establishments, Oil Grease Resistant Paper delivers reliable performance with every use.
 							</p>
 							<p>Oil-resistant paper ideal for wrapping greasy food items neatly.</p>
 							<!-- <div class="pbmit-ihbox-line">
