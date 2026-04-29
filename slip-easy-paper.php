@@ -336,7 +336,7 @@ include('layouts/header.php'); ?>
 						</div>
 						<div class="pt-5">
 							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3"><span>H</span> <span>O</span> <span>R</span> <span>E</span> <span>C</span> <span>A</span> Businesses</h3>
+								<h3 class="pbmit-title mb-3">HoReCa Businesses</h3>
 							</div>
 							<p>Trusted by food businesses requiring consistent quality and performance in packaging.</p>
 							<div class="row">
