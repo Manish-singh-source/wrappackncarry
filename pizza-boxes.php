@@ -224,13 +224,13 @@ include('layouts/header.php'); ?>
 							</div>
 							<p>Professional pizza boxes designed for safe delivery and food quality maintenance.</p>
 							<div class="row">
-								<div class="col-md-6">
+								<div class="col-md-4">
 									<ul class="list-group list-group-borderless">
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Strong and durable structure</span>
+											<span class="pbmit-icon-list-text">Strong and durable stackable</span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
@@ -252,7 +252,7 @@ include('layouts/header.php'); ?>
 										</li>
 									</ul>
 								</div>
-								<div class="col-md-6">
+								<div class="col-md-4">
 									<ul class="list-group list-group-borderless">
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
@@ -272,52 +272,27 @@ include('layouts/header.php'); ?>
 											</span>
 											<span class="pbmit-icon-list-text">Available in various sizes</span>
 										</li>
+									</ul>
+								</div>
+								<div class="col-md-4">
+									<ul class="list-group list-group-borderless">
+										<li class="list-group-item">
+											<span class="pbmit-icon-list-icon">
+												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
+											</span>
+											<span class="pbmit-icon-list-text">Good for Oil & Heat Resistant</span>
+										</li>
+										<li class="list-group-item">
+											<span class="pbmit-icon-list-icon">
+												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
+											</span>
+											<span class="pbmit-icon-list-text">Idle for takeaway delivery model</span>
+										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
 											<span class="pbmit-icon-list-text">Reliable packaging solution</span>
-										</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="pt-5">
-							<div class="pbmit-heading animation-style2">
-								<h3 class="pbmit-title mb-3">Wide Range of Food Applications</h3>
-							</div>
-							<p>Designed specifically for pizza and baked food packaging.</p>
-							<div class="row">
-								<div class="col-md-6">
-									<ul class="list-group list-group-borderless">
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Pizza packaging</span>
-										</li>
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Bakery items</span>
-										</li>
-
-									</ul>
-								</div>
-								<div class="col-md-6">
-									<ul class="list-group list-group-borderless">
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Snacks</span>
-										</li>
-										<li class="list-group-item">
-											<span class="pbmit-icon-list-icon">
-												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
-											</span>
-											<span class="pbmit-icon-list-text">Takeaway boxes</span>
 										</li>
 									</ul>
 								</div>
@@ -397,34 +372,6 @@ include('layouts/header.php'); ?>
 							</div>
 							<p>Choose the format that best suits your business needs. We offer multiple packaging options to support different usage and operational requirements.</p>
 							<div class="row">
-								<div class="col-lg-4 mb-4">
-									<div class="purchase-option-card">
-										<h4>Reel</h4>
-										<p>Ideal for continuous wrapping and high-volume usage in food packaging operations.</p>
-										<button class="pbmit-btn enquire-btn" data-format="Reel">
-											<span class="pbmit-button-text">Enquire Now</span>
-											<span class="pbmit-button-icon-wrapper">
-												<span class="pbmit-button-icon">
-													<i class="pbmit-base-icon-black-arrow-1"></i>
-												</span>
-											</span>
-										</button>
-									</div>
-								</div>
-								<div class="col-lg-4 mb-4">
-									<div class="purchase-option-card">
-										<h4>Sheet</h4>
-										<p>Pre-cut sheets suitable for easy handling, quick wrapping, and daily food service use.</p>
-										<button class="pbmit-btn enquire-btn" data-format="Sheet">
-											<span class="pbmit-button-text">Enquire Now</span>
-											<span class="pbmit-button-icon-wrapper">
-												<span class="pbmit-button-icon">
-													<i class="pbmit-base-icon-black-arrow-1"></i>
-												</span>
-											</span>
-										</button>
-									</div>
-								</div>
 								<div class="col-lg-4 mb-4">
 									<div class="purchase-option-card">
 										<h4>Box</h4>
