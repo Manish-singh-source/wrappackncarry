@@ -588,51 +588,7 @@ pizzerias -->
 							<a class="pbmit-link" href="slip-easy-paper.php"></a>
 						</div>
 					</article>
-					<!-- Slide4 Sachet Paper -->
-					<article class="pbmit-ele-service pbmit-service-style-1 swiper-slide">
-						<div class="pbminfotech-post-item">
-							<div class="pbminfotech-box-content">
-								<div class="pbmit-box-content-wrap">
-									<div class="pbmit-service-image-wrapper">
-										<div class="pbmit-featured-img-wrapper">
-											<div class="pbmit-featured-wrapper">
-												<img src="images/products/Sachet Paper.png" class="img-fluid" alt="service-img-01">
-											</div>
-										</div>
-										<a class="pbmit-service-btn" href="sachet-paper.php" title="Sachet Paper">
-											<span class="pbmit-button-icon-wrapper">
-												<span class="pbmit-button-icon">
-													<i class="pbmit-base-icon-shopping-cart"></i>
-												</span>
-											</span>
-										</a>
-									</div>
-									<div class="pbmit-box-content-inner">
-										<div class="pbmit-contant-box">
-											<div class="pbmit-serv-cat">
-												<a href="sachet-paper.php" rel="tag">Packaging Paper</a>
-											</div>
-											<h3 class="pbmit-service-title">
-												<a href="sachet-paper.php">Sachet Paper</a>
-											</h3>
-											<div class="pbmit-service-description">
-												Lightweight packaging paper for small portions and food packs.
-											</div>
-										</div>
-									</div>
-								</div>
-								<a class="pbmit-service-btn" href="sachet-paper.php" title="Sachet Paper">
-									<span class="pbmit-button-icon-wrapper">
-										<span class="pbmit-button-icon">
-											<i class="pbmit-base-icon-shopping-cart"></i>
-										</span>
-									</span>
-								</a>
-							</div>
-							<a class="pbmit-link" href="sachet-paper.php"></a>
-						</div>
-					</article>
-					<!-- Slide5 Kraft Paper Bag -->
+					<!-- Slide4 Kraft Paper Bag -->
 					<article class="pbmit-ele-service pbmit-service-style-1 swiper-slide">
 						<div class="pbminfotech-post-item">
 							<div class="pbminfotech-box-content">
@@ -676,7 +632,7 @@ pizzerias -->
 							<a class="pbmit-link" href="kraft-paper-bag.php"></a>
 						</div>
 					</article>
-					<!-- Slide6 MG Poster Bag -->
+					<!-- Slide5 Tableware -->
 					<article class="pbmit-ele-service pbmit-service-style-1 swiper-slide">
 						<div class="pbminfotech-post-item">
 							<div class="pbminfotech-box-content">
@@ -684,10 +640,10 @@ pizzerias -->
 									<div class="pbmit-service-image-wrapper">
 										<div class="pbmit-featured-img-wrapper">
 											<div class="pbmit-featured-wrapper">
-												<img src="images/products/MG Poster Bag.png" class="img-fluid" alt="service-img-01">
+												<img src="images/products/Tableware.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="mg-poster-bag.php" title="MG Poster Bag">
+										<a class="pbmit-service-btn" href="tableware.php" title="Tableware">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -698,18 +654,18 @@ pizzerias -->
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="mg-poster-bag.php" rel="tag">Packaging Paper</a>
+												<a href="tableware.php" rel="tag">Packaging Paper</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="mg-poster-bag.php">MG Poster Bag</a>
+												<a href="tableware.php">Tableware</a>
 											</h3>
 											<div class="pbmit-service-description">
-												Premium-finish paper bags for stylish and practical packaging.
+												Eco-friendly tableware for hygienic serving and food presentation.
 											</div>
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="mg-poster-bag.php" title="MG Poster Bag">
+								<a class="pbmit-service-btn" href="tableware.php" title="Tableware">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-shopping-cart"></i>
@@ -717,10 +673,10 @@ pizzerias -->
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="mg-poster-bag.php"></a>
+							<a class="pbmit-link" href="tableware.php"></a>
 						</div>
 					</article>
-					<!-- Slide7 Pizza Boxes -->
+					<!-- Slide6 Pizza Boxes -->
 					<article class="pbmit-ele-service pbmit-service-style-1 swiper-slide">
 						<div class="pbminfotech-post-item">
 							<div class="pbminfotech-box-content">
@@ -764,7 +720,7 @@ pizzerias -->
 							<a class="pbmit-link" href="pizza-boxes.php"></a>
 						</div>
 					</article>
-					<!-- Slide8 Tableware -->
+					<!-- Slide7 Sachet Paper -->
 					<article class="pbmit-ele-service pbmit-service-style-1 swiper-slide">
 						<div class="pbminfotech-post-item">
 							<div class="pbminfotech-box-content">
@@ -772,10 +728,10 @@ pizzerias -->
 									<div class="pbmit-service-image-wrapper">
 										<div class="pbmit-featured-img-wrapper">
 											<div class="pbmit-featured-wrapper">
-												<img src="images/products/Tableware.png" class="img-fluid" alt="service-img-01">
+												<img src="images/products/Sachet Paper.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="tableware.php" title="Tableware">
+										<a class="pbmit-service-btn" href="sachet-paper.php" title="Sachet Paper">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -786,18 +742,18 @@ pizzerias -->
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="tableware.php" rel="tag">Packaging Paper</a>
+												<a href="sachet-paper.php" rel="tag">Packaging Paper</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="tableware.php">Tableware</a>
+												<a href="sachet-paper.php">Sachet Paper</a>
 											</h3>
 											<div class="pbmit-service-description">
-												Eco-friendly tableware for hygienic serving and food presentation.
+												Lightweight packaging paper for small portions and food packs.
 											</div>
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="tableware.php" title="Tableware">
+								<a class="pbmit-service-btn" href="sachet-paper.php" title="Sachet Paper">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-shopping-cart"></i>
@@ -805,7 +761,51 @@ pizzerias -->
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="tableware.php"></a>
+							<a class="pbmit-link" href="sachet-paper.php"></a>
+						</div>
+					</article>
+					<!-- Slide8 MG Poster Bag -->
+					<article class="pbmit-ele-service pbmit-service-style-1 swiper-slide">
+						<div class="pbminfotech-post-item">
+							<div class="pbminfotech-box-content">
+								<div class="pbmit-box-content-wrap">
+									<div class="pbmit-service-image-wrapper">
+										<div class="pbmit-featured-img-wrapper">
+											<div class="pbmit-featured-wrapper">
+												<img src="images/products/MG Poster Bag.png" class="img-fluid" alt="service-img-01">
+											</div>
+										</div>
+										<a class="pbmit-service-btn" href="mg-poster-bag.php" title="MG Poster Bag">
+											<span class="pbmit-button-icon-wrapper">
+												<span class="pbmit-button-icon">
+													<i class="pbmit-base-icon-shopping-cart"></i>
+												</span>
+											</span>
+										</a>
+									</div>
+									<div class="pbmit-box-content-inner">
+										<div class="pbmit-contant-box">
+											<div class="pbmit-serv-cat">
+												<a href="mg-poster-bag.php" rel="tag">Packaging Paper</a>
+											</div>
+											<h3 class="pbmit-service-title">
+												<a href="mg-poster-bag.php">MG Poster Bag</a>
+											</h3>
+											<div class="pbmit-service-description">
+												Premium-finish paper bags for stylish and practical packaging.
+											</div>
+										</div>
+									</div>
+								</div>
+								<a class="pbmit-service-btn" href="mg-poster-bag.php" title="MG Poster Bag">
+									<span class="pbmit-button-icon-wrapper">
+										<span class="pbmit-button-icon">
+											<i class="pbmit-base-icon-shopping-cart"></i>
+										</span>
+									</span>
+								</a>
+							</div>
+							<a class="pbmit-link" href="mg-poster-bag.php"></a>
 						</div>
 					</article>
 				</div>

@@ -131,6 +131,51 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-service-image-wrapper">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
+											<img src="images/products/Slip Easy Paper.jpg" class="img-fluid" alt="">
+										</div>
+									</div>
+									<a class="pbmit-service-btn" href="slip-easy-paper.php" title="Slip Easy Paper">
+										<span class="pbmit-button-icon-wrapper">
+											<span class="pbmit-button-icon">
+												<i class="pbmit-base-icon-black-arrow-1"></i>
+											</span>
+										</span>
+									</a>
+								</div>
+								<div class="pbmit-box-content-inner">
+									<div class="pbmit-contant-box">
+										<div class="pbmit-serv-cat">
+											<a href="products.php" rel="tag">Packaging Paper</a>
+										</div>
+										<h3 class="pbmit-service-title">
+											<a href="slip-easy-paper.php">Slip Easy Paper</a>
+										</h3>
+										<div class="pbmit-service-description">
+											Smooth-finish paper designed for easy wrapping and handling.
+										</div>
+									</div>
+								</div>
+							</div>
+							<a class="pbmit-service-btn" href="slip-easy-paper.php" title="Slip Easy Paper">
+								<span class="pbmit-button-icon-wrapper">
+									<span class="pbmit-button-icon">
+										<i class="pbmit-base-icon-black-arrow-1"></i>
+									</span>
+								</span>
+							</a>
+						</div>
+						<a class="pbmit-link" href="slip-easy-paper.php"></a>
+					</div>
+				</article>
+			</div>
+			<div class="col-md-4">
+				<article class="pbmit-ele-service pbmit-service-style-1">
+					<div class="pbminfotech-post-item">
+						<div class="pbminfotech-box-content">
+							<div class="pbmit-box-content-wrap">
+								<div class="pbmit-service-image-wrapper">
+									<div class="pbmit-featured-img-wrapper">
+										<div class="pbmit-featured-wrapper">
 											<img src="images/products/Kraft Paper Bag.png" class="img-fluid" alt="">
 										</div>
 									</div>
@@ -258,51 +303,7 @@ include('layouts/header.php'); ?>
 					</div>
 				</article>
 			</div>
-			<div class="col-md-4">
-				<article class="pbmit-ele-service pbmit-service-style-1">
-					<div class="pbminfotech-post-item">
-						<div class="pbminfotech-box-content">
-							<div class="pbmit-box-content-wrap">
-								<div class="pbmit-service-image-wrapper">
-									<div class="pbmit-featured-img-wrapper">
-										<div class="pbmit-featured-wrapper">
-											<img src="images/products/Slip Easy Paper.jpg" class="img-fluid" alt="">
-										</div>
-									</div>
-									<a class="pbmit-service-btn" href="slip-easy-paper.php" title="Slip Easy Paper">
-										<span class="pbmit-button-icon-wrapper">
-											<span class="pbmit-button-icon">
-												<i class="pbmit-base-icon-black-arrow-1"></i>
-											</span>
-										</span>
-									</a>
-								</div>
-								<div class="pbmit-box-content-inner">
-									<div class="pbmit-contant-box">
-										<div class="pbmit-serv-cat">
-											<a href="products.php" rel="tag">Packaging Paper</a>
-										</div>
-										<h3 class="pbmit-service-title">
-											<a href="slip-easy-paper.php">Slip Easy Paper</a>
-										</h3>
-										<div class="pbmit-service-description">
-											Smooth-finish paper designed for easy wrapping and handling.
-										</div>
-									</div>
-								</div>
-							</div>
-							<a class="pbmit-service-btn" href="slip-easy-paper.php" title="Slip Easy Paper">
-								<span class="pbmit-button-icon-wrapper">
-									<span class="pbmit-button-icon">
-										<i class="pbmit-base-icon-black-arrow-1"></i>
-									</span>
-								</span>
-							</a>
-						</div>
-						<a class="pbmit-link" href="slip-easy-paper.php"></a>
-					</div>
-				</article>
-			</div>
+			
 			<div class="col-md-4">
 				<article class="pbmit-ele-service pbmit-service-style-1">
 					<div class="pbminfotech-post-item">
