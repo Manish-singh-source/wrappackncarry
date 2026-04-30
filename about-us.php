@@ -98,10 +98,10 @@ include('layouts/header.php'); ?>
 									<div class="pbmit-ihbox-headingicon">
 										<div class="pbmit-ihbox-icon">
 											<div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon">
-												<img src="https://cdn-icons-png.flaticon.com/512/4785/4785856.png" alt="">
+												<img src="images/new-banner/Pfas.png" alt="">
 											</div>
 										</div>
-										<h2 class="pbmit-element-title">Food-Safe Quality</h2>
+										<h2 class="pbmit-element-title">PFAS Free</h2>
 										<div class="pbmit-heading-desc">Our packaging keeps food fresh, hygienic, and ready for delivery or takeaway.</div>
 									</div>
 								</div>
@@ -662,8 +662,8 @@ include('layouts/header.php'); ?>
 					</div>
 				</div>
 			</div>
-<div class="pbmit-ihbox-line">
-		<div class="swiper-slider" data-autoplay="true" data-loop="true" data-dots="false" data-arrows="false" data-columns="4" data-margin="0" data-effect="slide" data-pause-on-mouse-enter="true">
+			<div class="pbmit-ihbox-line">
+				<div class="swiper-slider" data-autoplay="true" data-loop="true" data-dots="false" data-arrows="false" data-columns="4" data-margin="0" data-effect="slide" data-pause-on-mouse-enter="true">
 					<div class="swiper-wrapper">
 						<!-- Slide1 -->
 						<article class="pbmit-miconheading-style-9 swiper-slide">
