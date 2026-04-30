@@ -997,46 +997,6 @@ pizzerias -->
 							</div>
 						</div>
 					</article>
-					<!-- Slide6 -->
-					<article class="pbmit-portfolio-style-1 swiper-slide">
-						<div class="pbminfotech-post-content">
-							<div class="pbmit-featured-img-wrapper">
-								<div class="pbmit-featured-wrapper">
-									<img src="images/new-mockup-6.png" class="img-fluid" alt="">
-								</div>
-							</div>
-							<div class="pbminfotech-box-content">
-								<div class="pbminfotech-titlebox">
-									<!-- <div class="pbmit-port-cat">
-												<a href="#" rel="tag">Harvest</a>
-											</div> -->
-									<h3 class="pbmit-portfolio-title">
-										<a href="#">Teabag Packaging</a>
-									</h3>
-								</div>
-							</div>
-						</div>
-					</article>
-					<!-- Slide7 -->
-					<article class="pbmit-portfolio-style-1 swiper-slide">
-						<div class="pbminfotech-post-content">
-							<div class="pbmit-featured-img-wrapper">
-								<div class="pbmit-featured-wrapper">
-									<img src="images/new-mockup-7.png" class="img-fluid" alt="">
-								</div>
-							</div>
-							<div class="pbminfotech-box-content">
-								<div class="pbminfotech-titlebox">
-									<!-- <div class="pbmit-port-cat">
-												<a href="#" rel="tag">Plantation</a>
-											</div> -->
-									<h3 class="pbmit-portfolio-title">
-										<a href="#">Golden Wrap Ribbed</a>
-									</h3>
-								</div>
-							</div>
-						</div>
-					</article>
 					<!-- Slide8 -->
 					<article class="pbmit-portfolio-style-1 swiper-slide">
 						<div class="pbminfotech-post-content">
