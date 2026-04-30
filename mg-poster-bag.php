@@ -354,7 +354,7 @@ include('layouts/header.php'); ?>
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Carry bag, snacks & wrap condimental for takeaways item</span>
+											<span class="pbmit-icon-list-text">Carry bag, snacks & wrap condiment for takeaways item</span>
 										</li>
 										
 									</ul>

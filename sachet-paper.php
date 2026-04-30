@@ -312,7 +312,7 @@ include('layouts/header.php'); ?>
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Spices & powders</span>
+											<span class="pbmit-icon-list-text">Spices & condiment</span>
 										</li>
 
 									</ul>
