@@ -73,7 +73,7 @@ include('layouts/header.php'); ?>
 					<div class="who-we-are-one-content">
 						<div class="pbmit-heading-subheading animation-style4">
 							<h4 class="pbmit-subtitle">who we are</h4>
-							<h2 class="pbmit-title">Packaging That Cares for Nature</h2>
+							<h2 class="pbmit-title">Packaging that cares for nature</h2>
 							<div class="pbmit-heading-desc">
 								<p>At Wrap Pack N Carry, we create food packaging solutions that protect both your food and the environment. Our products are made using nature-conscious materials, ensuring safety, hygiene, and sustainability.</p>
 								<p>Wrap Pack N Carry is supported by <strong> Jagdamba Paper Corporation (JPC India) </strong>, a trusted name in paper and paperboard with more than 20 years of experience in the industry.</p>
