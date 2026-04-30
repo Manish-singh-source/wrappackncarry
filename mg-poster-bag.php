@@ -252,7 +252,7 @@ include('layouts/header.php'); ?>
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Good grease resistance</span>
+											<span class="pbmit-icon-list-text">No grease resistance</span>
 										</li>
 										<li class="list-group-item">
 											<span class="pbmit-icon-list-icon">
