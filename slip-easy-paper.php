@@ -306,7 +306,7 @@ include('layouts/header.php'); ?>
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">AirFryer Safe</span>
+											<span class="pbmit-icon-list-text">Air fryer Safe</span>
 										</li>
 									</ul>
 								</div>

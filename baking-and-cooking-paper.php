@@ -333,7 +333,7 @@ include('layouts/header.php'); ?>
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Airfryer Paper</span>
+											<span class="pbmit-icon-list-text">Air fryer Paper</span>
 										</li>
 									</ul>
 								</div>
@@ -397,7 +397,7 @@ include('layouts/header.php'); ?>
 											<span class="pbmit-icon-list-icon">
 												<i aria-hidden="true" class="pbmit-agrimo-icon pbmit-agrimo-icon-checked"></i>
 											</span>
-											<span class="pbmit-icon-list-text">Fast growing segement Airfryer Uses</span>
+											<span class="pbmit-icon-list-text">Fast growing segement Air fryer Uses</span>
 										</li>
 									</ul>
 								</div>
