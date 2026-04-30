@@ -662,8 +662,8 @@ include('layouts/header.php'); ?>
 					</div>
 				</div>
 			</div>
-			<div class="pbmit-ihbox-line">
-				<div class="swiper-slider" data-autoplay="false" data-loop="true" data-dots="false" data-arrows="false" data-columns="4" data-margin="0" data-effect="slide">
+<div class="pbmit-ihbox-line">
+		<div class="swiper-slider" data-autoplay="true" data-loop="true" data-dots="false" data-arrows="false" data-columns="4" data-margin="0" data-effect="slide" data-pause-on-mouse-enter="true">
 					<div class="swiper-wrapper">
 						<!-- Slide1 -->
 						<article class="pbmit-miconheading-style-9 swiper-slide">
@@ -754,9 +754,9 @@ include('layouts/header.php'); ?>
 									</div>
 									<div class="pbmit-ihbox-contents">
 										<h2 class="pbmit-element-title">
-											Wrap Pack N Carry
+											Certificate of Recognition
 										</h2>
-										<div class="pbmit-heading-desc">Launched Wrap Pack N Carry to deliver practical paper packaging solutions for food and retail businesses.</div>
+										<div class="pbmit-heading-desc">Certified as a Two Star Export House by the Government of India, demonstrating our reliability and capability in global trade.</div>
 									</div>
 								</div>
 							</div>

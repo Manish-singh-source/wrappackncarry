@@ -163,6 +163,17 @@
 					}
 					}
 				});
+				
+				// Pause on hover for swiper slider
+				if ($(this).data('pause-on-mouse-enter') === true) {
+					var slider = this;
+					$(slider).mouseenter(function() {
+						swiper.autoplay.stop();
+					});
+					$(slider).mouseleave(function() {
+						swiper.autoplay.start();
+					});
+				}
 			}
 		x = x + 1;             
 	});
