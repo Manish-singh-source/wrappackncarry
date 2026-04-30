@@ -3,7 +3,7 @@ $title = "Home";
 include('layouts/header.php'); ?>
 
 <div class="pbmit-slider-area pbmit-slider-one">
-	<div class="swiper-slider" data-autoplay="true" data-loop="true" data-dots="true" data-arrows="false" data-columns="1" data-margin="0" data-effect="fade">
+	<div class="swiper-slider" data-autoplay='{"delay":5000,"disableOnInteraction":false}' data-loop="true" data-dots="true" data-arrows="false" data-columns="1" data-margin="0" data-effect="fade">
 		<div class="swiper-wrapper">
 			<!-- Slide1 -->
 			<div class="swiper-slide">
