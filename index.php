@@ -14,8 +14,8 @@ include('layouts/header.php'); ?>
 							<div class="col-md-9 col-lg-7">
 								<div class="pbmit-slider-content">
 									<h5 class="pbmit-sub-title transform-top transform-delay-1">Food-Safe Packaging</h5>
-									<h2 class="pbmit-title transform-left transform-delay-2">Perfect Wrapping <br>for Every Burger</h2>
-									<p class="pbmit-desc transform-left transform-delay-3">Keeps burgers fresh, secure, and ready for takeaway and delivery.</p>
+									<h2 class="pbmit-title transform-left transform-delay-2">Oil Grease <br>Resistant Paper</h2>
+									<p class="pbmit-desc transform-left transform-delay-3">High-quality paper designed to resist oil and grease, keeping food fresh and clean.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
 										<a class="pbmit-btn pbmit-btn-white" href="oil-grease-resistant-paper.php">
 											<span class="pbmit-button-text">Oil Grease Resistant Paper </span>
@@ -41,11 +41,11 @@ include('layouts/header.php'); ?>
 							<div class="col-md-9 col-lg-7">
 								<div class="pbmit-slider-content">
 									<h5 class="pbmit-sub-title transform-top transform-delay-1">Smart Packaging Solutions</h5>
-									<h2 class="pbmit-title transform-left transform-delay-2">Wrap Your Rolls <br> the Right Way</h2>
-									<p class="pbmit-desc transform-left transform-delay-3">Eco-friendly wrapping designed to keep rolls fresh, hygienic, and easy to handle.</p>
+									<h2 class="pbmit-title transform-left transform-delay-2">Baking & <br> Cooking Paper</h2>
+									<p class="pbmit-desc transform-left transform-delay-3">Heat resistant, non-stick, oven safe up to ~230°C.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
-										<a class="pbmit-btn pbmit-btn-white" href="slip-easy-paper.php">
-											<span class="pbmit-button-text">Slip Easy Paper</span>
+										<a class="pbmit-btn pbmit-btn-white" href="baking-and-cooking-paper.php">
+											<span class="pbmit-button-text">Baking & Cooking Paper</span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -67,12 +67,12 @@ include('layouts/header.php'); ?>
 						<div class="row g-0">
 							<div class="col-md-9 col-lg-7">
 								<div class="pbmit-slider-content">
-									<h5 class="pbmit-sub-title transform-top transform-delay-1">Fresh & Clean Packaging</h5>
-									<h2 class="pbmit-title transform-left transform-delay-2">Baking & <br>Cooking Paper</h2>
-									<p class="pbmit-desc transform-left transform-delay-3">Heat Resistant, Non-stick, OvenSafe upto ~ 230°C</p>
+									<h5 class="pbmit-sub-title transform-top transform-delay-1">Eco-Friendly Packaging</h5>
+									<h2 class="pbmit-title transform-left transform-delay-2">Kraft <br>Paper Bag</h2>
+									<p class="pbmit-desc transform-left transform-delay-3">Eco-friendly, high-strength paper bags suitable for all types of packaging needs.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
-										<a class="pbmit-btn pbmit-btn-white" href="baking-and-cooking-paper.php">
-											<span class="pbmit-button-text">Baking & Cooking Paper</span>
+										<a class="pbmit-btn pbmit-btn-white" href="kraft-paper-bag.php">
+											<span class="pbmit-button-text">Kraft Paper Bag</span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -94,12 +94,12 @@ include('layouts/header.php'); ?>
 						<div class="row g-0">
 							<div class="col-md-9 col-lg-7">
 								<div class="pbmit-slider-content">
-									<h5 class="pbmit-sub-title transform-top transform-delay-1">Everyday Food Packaging</h5>
-									<h2 class="pbmit-title transform-left transform-delay-2">Simple Wraps for <br>Daily Meals</h2>
-									<p class="pbmit-desc transform-left transform-delay-3">Lightweight and practical paper for roti, wraps, and everyday food packaging.</p>
+									<h5 class="pbmit-sub-title transform-top transform-delay-1">Sustainable Dining</h5>
+									<h2 class="pbmit-title transform-left transform-delay-2">Eco-Friendly <br>Tableware</h2>
+									<p class="pbmit-desc transform-left transform-delay-3">Eco-friendly tableware designed for sustainable and hygienic food serving.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
-										<a class="pbmit-btn pbmit-btn-white" href="oil-grease-resistant-paper.php">
-											<span class="pbmit-button-text">Oil Grease Resistant Paper</span>
+										<a class="pbmit-btn pbmit-btn-white" href="tableware.php">
+											<span class="pbmit-button-text">Tableware</span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -121,12 +121,12 @@ include('layouts/header.php'); ?>
 						<div class="row g-0">
 							<div class="col-md-9 col-lg-7">
 								<div class="pbmit-slider-content">
-									<h5 class="pbmit-sub-title transform-top transform-delay-1">Paratha Packaging</h5>
-									<h2 class="pbmit-title transform-left transform-delay-2">Fresh & Hygienic <br>Paratha Wrapping</h2>
-									<p class="pbmit-desc transform-left transform-delay-3">Specially designed paper to keep parathas warm, fresh, and oil-resistant for better taste and hygiene.</p>
+									<h5 class="pbmit-sub-title transform-top transform-delay-1">Food Delivery Packaging</h5>
+									<h2 class="pbmit-title transform-left transform-delay-2">Pizza <br> Box</h2>
+									<p class="pbmit-desc transform-left transform-delay-3">Biodegradable corrugated kraft pizza boxes for safe and eco-friendly delivery.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
-										<a class="pbmit-btn pbmit-btn-white" href="baking-and-cooking-paper.php">
-											<span class="pbmit-button-text">Baking & Cooking Paper</span>
+										<a class="pbmit-btn pbmit-btn-white" href="pizza-boxes.php">
+											<span class="pbmit-button-text">Pizza Box</span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
