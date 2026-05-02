@@ -556,8 +556,8 @@ include('layouts/header.php'); ?>
 					<input type="text" id="format" name="format" value="Reel" readonly>
 				</div>
 			</div>
-			<!-- <div class="form-row box-variant-row" style="display: none;">
-				<div class="form-group form-group-half">
+			<div class="form-row box-variant-row mt-2" style="display: none;">
+				<div class="form-group">
 					<label for="variant">Variant</label>
 					<select id="variant" name="variant">
 						<option value="">Select Variant</option>
@@ -565,8 +565,8 @@ include('layouts/header.php'); ?>
 						<option value="200 meter">200 Meter</option>
 					</select>
 				</div>
-			</div> -->
-			<div class="form-row box-variant-row" style="display: none;">
+			</div>
+			<!-- <div class="form-row box-variant-row" style="display: none;">
 				<div class="form-group">
 					<label for="variant">Variant</label>
 					<div class="variant-options" style="display: flex;gap: 10px;flex-wrap: wrap;">
@@ -574,7 +574,7 @@ include('layouts/header.php'); ?>
 						<input type="text" id="variant2" name="variant" value="200 meter" readonly style="flex: 1;min-width: 80px;">
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<div class="platform-links-row" style="display: none;">
 				<div class="platform-links">
 					<!-- <span class="platform-label">Buy from:</span> -->
