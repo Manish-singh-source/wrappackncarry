@@ -505,23 +505,15 @@ include('layouts/header.php'); ?>
 					<input type="text" id="format" name="format" value="Reel" readonly>
 				</div>
 			</div>
-			<!-- <div class="form-row box-variant-row" style="display: none;">
+			<div class="form-row box-variant-row" style="display: none;">
 				<div class="form-group form-group-half">
 					<label for="variant">Variant</label>
 					<select id="variant" name="variant">
 						<option value="">Select Variant</option>
-						<option value="20 meter">20 Meter</option>
-						<option value="200 meter">200 Meter</option>
+						<option value="S">S</option>
+						<option value="M">M</option>
+						<option value="L">L</option>
 					</select>
-				</div>
-			</div> -->
-			<div class="form-row box-variant-row" style="display: none;">
-				<div class="form-group">
-					<label for="variant">Variant</label>
-					<div class="variant-options" style="display: flex;gap: 10px;flex-wrap: wrap;">
-						<input type="text" id="variant" name="variant" value="20 meter" readonly style="flex: 1;min-width: 80px;">
-						<input type="text" id="variant2" name="variant" value="200 meter" readonly style="flex: 1;min-width: 80px;">
-					</div>
 				</div>
 			</div>
 			<div class="platform-links-row" style="display: none;">
