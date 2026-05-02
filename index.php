@@ -1270,7 +1270,7 @@ pizzerias -->
 	<!-- Client Start -->
 	<section class="section-md">
 		<div class="container">
-			<div class="swiper-slider" data-autoplay="true" data-loop="true" data-dots="false" data-arrows="false" data-columns="6" data-margin="30" data-effect="slide">
+			<div class="swiper-slider" data-autoplay="true" data-loop="true" data-dots="false" data-arrows="false" data-columns="5" data-margin="30" data-effect="slide">
 				<div class="swiper-wrapper">
 					<!-- Slide1 -->
 					<article class="pbmit-client-style-1 swiper-slide">
@@ -1278,91 +1278,7 @@ pizzerias -->
 							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/1.png" class="img-fluid" alt="">
-									</div>
-								</div>
-							</div>
-						</div>
-					</article>
-					<!-- Slide2 -->
-					<article class="pbmit-client-style-1 swiper-slide">
-						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper">
-								<div class="pbmit-featured-img-wrapper">
-									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/2.png" class="img-fluid" alt="">
-									</div>
-								</div>
-							</div>
-						</div>
-					</article>
-					<!-- Slide3 -->
-					<article class="pbmit-client-style-1 swiper-slide">
-						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper">
-								<div class="pbmit-featured-img-wrapper">
-									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/3.png" class="img-fluid" alt="">
-									</div>
-								</div>
-							</div>
-						</div>
-					</article>
-					<!-- Slide4 -->
-					<article class="pbmit-client-style-1 swiper-slide">
-						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper">
-								<div class="pbmit-featured-img-wrapper">
-									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/4.png" class="img-fluid" alt="">
-									</div>
-								</div>
-							</div>
-						</div>
-					</article>
-					<!-- Slide5 -->
-					<article class="pbmit-client-style-1 swiper-slide">
-						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper">
-								<div class="pbmit-featured-img-wrapper">
-									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/5.png" class="img-fluid" alt="">
-									</div>
-								</div>
-							</div>
-						</div>
-					</article>
-					<!-- Slide6 -->
-					<article class="pbmit-client-style-1 swiper-slide">
-						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper">
-								<div class="pbmit-featured-img-wrapper">
-									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/6.png" class="img-fluid" alt="">
-									</div>
-								</div>
-							</div>
-						</div>
-					</article>
-					<!-- Slide7 -->
-					<article class="pbmit-client-style-1 swiper-slide">
-						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper">
-								<div class="pbmit-featured-img-wrapper">
-									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/7.png" class="img-fluid" alt="">
-									</div>
-								</div>
-							</div>
-						</div>
-					</article>
-					<!-- Slide8 -->
-					<article class="pbmit-client-style-1 swiper-slide">
-						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper">
-								<div class="pbmit-featured-img-wrapper">
-									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/8.png" class="img-fluid" alt="">
+										<img src="images/clients/padumjee.png" class="img-fluid" alt="">
 									</div>
 								</div>
 							</div>
@@ -1380,49 +1296,13 @@ pizzerias -->
 							</div>
 						</div>
 					</article>
-					<!-- Slide10 -->
+					<!-- Slide3 -->
 					<article class="pbmit-client-style-1 swiper-slide">
 						<div class="pbmit-border-wrapper">
 							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/10.png" class="img-fluid" alt="">
-									</div>
-								</div>
-							</div>
-						</div>
-					</article>
-					<!-- Slide11 -->
-					<article class="pbmit-client-style-1 swiper-slide">
-						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper">
-								<div class="pbmit-featured-img-wrapper">
-									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/11.png" class="img-fluid" alt="">
-									</div>
-								</div>
-							</div>
-						</div>
-					</article>
-					<!-- Slide12 -->
-					<article class="pbmit-client-style-1 swiper-slide">
-						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper">
-								<div class="pbmit-featured-img-wrapper">
-									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/12.png" class="img-fluid" alt="">
-									</div>
-								</div>
-							</div>
-						</div>
-					</article>
-					<!-- Slide13 -->
-					<article class="pbmit-client-style-1 swiper-slide">
-						<div class="pbmit-border-wrapper">
-							<div class="pbmit-client-wrapper">
-								<div class="pbmit-featured-img-wrapper">
-									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/13.png" class="img-fluid" alt="">
+										<img src="images/clients/3.png" class="img-fluid" alt="">
 									</div>
 								</div>
 							</div>
@@ -1435,6 +1315,18 @@ pizzerias -->
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
 										<img src="images/clients/14.png" class="img-fluid" alt="">
+									</div>
+								</div>
+							</div>
+						</div>
+					</article>
+					<!-- Slide14 -->
+					<article class="pbmit-client-style-1 swiper-slide">
+						<div class="pbmit-border-wrapper">
+							<div class="pbmit-client-wrapper">
+								<div class="pbmit-featured-img-wrapper">
+									<div class="pbmit-featured-wrapper">
+										<img src="images/clients/jpc.png" class="img-fluid" alt="">
 									</div>
 								</div>
 							</div>
