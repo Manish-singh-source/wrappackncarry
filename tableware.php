@@ -589,17 +589,18 @@ include('layouts/header.php'); ?>
 					<input type="text" id="format" name="format" value="Reel" readonly>
 				</div>
 			</div>
-			<!-- <div class="form-row box-variant-row" style="display: none;">
-				<div class="form-group form-group-half">
-					<label for="variant">Variant</label>
+			<div class="form-row box-variant-row mt-2" style="display: none;">
+				<div class="form-group">
+					<label for="variant">Pack of dozen</label>
 					<select id="variant" name="variant">
 						<option value="">Select Variant</option>
-						<option value="20 meter">20 Meter</option>
-						<option value="200 meter">200 Meter</option>
+						<option value="Pack of dozen 12">Pack of dozen 12</option>
+						<option value="Pack of dozen 50">Pack of dozen 50</option>
+						<option value="Pack of dozen 100">Pack of dozen 100</option>
 					</select>
 				</div>
-			</div> -->
-			<div class="form-row box-variant-row" style="display: none;">
+			</div>
+			<!-- <div class="form-row box-variant-row" style="display: none;">
 				<div class="form-group">
 					<label for="variant">Variant</label>
 					<div class="variant-options" style="display: flex;gap: 10px;flex-wrap: wrap;">
@@ -607,7 +608,7 @@ include('layouts/header.php'); ?>
 						<input type="text" id="variant2" name="variant" value="200 meter" readonly style="flex: 1;min-width: 80px;">
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<div class="platform-links-row" style="display: none;">
 				<div class="platform-links">
 					<!-- <span class="platform-label">Buy from:</span> -->
@@ -651,23 +652,23 @@ include('layouts/header.php'); ?>
 		const variantRow = document.querySelector('.box-variant-row');
 		const platformRow = document.querySelector('.platform-links-row');
 
-		enquireBtns.forEach(btn => {
-			btn.addEventListener('click', function() {
-				const format = this.getAttribute('data-format');
-				formatInput.value = format;
+        enquireBtns.forEach(btn => {
+            btn.addEventListener('click', function() {
+                const format = this.getAttribute('data-format');
+                formatInput.value = format;
 
-				if (format === 'Box') {
-					variantRow.style.display = 'flex';
-					platformRow.style.display = 'block';
-				} else {
-					variantRow.style.display = 'none';
-					platformRow.style.display = 'none';
-				}
+                if (format === 'Box' || format === 'Plates' || format === 'Bowls') {
+                    variantRow.style.display = 'flex';
+                    platformRow.style.display = 'block';
+                } else {
+                    variantRow.style.display = 'none';
+                    platformRow.style.display = 'none';
+                }
 
-				modal.classList.add('show');
-				document.body.style.overflow = 'hidden';
-			});
-		});
+                modal.classList.add('show');
+                document.body.style.overflow = 'hidden';
+            });
+        });
 
 		if (closeModal) {
 			closeModal.addEventListener('click', function() {
