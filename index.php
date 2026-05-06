@@ -5,6 +5,33 @@ include('layouts/header.php'); ?>
 <div class="pbmit-slider-area pbmit-slider-one">
 	<div class="swiper-slider" data-autoplay='{"delay":5000,"disableOnInteraction":false}' data-loop="true" data-dots="true" data-arrows="false" data-columns="1" data-margin="0" data-effect="fade">
 		<div class="swiper-wrapper">
+			<!-- Slide0 -->
+			<div class="swiper-slide">
+				<div class="pbmit-slider-item">
+					<div class="pbmit-slider-bg hero-0"></div>
+					<div class="container">
+						<div class="row g-0">
+							<div class="col-md-9 col-lg-7">
+								<div class="pbmit-slider-content">
+									<h5 class="pbmit-sub-title transform-top transform-delay-1">Explore Our Products</h5>
+									<h2 class="pbmit-title transform-left transform-delay-2">Our Product <br>Range</h2>
+									<p class="pbmit-desc transform-left transform-delay-3">High-quality packaging solutions for every industry need.</p>
+									<div class="pbmit-button transform-bottom transform-delay-4">
+										<a class="pbmit-btn pbmit-btn-white" href="products.php">
+											<span class="pbmit-button-text">View Product Range </span>
+											<span class="pbmit-button-icon-wrapper">
+												<span class="pbmit-button-icon">
+													<i class="pbmit-base-icon-black-arrow-1"></i>
+												</span>
+											</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 			<!-- Slide1 -->
 			<div class="swiper-slide">
 				<div class="pbmit-slider-item">
@@ -902,7 +929,7 @@ pizzerias -->
 						<div class="pbminfotech-post-content">
 							<div class="pbmit-featured-img-wrapper">
 								<div class="pbmit-featured-wrapper">
-									<img src="images/new-mockup-1.png" class="img-fluid" alt="">
+									<img src="images/portfolio-image/1.png" class="img-fluid" alt="">
 								</div>
 							</div>
 							<div class="pbminfotech-box-content">
@@ -922,7 +949,7 @@ pizzerias -->
 						<div class="pbminfotech-post-content">
 							<div class="pbmit-featured-img-wrapper">
 								<div class="pbmit-featured-wrapper">
-									<img src="images/new-mockup-2.png" class="img-fluid" alt="">
+									<img src="images/portfolio-image/2.png" class="img-fluid" alt="">
 								</div>
 							</div>
 							<div class="pbminfotech-box-content">
@@ -942,7 +969,7 @@ pizzerias -->
 						<div class="pbminfotech-post-content">
 							<div class="pbmit-featured-img-wrapper">
 								<div class="pbmit-featured-wrapper">
-									<img src="images/new-mockup-3.png" class="img-fluid" alt="">
+									<img src="images/portfolio-image/3.png" class="img-fluid" alt="">
 								</div>
 							</div>
 							<div class="pbminfotech-box-content">
@@ -962,7 +989,7 @@ pizzerias -->
 						<div class="pbminfotech-post-content">
 							<div class="pbmit-featured-img-wrapper">
 								<div class="pbmit-featured-wrapper">
-									<img src="images/new-mockup-4.png" class="img-fluid" alt="">
+									<img src="images/portfolio-image/4.png" class="img-fluid" alt="">
 								</div>
 							</div>
 							<div class="pbminfotech-box-content">
@@ -982,7 +1009,7 @@ pizzerias -->
 						<div class="pbminfotech-post-content">
 							<div class="pbmit-featured-img-wrapper">
 								<div class="pbmit-featured-wrapper">
-									<img src="images/new-mockup-5.png" class="img-fluid" alt="">
+									<img src="images/portfolio-image/5.png" class="img-fluid" alt="">
 								</div>
 							</div>
 							<div class="pbminfotech-box-content">
@@ -1002,7 +1029,7 @@ pizzerias -->
 						<div class="pbminfotech-post-content">
 							<div class="pbmit-featured-img-wrapper">
 								<div class="pbmit-featured-wrapper">
-									<img src="images/new-mockup-8.png" class="img-fluid" alt="">
+									<img src="images/portfolio-image/8.png" class="img-fluid" alt="">
 								</div>
 							</div>
 							<div class="pbminfotech-box-content">
@@ -1022,7 +1049,7 @@ pizzerias -->
 						<div class="pbminfotech-post-content">
 							<div class="pbmit-featured-img-wrapper">
 								<div class="pbmit-featured-wrapper">
-									<img src="images/new-mockup-9.png" class="img-fluid" alt="">
+									<img src="images/portfolio-image/9.png" class="img-fluid" alt="">
 								</div>
 							</div>
 							<div class="pbminfotech-box-content">
@@ -1042,7 +1069,7 @@ pizzerias -->
 						<div class="pbminfotech-post-content">
 							<div class="pbmit-featured-img-wrapper">
 								<div class="pbmit-featured-wrapper">
-									<img src="images/new-mockup-10.png" class="img-fluid" alt="">
+									<img src="images/portfolio-image/10.png" class="img-fluid" alt="">
 								</div>
 							</div>
 							<div class="pbminfotech-box-content">

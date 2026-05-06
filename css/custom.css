@@ -132,24 +132,28 @@
     margin-top: 0;
 }
 
+.pbmit-slider-bg.hero-0 {
+    background-image: url(../images/banners/web-banner/6.png);
+}
+
 .pbmit-slider-bg.hero-1 {
-    background-image: url(../images/banners/new-1.png);
+    background-image: url(../images/banners/web-banner/1.png);
 }
 
 .pbmit-slider-bg.hero-2 {
-    background-image: url(../images/banners/new-2.png);
+    background-image: url(../images/banners/web-banner/2.png);
 }
 
 .pbmit-slider-bg.hero-3 {
-    background-image: url(../images/banners/new-3.png);
+    background-image: url(../images/banners/web-banner/3.png);
 }
 
 .pbmit-slider-bg.hero-4 {
-    background-image: url(../images/banners/new-4.png);
+    background-image: url(../images/banners/web-banner/4.png);
 }
 
 .pbmit-slider-bg.hero-5 {
-    background-image: url(../images/banners/new-5.png);
+    background-image: url(../images/banners/web-banner/5.png);
 }
 
 
@@ -784,6 +788,7 @@
     background-size: cover;
     background-attachment: scroll;
 }
+
 .pbmit-title-bar-wrapper.bakeon {
     position: relative;
     z-index: 1;
@@ -837,7 +842,7 @@
 .pbmit-title-bar-wrapper.sachet {
     position: relative;
     z-index: 1;
-    background-image: url(../images/new-banner/sachet-paper.jpg);
+    background-image: url(../images/new-banner/sachet-paper.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1003,19 +1008,23 @@ body .pbmit-bg-color-global {
     }
 
     .pbmit-slider-bg.hero-1 {
-        background-image: url(../images/banners/new-mobile-1.png);
+        background-image: url(../images/banners/mob-banner/1.png);
     }
 
     .pbmit-slider-bg.hero-2 {
-        background-image: url(../images/banners/new-mobile-2.png);
+        background-image: url(../images/banners/mob-banner/2.png);
     }
 
     .pbmit-slider-bg.hero-3 {
-        background-image: url(../images/banners/new-mobile-3.png);
+        background-image: url(../images/banners/mob-banner/3.png);
     }
 
     .pbmit-slider-bg.hero-4 {
-        background-image: url(../images/banners/new-mobile-4.png);
+        background-image: url(../images/banners/mob-banner/4.png);
+    }
+
+    .pbmit-slider-bg.hero-5 {
+        background-image: url(../images/banners/mob-banner/5.png);
     }
 
     .pbmit-heading-subheading {
@@ -1042,23 +1051,23 @@ body .pbmit-bg-color-global {
     }
 
     .pbmit-slider-bg.hero-1 {
-        background-image: url(../images/banners/new-1.png);
+        background-image: url(../images/banners/web-banner/1.png);
     }
 
     .pbmit-slider-bg.hero-2 {
-        background-image: url(../images/banners/new-2.png);
+        background-image: url(../images/banners/web-banner/2.png);
     }
 
     .pbmit-slider-bg.hero-3 {
-        background-image: url(../images/banners/new-3.png);
+        background-image: url(../images/banners/web-banner/3.png);
     }
 
     .pbmit-slider-bg.hero-4 {
-        background-image: url(../images/banners/new-4.png);
+        background-image: url(../images/banners/web-banner/4.png);
     }
-    
+
     .pbmit-slider-bg.hero-5 {
-        background-image: url(../images/banners/new-5.png);
+        background-image: url(../images/banners/web-banner/5.png);
     }
 
     .pbmit-heading-subheading {
@@ -1077,23 +1086,23 @@ body .pbmit-bg-color-global {
     }
 
     .pbmit-slider-bg.hero-1 {
-        background-image: url(../images/banners/new-1.png);
+        background-image: url(../images/banners/web-banner/1.png);
     }
 
     .pbmit-slider-bg.hero-2 {
-        background-image: url(../images/banners/new-2.png);
+        background-image: url(../images/banners/web-banner/2.png);
     }
 
     .pbmit-slider-bg.hero-3 {
-        background-image: url(../images/banners/new-3.png);
+        background-image: url(../images/banners/web-banner/3.png);
     }
 
     .pbmit-slider-bg.hero-4 {
-        background-image: url(../images/banners/new-4.png);
+        background-image: url(../images/banners/web-banner/4.png);
     }
 
     .pbmit-slider-bg.hero-5 {
-        background-image: url(../images/banners/new-5.png);
+        background-image: url(../images/banners/web-banner/5.png);
     }
 
     .pbmit-heading-subheading {
@@ -1120,23 +1129,23 @@ body .pbmit-bg-color-global {
     }
 
     .pbmit-slider-bg.hero-1 {
-        background-image: url(../images/banners/new-1.png);
+        background-image: url(../images/banners/web-banner/1.png);
     }
 
     .pbmit-slider-bg.hero-2 {
-        background-image: url(../images/banners/new-2.png);
+        background-image: url(../images/banners/web-banner/2.png);
     }
 
     .pbmit-slider-bg.hero-3 {
-        background-image: url(../images/banners/new-3.png);
+        background-image: url(../images/banners/web-banner/3.png);
     }
 
     .pbmit-slider-bg.hero-4 {
-        background-image: url(../images/banners/new-4.png);
+        background-image: url(../images/banners/web-banner/4.png);
     }
 
     .pbmit-slider-bg.hero-5 {
-        background-image: url(../images/banners/new-5.png);
+        background-image: url(../images/banners/web-banner/5.png);
     }
 
     .pbmit-heading-subheading {
@@ -1155,23 +1164,23 @@ body .pbmit-bg-color-global {
     }
 
     .pbmit-slider-bg.hero-1 {
-        background-image: url(../images/banners/new-1.png);
+        background-image: url(../images/banners/web-banner/1.png);
     }
 
     .pbmit-slider-bg.hero-2 {
-        background-image: url(../images/banners/new-2.png);
+        background-image: url(../images/banners/web-banner/2.png);
     }
 
     .pbmit-slider-bg.hero-3 {
-        background-image: url(../images/banners/new-3.png);
+        background-image: url(../images/banners/web-banner/3.png);
     }
 
     .pbmit-slider-bg.hero-4 {
-        background-image: url(../images/banners/new-4.png);
+        background-image: url(../images/banners/web-banner/4.png);
     }
 
     .pbmit-slider-bg.hero-5 {
-        background-image: url(../images/banners/new-5.png);
+        background-image: url(../images/banners/web-banner/5.png);
     }
 
     .pbmit-heading-subheading {
@@ -1210,23 +1219,23 @@ body .pbmit-bg-color-global {
     }
 
     .pbmit-slider-bg.hero-1 {
-        background-image: url(../images/banners/new-1.png);
+        background-image: url(../images/banners/web-banner/1.png);
     }
 
     .pbmit-slider-bg.hero-2 {
-        background-image: url(../images/banners/new-2.png);
+        background-image: url(../images/banners/web-banner/2.png);
     }
 
     .pbmit-slider-bg.hero-3 {
-        background-image: url(../images/banners/new-3.png);
+        background-image: url(../images/banners/web-banner/3.png);
     }
 
     .pbmit-slider-bg.hero-4 {
-        background-image: url(../images/banners/new-4.png);
+        background-image: url(../images/banners/web-banner/4.png);
     }
 
     .pbmit-slider-bg.hero-5 {
-        background-image: url(../images/banners/new-5.png);
+        background-image: url(../images/banners/web-banner/5.png);
     }
 
     .pbmit-heading-subheading {
