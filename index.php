@@ -579,7 +579,7 @@ pizzerias -->
 									<div class="pbmit-service-image-wrapper">
 										<div class="pbmit-featured-img-wrapper">
 											<div class="pbmit-featured-wrapper">
-												<img src="images/products/Slip Easy Paper.jpg" class="img-fluid" alt="service-img-01">
+												<img src="images/products/Slip Easy Paper.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
 										<a class="pbmit-service-btn" href="slip-easy-paper.php" title="Slip Easy Paper">
@@ -848,7 +848,7 @@ pizzerias -->
 				<h4 class="pbmit-subtitle">Sustainable Packaging</h4>
 				<h2 class="pbmit-title">Choose Smart Packaging <br> Made from Nature</h2>
 			</div>
-			<div class="row align-items-center">
+			<div class="row align-items-center mt-3">
 				<div class="col-md-4">
 					<div class="pe-lg-5">
 						<div class="pbmit-ihbox-style-12">

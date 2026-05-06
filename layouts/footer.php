@@ -104,8 +104,8 @@
                     </div>
                 </div>
                 <div class="pbmit-footer-widget-col-3 col-md-6 col-lg-3">
-                    <div class="widget">
-                        <h2 class="widget-title">&nbsp;</h2>
+                    <div class="widget widget2">
+                        <h2 class="widget-title widget-title2">&nbsp;</h2>
                         <div class="textwidget">
                             <ul>
                                 <li><a href="tableware.php">Tableware</a></li>
