@@ -984,8 +984,8 @@ body .pbmit-bg-color-global {
 /* Extra Small Devices (phones) */
 @media (max-width: 575px) {
     .pbmit-slider-one .pbmit-title {
-        font-size: 30px;
-        line-height: 30px;
+        font-size: 40px;
+        line-height: 40px;
         color: var(--pbmit-white-color);
         filter: drop-shadow(6px 6px 5px black);
     }
@@ -1005,6 +1005,100 @@ body .pbmit-bg-color-global {
     .pbmit-slider-one .swiper-slider[data-dots="true"],
     .pbmit-slider-two .swiper-slider[data-dots="true"] {
         height: 100vh;
+    }
+
+    .pbmit-title-bar-wrapper {
+        position: relative;
+        z-index: 1;
+        background-image: url(../images/banners/mob-banner/about-us-banner-mob.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        background-attachment: scroll;
+    }
+
+    .pbmit-title-bar-wrapper.ogr {
+        position: relative;
+        z-index: 1;
+        background-image: url(../images/banners/mob-banner/ogr-paper-mob.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        background-attachment: scroll;
+    }
+
+    .pbmit-title-bar-wrapper.bakeon {
+        position: relative;
+        z-index: 1;
+        background-image: url(../images/banners/mob-banner/bakeonpaper-mob.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        background-attachment: scroll;
+    }
+
+    .pbmit-title-bar-wrapper.slip {
+        position: relative;
+        z-index: 1;
+        background-image: url(../images/banners/mob-banner/slip-easy-paper-mob.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        background-attachment: scroll;
+    }
+
+    .pbmit-title-bar-wrapper.mg {
+        position: relative;
+        z-index: 1;
+        background-image: url(../images/banners/mob-banner/mg-mob.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        background-attachment: scroll;
+    }
+
+    .pbmit-title-bar-wrapper.pizza {
+        position: relative;
+        z-index: 1;
+        background-image: url(../images/banners/mob-banner/pizza-mob.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        background-attachment: scroll;
+    }
+
+    .pbmit-title-bar-wrapper.kraft {
+        position: relative;
+        z-index: 1;
+        background-image: url(../images/banners/mob-banner/kraft-paper-bag-mob.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        background-attachment: scroll;
+    }
+
+    .pbmit-title-bar-wrapper.sachet {
+        position: relative;
+        z-index: 1;
+        background-image: url(../images/banners/mob-banner/sachet-paper-mob.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        background-attachment: scroll;
+    }
+
+    .pbmit-title-bar-wrapper.tableware {
+        position: relative;
+        z-index: 1;
+        background-image: url(../images/banners/mob-banner/tablewear-mob.png);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        background-attachment: scroll;
+    }
+
+    .pbmit-slider-bg.hero-0 {
+        background-image: url(../images/banners/mob-banner/6.png);
     }
 
     .pbmit-slider-bg.hero-1 {
@@ -1050,6 +1144,10 @@ body .pbmit-bg-color-global {
         text-align: center;
     }
 
+    .pbmit-slider-bg.hero-0 {
+        background-image: url(../images/banners/web-banner/6.png);
+    }
+
     .pbmit-slider-bg.hero-1 {
         background-image: url(../images/banners/web-banner/1.png);
     }
@@ -1083,6 +1181,10 @@ body .pbmit-bg-color-global {
         line-height: 50px;
         color: var(--pbmit-white-color);
         filter: drop-shadow(6px 6px 5px black);
+    }
+
+    .pbmit-slider-bg.hero-0 {
+        background-image: url(../images/banners/web-banner/6.png);
     }
 
     .pbmit-slider-bg.hero-1 {
@@ -1128,6 +1230,10 @@ body .pbmit-bg-color-global {
         padding: 0 50px 0 0;
     }
 
+    .pbmit-slider-bg.hero-0 {
+        background-image: url(../images/banners/web-banner/6.png);
+    }
+
     .pbmit-slider-bg.hero-1 {
         background-image: url(../images/banners/web-banner/1.png);
     }
@@ -1157,10 +1263,22 @@ body .pbmit-bg-color-global {
 /* Extra Large Devices (desktops) */
 @media (min-width: 1200px) and (max-width: 1399px) {
     .pbmit-slider-one .pbmit-title {
-        font-size: 75px;
-        line-height: 75px;
+        font-size: 50px;
+        line-height: 50px;
         color: var(--pbmit-white-color);
         filter: drop-shadow(6px 6px 5px black);
+    }
+
+    .pbmit-slider-one .pbmit-slider-item {
+        padding: 150px 0 80px 0;
+    }
+
+    .pbmit-slider-one .pbmit-title .br {
+        display: none;
+    }
+
+    .pbmit-slider-bg.hero-0 {
+        background-image: url(../images/banners/web-banner/6.png);
     }
 
     .pbmit-slider-bg.hero-1 {
@@ -1216,6 +1334,10 @@ body .pbmit-bg-color-global {
         top: -29px;
         right: -0.5%;
         transform: none;
+    }
+
+    .pbmit-slider-bg.hero-0 {
+        background-image: url(../images/banners/web-banner/6.png);
     }
 
     .pbmit-slider-bg.hero-1 {

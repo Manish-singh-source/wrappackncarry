@@ -14,7 +14,7 @@ include('layouts/header.php'); ?>
 							<div class="col-md-9 col-lg-7">
 								<div class="pbmit-slider-content">
 									<h5 class="pbmit-sub-title transform-top transform-delay-1">Explore Our Products</h5>
-									<h2 class="pbmit-title transform-left transform-delay-2">Our Product <br>Range</h2>
+									<h2 class="pbmit-title transform-left transform-delay-2">Our Product <br class="br">Range</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">High-quality packaging solutions for every industry need.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
 										<a class="pbmit-btn pbmit-btn-white" href="products.php">
@@ -41,7 +41,7 @@ include('layouts/header.php'); ?>
 							<div class="col-md-9 col-lg-7">
 								<div class="pbmit-slider-content">
 									<h5 class="pbmit-sub-title transform-top transform-delay-1">Food-Safe Packaging</h5>
-									<h2 class="pbmit-title transform-left transform-delay-2">Oil Grease <br>Resistant Paper</h2>
+									<h2 class="pbmit-title transform-left transform-delay-2">Oil Grease <br class="br">Resistant Paper</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">High-quality paper designed to resist oil and grease, keeping food fresh and clean.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
 										<a class="pbmit-btn pbmit-btn-white" href="oil-grease-resistant-paper.php">
@@ -68,7 +68,7 @@ include('layouts/header.php'); ?>
 							<div class="col-md-9 col-lg-7">
 								<div class="pbmit-slider-content">
 									<h5 class="pbmit-sub-title transform-top transform-delay-1">Smart Packaging Solutions</h5>
-									<h2 class="pbmit-title transform-left transform-delay-2">Baking & <br> Cooking Paper</h2>
+									<h2 class="pbmit-title transform-left transform-delay-2">Baking & <br class="br"> Cooking Paper</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">Heat resistant, non-stick, oven safe up to ~230°C.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
 										<a class="pbmit-btn pbmit-btn-white" href="baking-and-cooking-paper.php">
@@ -95,7 +95,7 @@ include('layouts/header.php'); ?>
 							<div class="col-md-9 col-lg-7">
 								<div class="pbmit-slider-content">
 									<h5 class="pbmit-sub-title transform-top transform-delay-1">Eco-Friendly Packaging</h5>
-									<h2 class="pbmit-title transform-left transform-delay-2">Kraft <br>Paper Bag</h2>
+									<h2 class="pbmit-title transform-left transform-delay-2">Kraft <br class="br">Paper Bag</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">Eco-friendly, high-strength paper bags suitable for all types of packaging needs.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
 										<a class="pbmit-btn pbmit-btn-white" href="kraft-paper-bag.php">
@@ -122,7 +122,7 @@ include('layouts/header.php'); ?>
 							<div class="col-md-9 col-lg-7">
 								<div class="pbmit-slider-content">
 									<h5 class="pbmit-sub-title transform-top transform-delay-1">Sustainable Dining</h5>
-									<h2 class="pbmit-title transform-left transform-delay-2">Eco-Friendly <br>Tableware</h2>
+									<h2 class="pbmit-title transform-left transform-delay-2">Eco-Friendly <br class="br">Tableware</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">Eco-friendly tableware designed for sustainable and hygienic food serving.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
 										<a class="pbmit-btn pbmit-btn-white" href="tableware.php">
@@ -149,7 +149,7 @@ include('layouts/header.php'); ?>
 							<div class="col-md-9 col-lg-7">
 								<div class="pbmit-slider-content">
 									<h5 class="pbmit-sub-title transform-top transform-delay-1">Food Delivery Packaging</h5>
-									<h2 class="pbmit-title transform-left transform-delay-2">Pizza <br> Box</h2>
+									<h2 class="pbmit-title transform-left transform-delay-2">Pizza <br class="br"> Box</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">Biodegradable corrugated kraft pizza boxes for safe and eco-friendly delivery.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
 										<a class="pbmit-btn pbmit-btn-white" href="pizza-boxes.php">

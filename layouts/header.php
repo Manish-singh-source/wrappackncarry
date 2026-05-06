@@ -79,7 +79,7 @@
                                                 </svg>
                                             </span>
                                             <ul class="navigation clearfix">
-                                                <li class="dropdown active">
+                                                <li class="active">
                                                     <a href="index.php">Home</a>
                                                 </li>
                                                 <li class="">
@@ -98,7 +98,7 @@
                                                         <li><a href="mg-poster-bag.php">MG Poster Bag</a></li> 
                                                     </ul>
                                                 </li>
-                                                <li class="dropdown">
+                                                <li class="">
                                                     <a href="contact-us.php">Contact Us</a>
                                                 </li>
 
