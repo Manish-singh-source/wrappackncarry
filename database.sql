@@ -24,6 +24,10 @@ CREATE TABLE IF NOT EXISTS enquiries (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
+ALTER TABLE enquiries
+ADD COLUMN variant VARCHAR(100),
+ADD COLUMN size VARCHAR(100);
+
 
 -- Create users table for admin authentication
 CREATE TABLE IF NOT EXISTS users (

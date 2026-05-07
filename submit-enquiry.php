@@ -5,6 +5,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = $_POST['email'] ?? '';
     $product = $_POST['product'] ?? '';
     $format = $_POST['format'] ?? '';
+    $variant = $_POST['variant'] ?? '';
+    $size = $_POST['size'] ?? '';
     $quantity = $_POST['quantity'] ?? '';
     $message = $_POST['message'] ?? '';
 
@@ -17,16 +19,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $conn = new mysqli($servername, $username, $password, $dbname);
 
         if ($conn->connect_error) {
-            die("Connection failed: " . $conn->connect_error);
+            echo json_encode(['success' => false, 'message' => 'Connection failed: ' . $conn->connect_error]);
+            exit;
         }
 
-        $stmt = $conn->prepare("INSERT INTO enquiries (name, phone, email, product, format, quantity, message) VALUES (?, ?, ?, ?, ?, ?, ?)");
-        $stmt->bind_param("sssssss", $name, $phone, $email, $product, $format, $quantity, $message);
+        $stmt = $conn->prepare("INSERT INTO enquiries (name, phone, email, product, format, variant, size, quantity, message) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)");
+        $stmt->bind_param("sssssssss", $name, $phone, $email, $product, $format, $variant, $size, $quantity, $message);
 
         if ($stmt->execute()) {
             echo json_encode(['success' => true, 'message' => 'Thank you! Your enquiry has been submitted successfully. We will contact you soon.']);
         } else {
-            echo json_encode(['success' => false, 'message' => 'Something went wrong. Please try again.']);
+            echo json_encode(['success' => false, 'message' => 'Database error: ' . $stmt->error]);
         }
         
         $stmt->close();

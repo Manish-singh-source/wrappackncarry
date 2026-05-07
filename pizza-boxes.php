@@ -541,8 +541,6 @@ include('layouts/header.php'); ?>
 		const closeModal = document.getElementById('closeModalBtn');
 		const enquireBtns = document.querySelectorAll('.enquire-btn');
 		const formatInput = document.getElementById('format');
-		// const modalFormat = document.getElementById('modalFormat');
-
 		const variantRow = document.querySelector('.box-variant-row');
 
 		enquireBtns.forEach(btn => {
@@ -552,10 +550,8 @@ include('layouts/header.php'); ?>
 
 				if (format === 'Box') {
 					variantRow.style.display = 'flex';
-					platformRow.style.display = 'block';
 				} else {
 					variantRow.style.display = 'none';
-					platformRow.style.display = 'none';
 				}
 
 				modal.classList.add('show');

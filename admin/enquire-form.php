@@ -40,8 +40,9 @@ if (!$conn->connect_error) {
                             <th>Phone</th>
                             <th>Product</th>
                             <th>Format</th>
+                            <th>Variant</th>
                             <th>Quantity</th>
-                            <th>Message</th>
+                            <th>Size</th>
                             <th>Timing</th>
                         </tr>
                     </thead>
@@ -54,8 +55,9 @@ if (!$conn->connect_error) {
                             <td><?php echo htmlspecialchars($enquire['phone']); ?></td>
                             <td><?php echo htmlspecialchars($enquire['product']); ?></td>
                             <td><?php echo htmlspecialchars($enquire['format']); ?></td>
+                            <td><?php echo htmlspecialchars($enquire['variant']); ?></td>
                             <td><?php echo htmlspecialchars($enquire['quantity']); ?></td>
-                            <td><?php echo htmlspecialchars($enquire['message']); ?></td>
+                            <td><?php echo htmlspecialchars($enquire['size']); ?></td>
                             <td><?php echo htmlspecialchars(date("d M Y, h:i A", strtotime($enquire['created_at'])));?></td>
                         </tr>
                         <?php endforeach; ?>
