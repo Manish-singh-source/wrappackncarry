@@ -48,18 +48,24 @@ if (!$conn->connect_error) {
                     </thead>
                     <tbody>
                         <?php foreach ($enquireData as $enquire): ?>
-                        <tr>
-                            <td><?php echo $enquire['id']; ?></td>
-                            <td><?php echo htmlspecialchars($enquire['name']); ?></td>
-                            <td><?php echo htmlspecialchars($enquire['email']); ?></td>
-                            <td><?php echo htmlspecialchars($enquire['phone']); ?></td>
-                            <td><?php echo htmlspecialchars($enquire['product']); ?></td>
-                            <td><?php echo htmlspecialchars($enquire['format']); ?></td>
-                            <td><?php echo htmlspecialchars($enquire['variant']); ?></td>
-                            <td><?php echo htmlspecialchars($enquire['quantity']); ?></td>
-                            <td><?php echo htmlspecialchars($enquire['size']); ?></td>
-                            <td><?php echo htmlspecialchars(date("d M Y, h:i A", strtotime($enquire['created_at'])));?></td>
-                        </tr>
+                            <tr>
+                                <td><?php echo $enquire['id']; ?></td>
+                                <td><?php echo !empty($enquire['name']) ? htmlspecialchars($enquire['name']) : '-'; ?></td>
+                                <td><?php echo !empty($enquire['email']) ? htmlspecialchars($enquire['email']) : '-'; ?></td>
+                                <td><?php echo !empty($enquire['phone']) ? htmlspecialchars($enquire['phone']) : '-'; ?></td>
+                                <td><?php echo !empty($enquire['product']) ? htmlspecialchars($enquire['product']) : '-'; ?></td>
+                                <td><?php echo !empty($enquire['format']) ? htmlspecialchars($enquire['format']) : '-'; ?></td>
+                                <td><?php echo !empty($enquire['variant']) ? htmlspecialchars($enquire['variant']) : '-'; ?></td>
+                                <td><?php echo !empty($enquire['quantity']) ? htmlspecialchars($enquire['quantity']) : '-'; ?></td>
+                                <td><?php echo !empty($enquire['size']) ? htmlspecialchars($enquire['size']) : '-'; ?></td>
+                                <td>
+                                    <?php
+                                    echo !empty($enquire['created_at'])
+                                        ? htmlspecialchars(date("d M Y, h:i A", strtotime($enquire['created_at'])))
+                                        : '-';
+                                    ?>
+                                </td>
+                            </tr>
                         <?php endforeach; ?>
                     </tbody>
                 </table>

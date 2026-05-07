@@ -486,37 +486,6 @@ include('layouts/header.php'); ?>
 					<input type="text" id="format" name="format" value="Reel" readonly>
 				</div>
 			</div>
-			<!-- <div class="form-row box-variant-row" style="display: none;">
-				<div class="form-group form-group-half">
-					<label for="variant">Variant</label>
-					<select id="variant" name="variant">
-						<option value="">Select Variant</option>
-						<option value="20 meter">20 Meter</option>
-						<option value="200 meter">200 Meter</option>
-					</select>
-				</div>
-			</div> -->
-			<div class="form-row box-variant-row" style="display: none;">
-				<div class="form-group">
-					<label for="variant">Variant</label>
-					<div class="variant-options" style="display: flex;gap: 10px;flex-wrap: wrap;">
-						<input type="text" id="variant" name="variant" value="20 meter" readonly style="flex: 1;min-width: 80px;">
-						<input type="text" id="variant2" name="variant" value="200 meter" readonly style="flex: 1;min-width: 80px;">
-					</div>
-				</div>
-			</div>
-			<div class="platform-links-row" style="display: none;">
-				<div class="platform-links">
-					<!-- <span class="platform-label">Buy from:</span> -->
-					<p class="discount-note">Get 10% Discount on</p>
-					<a href="https://www.flipkart.com" target="_blank" class="platform-link" title="Flipkart">
-						<img src="images/products/flipkart.png" alt="Flipkart">
-					</a>
-					<a href="https://www.amazon.in" target="_blank" class="platform-link" title="Amazon">
-						<img src="images/products/amazon.png" alt="Amazon">
-					</a>
-				</div>
-			</div>
 			<!-- <div class="form-group">
                 <label for="quantity">Quantity</label>
                 <input type="text" id="quantity" name="quantity" placeholder="e.g. 100 kg, 500 kg, 1 ton">
@@ -545,21 +514,10 @@ include('layouts/header.php'); ?>
 		const formatInput = document.getElementById('format');
 		// const modalFormat = document.getElementById('modalFormat');
 
-		const variantRow = document.querySelector('.box-variant-row');
-		const platformRow = document.querySelector('.platform-links-row');
-
 		enquireBtns.forEach(btn => {
 			btn.addEventListener('click', function() {
 				const format = this.getAttribute('data-format');
 				formatInput.value = format;
-
-				if (format === 'Box') {
-					variantRow.style.display = 'flex';
-					platformRow.style.display = 'block';
-				} else {
-					variantRow.style.display = 'none';
-					platformRow.style.display = 'none';
-				}
 
 				modal.classList.add('show');
 				document.body.style.overflow = 'hidden';
