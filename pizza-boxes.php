@@ -544,7 +544,6 @@ include('layouts/header.php'); ?>
 		// const modalFormat = document.getElementById('modalFormat');
 
 		const variantRow = document.querySelector('.box-variant-row');
-		const platformRow = document.querySelector('.platform-links-row');
 
 		enquireBtns.forEach(btn => {
 			btn.addEventListener('click', function() {
