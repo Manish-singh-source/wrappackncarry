@@ -97,9 +97,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action'])) {
     <!-- Left Column - Profile Information -->
     <div class="col-lg-6">
         <div class="card">
-            <div class="card-header bg-primary-subtle">
+            <div class="card-header bg-primary-subtle2">
                 <div class="d-flex align-items-center gap-2">
-                    <i class="ti ti-user-circle text-primary fs-20"></i>
+                    <i class="ti ti-user-circle text-success fs-20"></i>
                     <h5 class="mb-0">Profile Information</h5>
                 </div>
             </div>
@@ -143,7 +143,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action'])) {
     <!-- Right Column - Change Password -->
     <div class="col-lg-6">
         <div class="card">
-            <div class="card-header bg-success-subtle">
+            <div class="card-header bg-success-subtle2">
                 <div class="d-flex align-items-center gap-2">
                     <i class="ti ti-shield-lock text-success fs-20"></i>
                     <h5 class="mb-0">Change Password</h5>

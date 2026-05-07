@@ -9,16 +9,75 @@
     display: flex;
 }
 
-.sidenav-menu, .topbar-menu {
-    background-color: #F8F7F0 !important;
+.sidenav-menu,
+.topbar-menu {
+    background-color: #333828 !important;
 }
 
 .footer {
-    background-color: #F8F7F0 !important;
+    background-color: #333828 !important;
     border: none;
 }
 
 .logo-lg img {
-    width: 80px !important;
-    height: 80px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+body {
+    background-color: #E3DBBB;
+}
+
+.text-main {
+    color: #F8F3E0 !important;
+}
+
+.side-nav>.side-nav-item.active>a,
+.side-nav>.side-nav-item.active>button {
+    color: #333828 !important;
+    background-color: #E3DBBB;
+}
+
+.card-body {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: var(--theme-card-spacer-y) var(--theme-card-spacer-x);
+    color: var(--theme-card-color);
+    background-color: #F8F3E0;
+}
+
+.app-topbar .topbar-menu .topbar-item .topbar-link {
+    color: #F8F3E0 !important;
+}
+
+.topbar-item .topbar-link:hover {
+    color: #E3DBBB !important;
+}
+
+.text-primary {
+    --theme-text-opacity: 1;
+    color: #333828 !important;
+}
+
+.bg-primary-subtle2,
+.bg-success-subtle2 {
+    background-color: #333828 !important;
+    color: #E3DBBB;
+}
+
+.btn-success {
+    color: #333828 !important;
+    background-color: #E3DBBB !important;
+    border: none;
+}
+
+.btn-success:hover {
+    color: #E3DBBB !important;
+    background-color: #333828 !important;
+}
+
+.btn-primary {
+    border: #E3DBBB;
+    background-color: #333828 !important;
 }

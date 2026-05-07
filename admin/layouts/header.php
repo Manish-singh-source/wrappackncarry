@@ -9,9 +9,10 @@
     <meta name="description" content="Wrpa Pack N Carry is a modern, responsive admin dashboard available on ThemeForest. Ideal for building CRM, CMS, project management tools, and custom web applications with a clean UI, flexible layouts, and rich features." />
     <meta name="keywords" content="Wrpa Pack N Carry, admin dashboard, ThemeForest, Bootstrap 5 admin, responsive admin, CRM dashboard, CMS admin, web app UI, admin theme, premium admin template" />
     <meta name="author" content="Coderthemes" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <!-- App favicon -->
-    <link rel="shortcut icon" href="assets/images/wrap-logo.png" />
+    <link rel="shortcut icon" href="assets/images/wrap-logo-2.png" />
 
     <!-- Vector Maps css -->
     <link href="assets/plugins/jsvectormap/jsvectormap.min.css" rel="stylesheet" type="text/css" />
@@ -71,8 +72,8 @@
                     </button>
 
                     <div>
-                        <span class="">
-                            <strong>Wpap Pack N Carry</strong>
+                        <span class="text-main">
+                            <strong>Wpap Pack N Carry | Safewrap</strong>
                         </span>
                     </div>
                 </div>
@@ -82,7 +83,7 @@
                     <div id="user-dropdown-detailed" class="topbar-item nav-user">
                         <div class="dropdown">
                             <a class="topbar-link dropdown-toggle drop-arrow-none px-2" data-bs-toggle="dropdown" href="#!" aria-haspopup="false" aria-expanded="false">
-                                <img src="assets/images/person.png" width="32" class="rounded-circle me-lg-2 d-flex" alt="user-image" />
+                                <i class="fa-solid fa-circle-user" style="color: #E3DBBB; font-size: 25px; margin-right: 10px"></i>
                                 <div class="d-lg-flex align-items-center gap-1 d-none">
                                     <span>
                                         <h5 class="my-0 lh-1 pro-username"><?php echo $_SESSION['admin_name'] ?? 'Admin'; ?></h5>
@@ -130,9 +131,9 @@
             </a>
 
             <!-- Sidebar Hover Menu Toggle Button -->
-            <button class="button-on-hover">
+            <!-- <button class="button-on-hover">
                 <span class="btn-on-hover-icon"></span>
-            </button>
+            </button> -->
 
             <!-- Full Sidebar Menu Close Button -->
             <button class="button-close-offcanvas">
@@ -191,7 +192,7 @@
                 <!--- Sidenav Menu -->
                 <div id="sidenav-menu">
                     <ul class="side-nav">
-                        <li class="side-nav-title mt-2" data-lang="main">Main</li>
+                        <li class="side-nav-title mt-2 text-main" data-lang="main">Main</li>
                         <li class="side-nav-item">
                             <a href="index.php" class="side-nav-link">
                                 <span class="menu-icon"><i class="ti ti-dashboard"></i></span>

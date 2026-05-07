@@ -3,7 +3,7 @@
 <!-- ============================================================== -->
 
 <!-- Footer Start -->
-<footer class="footer">
+<footer class="footer" style="margin: -1px -10px;">
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-12 text-center text-md-center">
