@@ -505,15 +505,14 @@ include('layouts/header.php'); ?>
 					<input type="text" id="format" name="format" value="Reel" readonly>
 				</div>
 			</div>
-			<div class="form-row box-variant-row" style="display: none;">
+			<div class="form-row box-variant-row mt-3" style="display: none;">
 				<div class="form-group form-group-half">
-					<label for="variant">Variant</label>
-					<select id="variant" name="variant">
-						<option value="">Select Variant</option>
-						<option value="S">S</option>
-						<option value="M">M</option>
-						<option value="L">L</option>
-					</select>
+					<label for="size">Size</label>
+					<input type="text" id="size" name="size" placeholder="e.g. 9 inch, 12 inch">
+				</div>
+				<div class="form-group form-group-half">
+					<label for="quantity">Quantity</label>
+					<input type="text" id="quantity" name="quantity" placeholder="e.g. 100, 500">
 				</div>
 			</div>
 			<div class="platform-links-row" style="display: none;">
