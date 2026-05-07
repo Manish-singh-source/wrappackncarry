@@ -14,8 +14,8 @@ include('layouts/header.php'); ?>
 							<div class="col-md-9 col-lg-7">
 								<div class="pbmit-slider-content">
 									<h5 class="pbmit-sub-title transform-top transform-delay-1">Explore Our Products</h5>
-									<h2 class="pbmit-title transform-left transform-delay-2">Our Product <br class="br">Range</h2>
-									<p class="pbmit-desc transform-left transform-delay-3">High-quality packaging solutions for every industry need.</p>
+									<h2 class="pbmit-title transform-left transform-delay-2">Eco-friendly food <br class="br">contact paper</h2>
+									<p class="pbmit-desc transform-left transform-delay-3">High-quality packaging solutions for every household.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
 										<a class="pbmit-btn pbmit-btn-white" href="products.php">
 											<span class="pbmit-button-text">View Product Range </span>
@@ -41,7 +41,7 @@ include('layouts/header.php'); ?>
 							<div class="col-md-9 col-lg-7">
 								<div class="pbmit-slider-content">
 									<h5 class="pbmit-sub-title transform-top transform-delay-1">Food-Safe Packaging</h5>
-									<h2 class="pbmit-title transform-left transform-delay-2">Oil Grease <br class="br">Resistant Paper</h2>
+									<h2 class="pbmit-title transform-left transform-delay-2">Oil Proof <br class="br">Resistant Paper</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">High-quality paper designed to resist oil and grease, keeping food fresh and clean.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
 										<a class="pbmit-btn pbmit-btn-white" href="oil-grease-resistant-paper.php">
@@ -96,7 +96,7 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-slider-content">
 									<h5 class="pbmit-sub-title transform-top transform-delay-1">Eco-Friendly Packaging</h5>
 									<h2 class="pbmit-title transform-left transform-delay-2">Kraft <br class="br">Paper Bag</h2>
-									<p class="pbmit-desc transform-left transform-delay-3">Eco-friendly, high-strength paper bags suitable for all types of packaging needs.</p>
+									<p class="pbmit-desc transform-left transform-delay-3">Eco-friendly, high-strength paper bags suitable for packaging needs.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
 										<a class="pbmit-btn pbmit-btn-white" href="kraft-paper-bag.php">
 											<span class="pbmit-button-text">Kraft Paper Bag</span>
