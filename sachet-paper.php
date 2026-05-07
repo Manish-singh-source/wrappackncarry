@@ -423,34 +423,6 @@ include('layouts/header.php'); ?>
 										</button>
 									</div>
 								</div>
-								<div class="col-lg-4 mb-4">
-									<div class="purchase-option-card">
-										<h4>Sheet</h4>
-										<p>Pre-cut sheets suitable for easy handling, quick wrapping, and daily food service use.</p>
-										<button class="pbmit-btn enquire-btn" data-format="Sheet">
-											<span class="pbmit-button-text">Enquire Now</span>
-											<span class="pbmit-button-icon-wrapper">
-												<span class="pbmit-button-icon">
-													<i class="pbmit-base-icon-black-arrow-1"></i>
-												</span>
-											</span>
-										</button>
-									</div>
-								</div>
-								<div class="col-lg-4 mb-4">
-									<div class="purchase-option-card">
-										<h4>Box</h4>
-										<p>Custom packaging boxes designed for safe packing, storage, and delivery purposes.</p>
-										<button class="pbmit-btn enquire-btn" data-format="Box">
-											<span class="pbmit-button-text">Enquire Now</span>
-											<span class="pbmit-button-icon-wrapper">
-												<span class="pbmit-button-icon">
-													<i class="pbmit-base-icon-black-arrow-1"></i>
-												</span>
-											</span>
-										</button>
-									</div>
-								</div>
 							</div>
 						</div>
 						<!-- <div class="pt-5">
