@@ -151,195 +151,212 @@
                         <p>Fill in your details and we'll get back to you shortly</p>
                     </div>
 <form class="enquiry-form" id="headerEnquiryForm">
-                         <div class="form-row">
-                             <div class="form-group form-group-half">
-                                 <label for="headerName">Full Name <span class="required">*</span></label>
-                                 <input type="text" id="headerName" name="name" required placeholder="Your name">
-                             </div>
-                             <div class="form-group form-group-half">
-                                 <label for="headerPhone">Phone <span class="required">*</span></label>
-                                 <input type="tel" id="headerPhone" name="phone" required placeholder="Your phone">
-                             </div>
-                         </div>
-                         <div class="form-group">
-                             <label for="headerEmail">Email Address <span class="required">*</span></label>
-                             <input type="email" id="headerEmail" name="email" required placeholder="your@email.com">
-                         </div>
-                         <div class="form-row">
-                             <div class="form-group form-group-half">
-                                 <label for="headerProduct">Product <span class="required">*</span></label>
-                                 <select id="headerProduct" name="product" required>
-                                     <option value="">Select Product</option>
-                                     <option value="Oil Grease Resistant Paper">Oil Grease Resistant Paper</option>
-                                     <option value="Baking & Cooking Paper">Baking & Cooking Paper</option>
-                                     <option value="Slip Easy Paper">Slip Easy Paper</option>
-                                     <option value="Kraft Paper Bag">Kraft Paper Bag</option>
-                                     <option value="Tableware">Tableware</option>
-                                     <option value="Pizza Boxes">Pizza Boxes</option>
-                                     <option value="Sachet Paper">Sachet Paper</option>
-                                     <option value="MG Poster Bag">MG Poster Bag</option>
-                                 </select>
-                             </div>
-                             <div class="form-group form-group-half">
-                                 <label for="headerFormat">Format <span class="required">*</span></label>
-                                 <select id="headerFormat" name="format" required>
-                                     <option value="">Select Format</option>
-                                 </select>
-                             </div>
-                         </div>
-                         <div class="form-group" style="display: none;">
-                             <label for="headerVariant">Variant</label>
-                             <select id="headerVariant" name="variant">
-                                 <option value="">Select Variant</option>
-                             </select>
-                         </div>
-                         <!-- <div class="form-group">
-                             <label for="headerQuantity">Quantity</label>
-                             <input type="text" id="headerQuantity" name="quantity" placeholder="e.g. 100 kg, 500 kg, 1 ton">
-                         </div>
-                         <div class="form-group">
-                             <label for="headerMessage">Message</label>
-                             <textarea id="headerMessage" name="message" placeholder="Any specific requirements or questions?"></textarea>
-                         </div> -->
-                        <button type="submit" class="pbmit-btn">
-                            <span class="pbmit-button-text">Submit Enquiry</span>
-                            <span class="pbmit-button-icon-wrapper">
-                                <span class="pbmit-button-icon">
-                                    <i class="pbmit-base-icon-black-arrow-1"></i>
-                                </span>
-                            </span>
-                        </button>
-                    </form>
+    <div class="form-row">
+        <div class="form-group form-group-half">
+            <label for="headerName">Full Name <span class="required">*</span></label>
+            <input type="text" id="headerName" name="name" required placeholder="Your name">
+        </div>
+        <div class="form-group form-group-half">
+            <label for="headerPhone">Phone <span class="required">*</span></label>
+            <input type="tel" id="headerPhone" name="phone" required placeholder="Your phone">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="headerEmail">Email Address <span class="required">*</span></label>
+        <input type="email" id="headerEmail" name="email" required placeholder="your@email.com">
+    </div>
+    <div class="form-row">
+        <div class="form-group form-group-half">
+            <label for="headerProduct">Product <span class="required">*</span></label>
+            <select id="headerProduct" name="product" required>
+                <option value="">Select Product</option>
+                <option value="Oil Grease Resistant Paper">Oil Grease Resistant Paper</option>
+                <option value="Baking & Cooking Paper">Baking & Cooking Paper</option>
+                <option value="Slip Easy Paper">Slip Easy Paper</option>
+                <option value="Kraft Paper Bag">Kraft Paper Bag</option>
+                <option value="Tableware">Tableware</option>
+                <option value="Pizza Boxes">Pizza Boxes</option>
+                <option value="Sachet Paper">Sachet Paper</option>
+                <option value="MG Poster Bag">MG Poster Bag</option>
+            </select>
+        </div>
+        <div class="form-group form-group-half">
+            <label for="headerFormat">Format <span class="required">*</span></label>
+            <select id="headerFormat" name="format" required>
+                <option value="">Select Format</option>
+            </select>
+        </div>
+    </div>
+    <div class="form-group" style="display: none;">
+        <label for="headerVariant">Variant</label>
+        <select id="headerVariant" name="variant">
+            <option value="">Select Variant</option>
+        </select>
+    </div>
+    <div id="pizzaFields" style="display: none;">
+        <div class="form-row">
+            <div class="form-group form-group-half">
+                <label for="headerSize">Size</label>
+                <input type="text" id="headerSize" name="size" placeholder="e.g. 10 inch">
+            </div>
+            <div class="form-group form-group-half">
+                <label for="headerQuantityInput">Quantity</label>
+                <input type="number" id="headerQuantityInput" name="quantity" placeholder="e.g. 100">
+            </div>
+        </div>
+</div>
+    <!-- <div class="form-group">
+        <label for="headerQuantity">Quantity</label>
+        <input type="text" id="headerQuantity" name="quantity" placeholder="e.g. 100 kg, 500 kg, 1 ton">
+    </div>
+    <div class="form-group">
+        <label for="headerMessage">Message</label>
+        <textarea id="headerMessage" name="message" placeholder="Any specific requirements or questions?"></textarea>
+    </div> -->
+    <button type="submit" class="pbmit-btn">
+        <span class="pbmit-button-text">Submit Enquiry</span>
+        <span class="pbmit-button-icon-wrapper">
+            <span class="pbmit-button-icon">
+                <i class="pbmit-base-icon-black-arrow-1"></i>
+            </span>
+        </span>
+    </button>
+</form>
                 </div>
             </div>
 
 <script>
-                 document.addEventListener('DOMContentLoaded', function() {
-                     var headerModal = document.getElementById('headerEnquiryModal');
-                     var headerCloseModal = headerModal.querySelector('.close-modal');
-                     var headerEnquireBtns = document.querySelectorAll('.header-enquire-btn');
-                     var productSelect = document.getElementById('headerProduct');
-                     var formatSelect = document.getElementById('headerFormat');
-                     var variantSelect = document.getElementById('headerVariant');
+    document.addEventListener('DOMContentLoaded', function() {
+        var headerModal = document.getElementById('headerEnquiryModal');
+        var headerCloseModal = headerModal.querySelector('.close-modal');
+        var headerEnquireBtns = document.querySelectorAll('.header-enquire-btn');
+        var productSelect = document.getElementById('headerProduct');
+        var formatSelect = document.getElementById('headerFormat');
+        var variantSelect = document.getElementById('headerVariant');
+        var pizzaFields = document.getElementById('pizzaFields');
 
-                     var productFormats = {
-                         'Oil Grease Resistant Paper': ['Reel', 'Sheet', 'Box'],
-                         'Baking & Cooking Paper': ['Reel', 'Sheet', 'Box'],
-                         'Slip Easy Paper': ['Reel', 'Sheet', 'Box'],
-                         'Kraft Paper Bag': ['Reel'],
-                         'Sachet Paper': ['Reel'],
-                         'MG Poster Bag': ['Reel'],
-                         'Tableware': ['Plates', 'Bowls'],
-                         'Pizza Boxes': ['Box']
-                     };
+        var productFormats = {
+            'Oil Grease Resistant Paper': ['Reel', 'Sheet', 'Box'],
+            'Baking & Cooking Paper': ['Reel', 'Sheet', 'Box'],
+            'Slip Easy Paper': ['Reel', 'Sheet', 'Box'],
+            'Kraft Paper Bag': ['Reel'],
+            'Sachet Paper': ['Reel'],
+            'MG Poster Bag': ['Reel'],
+            'Tableware': ['Plates', 'Bowls'],
+            'Pizza Boxes': ['Box']
+        };
 
-                     var boxVariants = ['20 meter', '200 meter'];
-                     var tablewareVariants = ['Pack of dozen 12', 'Pack of dozen 50', 'Pack of dozen 100'];
+        var boxVariants = ['20 meter', '200 meter'];
+        var tablewareVariants = ['Pack of dozen 12', 'Pack of dozen 50', 'Pack of dozen 100'];
 
-                     function updateFormatOptions() {
-                         var selectedProduct = productSelect.value;
-                         var formats = productFormats[selectedProduct] || [];
-                         
-                         formatSelect.innerHTML = '<option value="">Select Format</option>';
-                         formats.forEach(function(format) {
-                             var option = document.createElement('option');
-                             option.value = format;
-                             option.textContent = format;
-                             formatSelect.appendChild(option);
-                         });
-                         
-                         updateVariantOptions();
-                     }
+        function updateFormatOptions() {
+            var selectedProduct = productSelect.value;
+            var formats = productFormats[selectedProduct] || [];
+            
+            formatSelect.innerHTML = '<option value="">Select Format</option>';
+            formats.forEach(function(format) {
+                var option = document.createElement('option');
+                option.value = format;
+                option.textContent = format;
+                formatSelect.appendChild(option);
+            });
+            
+            // Auto-select Box for Pizza Boxes
+            if (selectedProduct === 'Pizza Boxes') {
+                formatSelect.value = 'Box';
+            }
+            
+            updateVariantOptions();
+        }
 
-                     function updateVariantOptions() {
-                         var selectedProduct = productSelect.value;
-                         var selectedFormat = formatSelect.value;
-                         
-                         variantSelect.innerHTML = '<option value="">Select Variant</option>';
-                         variantSelect.required = false;
-                         variantSelect.closest('.form-group').querySelector('label').innerHTML = 'Variant';
-                         variantSelect.closest('.form-group').style.display = 'none';
+        function updateVariantOptions() {
+            var selectedProduct = productSelect.value;
+            var selectedFormat = formatSelect.value;
+            
+            // Hide pizza fields by default
+            pizzaFields.style.display = 'none';
+            
+            // Reset and hide variant
+            variantSelect.innerHTML = '<option value="">Select Variant</option>';
+            variantSelect.required = false;
+            variantSelect.closest('.form-group').querySelector('label').innerHTML = 'Variant';
+            variantSelect.closest('.form-group').style.display = 'none';
 
-                         if (['Oil Grease Resistant Paper', 'Baking & Cooking Paper', 'Slip Easy Paper'].includes(selectedProduct) && selectedFormat === 'Box') {
-                             variantSelect.closest('.form-group').style.display = 'block';
-                             variantSelect.required = true;
-                             variantSelect.closest('.form-group').querySelector('label').innerHTML = 'Variant <span class="required">*</span>';
-                             boxVariants.forEach(function(variant) {
-                                 var option = document.createElement('option');
-                                 option.value = variant;
-                                 option.textContent = variant;
-                                 variantSelect.appendChild(option);
-                             });
-                         } else if (selectedProduct === 'Tableware') {
-                             variantSelect.closest('.form-group').style.display = 'block';
-                             variantSelect.required = true;
-                             variantSelect.closest('.form-group').querySelector('label').innerHTML = 'Variant <span class="required">*</span>';
-                             tablewareVariants.forEach(function(variant) {
-                                 var option = document.createElement('option');
-                                 option.value = variant;
-                                 option.textContent = variant;
-                                 variantSelect.appendChild(option);
-                             });
-                         } else if (selectedProduct === 'Pizza Boxes') {
-                             variantSelect.closest('.form-group').style.display = 'block';
-                             variantSelect.required = false;
-                             variantSelect.closest('.form-group').querySelector('label').innerHTML = 'Size & Quantity';
-                             var option1 = document.createElement('option');
-                             option1.value = 'Size & Quantity';
-                             option1.textContent = 'Size & Quantity';
-                             variantSelect.appendChild(option1);
-                         }
-                     }
+            if (['Oil Grease Resistant Paper', 'Baking & Cooking Paper', 'Slip Easy Paper'].includes(selectedProduct) && selectedFormat === 'Box') {
+                variantSelect.closest('.form-group').style.display = 'block';
+                variantSelect.required = true;
+                variantSelect.closest('.form-group').querySelector('label').innerHTML = 'Variant <span class="required">*</span>';
+                boxVariants.forEach(function(variant) {
+                    var option = document.createElement('option');
+                    option.value = variant;
+                    option.textContent = variant;
+                    variantSelect.appendChild(option);
+                });
+            } else if (selectedProduct === 'Tableware') {
+                variantSelect.closest('.form-group').style.display = 'block';
+                variantSelect.required = true;
+                variantSelect.closest('.form-group').querySelector('label').innerHTML = 'Variant <span class="required">*</span>';
+                tablewareVariants.forEach(function(variant) {
+                    var option = document.createElement('option');
+                    option.value = variant;
+                    option.textContent = variant;
+                    variantSelect.appendChild(option);
+                });
+            } else if (selectedProduct === 'Pizza Boxes') {
+                // Show Size and Quantity fields instead of Variant dropdown
+                pizzaFields.style.display = 'block';
+            }
+        }
 
-                     productSelect.addEventListener('change', updateFormatOptions);
-                     formatSelect.addEventListener('change', updateVariantOptions);
+        productSelect.addEventListener('change', updateFormatOptions);
+        formatSelect.addEventListener('change', updateVariantOptions);
 
-                     headerEnquireBtns.forEach(function(btn) {
-                         btn.addEventListener('click', function() {
-                             headerModal.classList.add('show');
-                             document.body.style.overflow = 'hidden';
-                         });
-                     });
+        headerEnquireBtns.forEach(function(btn) {
+            btn.addEventListener('click', function() {
+                headerModal.classList.add('show');
+                document.body.style.overflow = 'hidden';
+            });
+        });
 
-                     headerCloseModal.addEventListener('click', function() {
-                         headerModal.classList.remove('show');
-                         document.body.style.overflow = 'auto';
-                     });
+        headerCloseModal.addEventListener('click', function() {
+            headerModal.classList.remove('show');
+            document.body.style.overflow = 'auto';
+        });
 
-                     headerModal.addEventListener('click', function(e) {
-                         if (e.target === headerModal) {
-                             headerModal.classList.remove('show');
-                             document.body.style.overflow = 'auto';
-                         }
-                     });
+        headerModal.addEventListener('click', function(e) {
+            if (e.target === headerModal) {
+                headerModal.classList.remove('show');
+                document.body.style.overflow = 'auto';
+            }
+        });
 
-                     document.addEventListener('keydown', function(e) {
-                         if (e.key === 'Escape' && headerModal.classList.contains('show')) {
-                             headerModal.classList.remove('show');
-                             document.body.style.overflow = 'auto';
-                         }
-                     });
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && headerModal.classList.contains('show')) {
+                headerModal.classList.remove('show');
+                document.body.style.overflow = 'auto';
+            }
+        });
 
-                     document.getElementById('headerEnquiryForm').addEventListener('submit', function(e) {
-                         e.preventDefault();
-                         var formData = new FormData(this);
-                         fetch('submit-enquiry.php', {
-                             method: 'POST',
-                             body: formData
-                         })
-                         .then(response => response.json())
-                         .then(data => {
-                             alert(data.message);
-                             if(data.success) {
-                                 headerModal.classList.remove('show');
-                                 document.body.style.overflow = 'auto';
-                                 this.reset();
-                                 updateFormatOptions();
-                             }
-                         })
-                         .catch(error => {
-                             alert('Something went wrong. Please try again.');
-                         });
-                     });
-                 });
-             </script>
+        document.getElementById('headerEnquiryForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            var formData = new FormData(this);
+            fetch('submit-enquiry.php', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert(data.message);
+                if(data.success) {
+                    headerModal.classList.remove('show');
+                    document.body.style.overflow = 'auto';
+                    this.reset();
+                    updateFormatOptions();
+                }
+            })
+            .catch(error => {
+                alert('Something went wrong. Please try again.');
+            });
+        });
+    });
+</script>
