@@ -515,18 +515,6 @@ include('layouts/header.php'); ?>
 					<input type="text" id="quantity" name="quantity" placeholder="e.g. 100, 500">
 				</div>
 			</div>
-			<div class="platform-links-row" style="display: none;">
-				<div class="platform-links">
-					<!-- <span class="platform-label">Buy from:</span> -->
-					<p class="discount-note">Get 10% Discount on</p>
-					<a href="https://www.flipkart.com" target="_blank" class="platform-link" title="Flipkart">
-						<img src="images/products/flipkart.png" alt="Flipkart">
-					</a>
-					<a href="https://www.amazon.in" target="_blank" class="platform-link" title="Amazon">
-						<img src="images/products/amazon.png" alt="Amazon">
-					</a>
-				</div>
-			</div>
 			<!-- <div class="form-group">
                 <label for="quantity">Quantity</label>
                 <input type="text" id="quantity" name="quantity" placeholder="e.g. 100 kg, 500 kg, 1 ton">
