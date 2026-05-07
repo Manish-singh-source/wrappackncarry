@@ -12,7 +12,7 @@
                         document.write(new Date().getFullYear())
                     </script>
                     © Wrap Pack N Carry - Designed by 
-                    <a href="https://technofra.com/" class="text-primary text-decoration-none fw-semibold">Technofra</a>
+                    <a href="https://technofra.com/" class="text-cream text-decoration-none fw-semibold">Technofra</a>
                 </span>
             </div>
         </div>

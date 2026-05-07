@@ -60,6 +60,11 @@ body {
     color: #333828 !important;
 }
 
+.text-cream {
+    --theme-text-opacity: 1;
+    color: #E3DBBB !important;
+}
+
 .bg-primary-subtle2,
 .bg-success-subtle2 {
     background-color: #333828 !important;
