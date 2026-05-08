@@ -208,13 +208,14 @@
                             </div>
                         </div>
                         <!-- <div class="form-group">
-        <label for="headerQuantity">Quantity</label>
-        <input type="text" id="headerQuantity" name="quantity" placeholder="e.g. 100 kg, 500 kg, 1 ton">
-    </div>
-    <div class="form-group">
-        <label for="headerMessage">Message</label>
-        <textarea id="headerMessage" name="message" placeholder="Any specific requirements or questions?"></textarea>
-    </div> -->
+                            <label for="headerQuantity">Quantity</label>
+                            <input type="text" id="headerQuantity" name="quantity" placeholder="e.g. 100 kg, 500 kg, 1 ton">
+                        </div>
+                        <div class="form-group">
+                            <label for="headerMessage">Message</label>
+                            <textarea id="headerMessage" name="message" placeholder="Any specific requirements or questions?"></textarea>
+                        </div> -->
+                        <div class="g-recaptcha" data-sitekey="6Lez9N0sAAAAAKdCbUw6cR-dFSf-ZtT2bg1q5nNW"></div>
                         <button type="submit" class="pbmit-btn">
                             <span class="pbmit-button-text">Submit Enquiry</span>
                             <span class="pbmit-button-icon-wrapper">
