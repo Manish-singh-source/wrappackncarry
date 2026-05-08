@@ -591,8 +591,8 @@ include('layouts/header.php'); ?>
 			</div>
 			<div class="form-row box-variant-row mt-2" style="display: none;">
 				<div class="form-group">
-					<label for="variant">Pack of dozen</label>
-					<select id="variant" name="variant">
+					<label for="variant">Pack of dozen <span class="required">*</span></label>
+					<select id="variant" name="variant" required>
 						<option value="">Select Variant</option>
 						<option value="Pack of dozen 12">Pack of dozen 12</option>
 						<option value="Pack of dozen 50">Pack of dozen 50</option>

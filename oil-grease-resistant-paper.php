@@ -719,9 +719,11 @@ include('layouts/header.php'); ?>
 				if (format === 'Box') {
 					variantRow.style.display = 'flex';
 					platformRow.style.display = 'block';
+					document.getElementById('variant').setAttribute('required', 'required');
 				} else {
 					variantRow.style.display = 'none';
 					platformRow.style.display = 'none';
+					document.getElementById('variant').removeAttribute('required');
 				}
 
 				modal.classList.add('show');
