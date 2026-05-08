@@ -57,7 +57,7 @@
                             <div class="site-branding">
                                 <h1 class="site-title">
                                     <a href="index">
-                                        <img class="logo-img" src="images/wrap-logo.png" alt="Agrimo">
+                                        <img class="logo-img" src="images/wrap-logo.png" alt="Wrap Pack N Carry">
                                     </a>
                                 </h1>
                             </div>
