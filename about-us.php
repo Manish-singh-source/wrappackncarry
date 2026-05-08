@@ -133,7 +133,7 @@ include('layouts/header.php'); ?>
 												<img src="images/products/Industries-Restaurants.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="#" title="Restaurants">
+										<a class="pbmit-service-btn" href="javascript:void(0);" title="Restaurants">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -144,15 +144,15 @@ include('layouts/header.php'); ?>
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="#" rel="tag">Industries</a>
+												<a href="javascript:void(0);" rel="tag">Industries</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="#">Restaurants</a>
+												<a href="javascript:void(0);">Restaurants</a>
 											</h3>
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="#" title="Restaurants">
+								<a class="pbmit-service-btn" href="javascript:void(0);" title="Restaurants">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -160,7 +160,7 @@ include('layouts/header.php'); ?>
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="#"></a>
+							<a class="pbmit-link" href="javascript:void(0);"></a>
 						</div>
 					</article>
 					<article class="pbmit-ele-service pbmit-service-style-2 swiper-slide">
@@ -173,7 +173,7 @@ include('layouts/header.php'); ?>
 												<img src="images/products/Industries-Cafes.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="#" title="Cafes">
+										<a class="pbmit-service-btn" href="javascript:void(0);" title="Cafes">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -184,15 +184,15 @@ include('layouts/header.php'); ?>
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="#" rel="tag">Industries</a>
+												<a href="javascript:void(0);" rel="tag">Industries</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="#">Cafes</a>
+												<a href="javascript:void(0);">Cafes</a>
 											</h3>
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="#" title="Cafes">
+								<a class="pbmit-service-btn" href="javascript:void(0);" title="Cafes">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -200,7 +200,7 @@ include('layouts/header.php'); ?>
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="#"></a>
+							<a class="pbmit-link" href="javascript:void(0);"></a>
 						</div>
 					</article>
 					<article class="pbmit-ele-service pbmit-service-style-2 swiper-slide">
@@ -213,7 +213,7 @@ include('layouts/header.php'); ?>
 												<img src="images/products/Industries-Bakeries.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="#" title="Bakeries">
+										<a class="pbmit-service-btn" href="javascript:void(0);" title="Bakeries">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -224,15 +224,15 @@ include('layouts/header.php'); ?>
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="#" rel="tag">Industries</a>
+												<a href="javascript:void(0);" rel="tag">Industries</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="#">Bakeries</a>
+												<a href="javascript:void(0);">Bakeries</a>
 											</h3>
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="#" title="Bakeries">
+								<a class="pbmit-service-btn" href="javascript:void(0);" title="Bakeries">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -240,7 +240,7 @@ include('layouts/header.php'); ?>
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="#"></a>
+							<a class="pbmit-link" href="javascript:void(0);"></a>
 						</div>
 					</article>
 					<article class="pbmit-ele-service pbmit-service-style-2 swiper-slide">
@@ -253,7 +253,7 @@ include('layouts/header.php'); ?>
 												<img src="images/products/Industries-Cloud-Kitchens.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="#" title="Cloud Kitchens">
+										<a class="pbmit-service-btn" href="javascript:void(0);" title="Cloud Kitchens">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -264,15 +264,15 @@ include('layouts/header.php'); ?>
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="#" rel="tag">Industries</a>
+												<a href="javascript:void(0);" rel="tag">Industries</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="#">Cloud Kitchens</a>
+												<a href="javascript:void(0);">Cloud Kitchens</a>
 											</h3>
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="#" title="Cloud Kitchens">
+								<a class="pbmit-service-btn" href="javascript:void(0);" title="Cloud Kitchens">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -280,7 +280,7 @@ include('layouts/header.php'); ?>
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="#"></a>
+							<a class="pbmit-link" href="javascript:void(0);"></a>
 						</div>
 					</article>
 					<article class="pbmit-ele-service pbmit-service-style-2 swiper-slide">
@@ -293,7 +293,7 @@ include('layouts/header.php'); ?>
 												<img src="images/products/Industries-Fast-Food.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="#" title="Fast Food">
+										<a class="pbmit-service-btn" href="javascript:void(0);" title="Fast Food">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -304,15 +304,15 @@ include('layouts/header.php'); ?>
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="#" rel="tag">Industries</a>
+												<a href="javascript:void(0);" rel="tag">Industries</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="#">Fast Food</a>
+												<a href="javascript:void(0);">Fast Food</a>
 											</h3>
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="#" title="Fast Food">
+								<a class="pbmit-service-btn" href="javascript:void(0);" title="Fast Food">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -320,7 +320,7 @@ include('layouts/header.php'); ?>
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="#"></a>
+							<a class="pbmit-link" href="javascript:void(0);"></a>
 						</div>
 					</article>
 					<article class="pbmit-ele-service pbmit-service-style-2 swiper-slide">
@@ -333,7 +333,7 @@ include('layouts/header.php'); ?>
 												<img src="images/products/Industries-Takeaways.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="#" title="Takeaways">
+										<a class="pbmit-service-btn" href="javascript:void(0);" title="Takeaways">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -344,15 +344,15 @@ include('layouts/header.php'); ?>
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="#" rel="tag">Industries</a>
+												<a href="javascript:void(0);" rel="tag">Industries</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="#">Takeaways</a>
+												<a href="javascript:void(0);">Takeaways</a>
 											</h3>
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="#" title="Takeaways">
+								<a class="pbmit-service-btn" href="javascript:void(0);" title="Takeaways">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -360,7 +360,7 @@ include('layouts/header.php'); ?>
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="#"></a>
+							<a class="pbmit-link" href="javascript:void(0);"></a>
 						</div>
 					</article>
 					<article class="pbmit-ele-service pbmit-service-style-2 swiper-slide">
@@ -373,7 +373,7 @@ include('layouts/header.php'); ?>
 												<img src="images/products/Industries-Catering.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="#" title="Catering">
+										<a class="pbmit-service-btn" href="javascript:void(0);" title="Catering">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -384,15 +384,15 @@ include('layouts/header.php'); ?>
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="#" rel="tag">Industries</a>
+												<a href="javascript:void(0);" rel="tag">Industries</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="#">Catering</a>
+												<a href="javascript:void(0);">Catering</a>
 											</h3>
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="#" title="Catering">
+								<a class="pbmit-service-btn" href="javascript:void(0);" title="Catering">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -400,7 +400,7 @@ include('layouts/header.php'); ?>
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="#"></a>
+							<a class="pbmit-link" href="javascript:void(0);"></a>
 						</div>
 					</article>
 					<article class="pbmit-ele-service pbmit-service-style-2 swiper-slide">
@@ -413,7 +413,7 @@ include('layouts/header.php'); ?>
 												<img src="images/products/Industries-Food-Trucks.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="#" title="Food Trucks">
+										<a class="pbmit-service-btn" href="javascript:void(0);" title="Food Trucks">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -424,15 +424,15 @@ include('layouts/header.php'); ?>
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="#" rel="tag">Industries</a>
+												<a href="javascript:void(0);" rel="tag">Industries</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="#">Food Trucks</a>
+												<a href="javascript:void(0);">Food Trucks</a>
 											</h3>
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="#" title="Catering">
+								<a class="pbmit-service-btn" href="javascript:void(0);" title="Catering">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -440,7 +440,7 @@ include('layouts/header.php'); ?>
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="#"></a>
+							<a class="pbmit-link" href="javascript:void(0);"></a>
 						</div>
 					</article>
 					<article class="pbmit-ele-service pbmit-service-style-2 swiper-slide">
@@ -453,7 +453,7 @@ include('layouts/header.php'); ?>
 												<img src="images/products/Industries-Hotels.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="#" title="Hotels">
+										<a class="pbmit-service-btn" href="javascript:void(0);" title="Hotels">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -464,15 +464,15 @@ include('layouts/header.php'); ?>
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="#" rel="tag">Industries</a>
+												<a href="javascript:void(0);" rel="tag">Industries</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="#">Hotels</a>
+												<a href="javascript:void(0);">Hotels</a>
 											</h3>
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="#" title="Hotels">
+								<a class="pbmit-service-btn" href="javascript:void(0);" title="Hotels">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -480,7 +480,7 @@ include('layouts/header.php'); ?>
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="#"></a>
+							<a class="pbmit-link" href="javascript:void(0);"></a>
 						</div>
 					</article>
 					<article class="pbmit-ele-service pbmit-service-style-2 swiper-slide">
@@ -493,7 +493,7 @@ include('layouts/header.php'); ?>
 												<img src="images/products/Industries-Retail.png" class="img-fluid" alt="service-img-01">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="#" title="Retail">
+										<a class="pbmit-service-btn" href="javascript:void(0);" title="Retail">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -504,15 +504,15 @@ include('layouts/header.php'); ?>
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="#" rel="tag">Industries</a>
+												<a href="javascript:void(0);" rel="tag">Industries</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="#">Retail</a>
+												<a href="javascript:void(0);">Retail</a>
 											</h3>
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="#" title="Retail">
+								<a class="pbmit-service-btn" href="javascript:void(0);" title="Retail">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -520,7 +520,7 @@ include('layouts/header.php'); ?>
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="#"></a>
+							<a class="pbmit-link" href="javascript:void(0);"></a>
 						</div>
 					</article>
 				</div>
@@ -604,7 +604,7 @@ include('layouts/header.php'); ?>
 					<div class="swiper-static-slide-nav col-sm-12 col-lg-6">
 						<ul class="pbmit-hover-inner">
 							<li class="d-flex pbmit-active">
-								<a href="#">
+								<a href="javascript:void(0);">
 									<div class="pbmit-static-box-number">01</div>
 									<div class="pbminfotech-box-title">
 										<h4>Share Your Requirement</h4>
@@ -613,7 +613,7 @@ include('layouts/header.php'); ?>
 								</a>
 							</li>
 							<li class="d-flex">
-								<a href="#">
+								<a href="javascript:void(0);">
 									<div class="pbmit-static-box-number">02</div>
 									<div class="pbminfotech-box-title">
 										<h4>Product Selection</h4>
@@ -622,7 +622,7 @@ include('layouts/header.php'); ?>
 								</a>
 							</li>
 							<li class="d-flex">
-								<a href="#">
+								<a href="javascript:void(0);">
 									<div class="pbmit-static-box-number">03</div>
 									<div class="pbminfotech-box-title">
 										<h4>Customization Paper</h4>
@@ -631,7 +631,7 @@ include('layouts/header.php'); ?>
 								</a>
 							</li>
 							<li class="d-flex">
-								<a href="#">
+								<a href="javascript:void(0);">
 									<div class="pbmit-static-box-number">04</div>
 									<div class="pbminfotech-box-title">
 										<h4>Order & Supply</h4>

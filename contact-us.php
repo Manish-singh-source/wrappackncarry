@@ -59,7 +59,7 @@ include('layouts/header.php');
 							</div>
 						</div>
 						<div class="pbmit-ihbox-btn">
-							<a href="#">
+							<a href="javascript:void(0);">
 								<span class="pbmit-button-text">Read More</span>
 								<span class="pbmit-button-icon-wrapper">
 									<span class="pbmit-button-icon">
@@ -88,7 +88,7 @@ include('layouts/header.php');
 							</div>
 						</div>
 						<div class="pbmit-ihbox-btn">
-							<a href="#">
+							<a href="javascript:void(0);">
 								<span class="pbmit-button-text">Read More</span>
 								<span class="pbmit-button-icon-wrapper">
 									<span class="pbmit-button-icon">
@@ -117,7 +117,7 @@ include('layouts/header.php');
 							</div>
 						</div>
 						<div class="pbmit-ihbox-btn">
-							<a href="#">
+							<a href="javascript:void(0);">
 								<span class="pbmit-button-text">Read More</span>
 								<span class="pbmit-button-icon-wrapper">
 									<span class="pbmit-button-icon">

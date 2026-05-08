@@ -193,7 +193,7 @@ include('layouts/header.php'); ?>
 										</a>
 									</div>
 									<div class="item-download d-none">
-										<a href="#" target="_blank" rel="noopener noreferrer">
+										<a href="javascript:void(0);" target="_blank" rel="noopener noreferrer">
 											<span class="pbmit-download-content">
 												<i class="pbmit-base-icon-pdf-file-format-symbol-1"></i> Download Word File
 											</span>

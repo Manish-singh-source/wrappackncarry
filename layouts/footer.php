@@ -145,14 +145,6 @@
 
                     </div>
                     <div class="col-md-6">
-                        <!-- <ul class="pbmit-footer-menu">
-									<li class="menu-item">
-										<a href="#">Terms & Conditions</a>
-									</li>
-									<li class="menu-item">
-										<a href="#">Privacy Policy</a>
-									</li>
-								</ul> -->
                         <div class="pbmit-footer-company-text-area"> Design by <a href="https://technofra.com/">Technofra </a></div>
                     </div>
 
