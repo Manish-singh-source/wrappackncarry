@@ -632,6 +632,10 @@ include('layouts/header.php'); ?>
 
 		document.getElementById('enquiryForm').addEventListener('submit', function(e) {
 			e.preventDefault();
+			var submitBtn = this.querySelector('button[type="submit"]');
+			submitBtn.disabled = true;
+			var originalBtnText = submitBtn.innerHTML;
+			submitBtn.innerHTML = '<span class="pbmit-button-text">Submitting...</span>';
 			var formData = new FormData(this);
 			fetch('submit-enquiry', {
 					method: 'POST',
@@ -640,6 +644,8 @@ include('layouts/header.php'); ?>
 				.then(response => response.json())
 				.then(data => {
 					alert(data.message);
+					submitBtn.disabled = false;
+					submitBtn.innerHTML = originalBtnText;
 					if (data.success) {
 						modal.classList.remove('show');
 						document.body.style.overflow = 'auto';
@@ -647,6 +653,8 @@ include('layouts/header.php'); ?>
 					}
 				})
 				.catch(error => {
+					submitBtn.disabled = false;
+					submitBtn.innerHTML = originalBtnText;
 					alert('Something went wrong. Please try again.');
 				});
 		});

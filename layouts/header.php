@@ -342,6 +342,10 @@
 
                     document.getElementById('headerEnquiryForm').addEventListener('submit', function(e) {
                         e.preventDefault();
+                        var submitBtn = this.querySelector('button[type="submit"]');
+                        submitBtn.disabled = true;
+                        var originalBtnText = submitBtn.innerHTML;
+                        submitBtn.innerHTML = '<span class="pbmit-button-text">Submitting...</span>';
                         var formData = new FormData(this);
                         fetch('submit-enquiry', {
                                 method: 'POST',
@@ -350,6 +354,8 @@
                             .then(response => response.json())
                             .then(data => {
                                 alert(data.message);
+                                submitBtn.disabled = false;
+                                submitBtn.innerHTML = originalBtnText;
                                 if (data.success) {
                                     headerModal.classList.remove('show');
                                     document.body.style.overflow = 'auto';
@@ -358,6 +364,8 @@
                                 }
                             })
                             .catch(error => {
+                                submitBtn.disabled = false;
+                                submitBtn.innerHTML = originalBtnText;
                                 alert('Something went wrong. Please try again.');
                             });
                     });
