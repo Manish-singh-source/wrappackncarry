@@ -4,13 +4,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-lg-6 pbmit-footer-left-menu">
-                    <a href="about-us.php">
+                    <a href="about-us">
                         <h3>About Us</h3>
                     </a>
-                    <a href="products.php">
+                    <a href="products">
                         <h3>Products</h3>
                     </a>
-                    <a href="contact-us.php">
+                    <a href="contact-us">
                         <h3>Contact Us</h3>
                     </a>
                     <a href="javascript:void(0);" class="header-enquire-btn">
@@ -95,10 +95,10 @@
                         <h2 class="widget-title">Our Product</h2>
                         <div class="textwidget">
                             <ul>
-                                <li><a href="oil-grease-resistant-paper.php">Oil Grease Resistant Paper</a></li>
-                                <li><a href="baking-and-cooking-paper.php">Baking & Cooking Paper</a></li>
-                                <li><a href="slip-easy-paper.php">Slip Easy Paper</a></li>
-                                <li><a href="kraft-paper-bag.php">Kraft Paper Bag</a></li>
+                                <li><a href="oil-grease-resistant-paper">Oil Grease Resistant Paper</a></li>
+                                <li><a href="baking-and-cooking-paper">Baking & Cooking Paper</a></li>
+                                <li><a href="slip-easy-paper">Slip Easy Paper</a></li>
+                                <li><a href="kraft-paper-bag">Kraft Paper Bag</a></li>
                             </ul>
                         </div>
                     </div>
@@ -108,10 +108,10 @@
                         <h2 class="widget-title widget-title2">&nbsp;</h2>
                         <div class="textwidget">
                             <ul>
-                                <li><a href="tableware.php">Tableware</a></li>
-                                <li><a href="pizza-boxes.php">Pizza Boxes</a></li>
-                                <li><a href="sachet-paper.php">Sachet Paper</a></li>
-                                <li><a href="mg-poster-bag.php">MG Poster Bag</a></li> 
+                                <li><a href="tableware">Tableware</a></li>
+                                <li><a href="pizza-boxes">Pizza Boxes</a></li>
+                                <li><a href="sachet-paper">Sachet Paper</a></li>
+                                <li><a href="mg-poster-bag">MG Poster Bag</a></li> 
                             </ul>
                         </div>
                         <!-- <div class="pbmit-timelist-wrapper">

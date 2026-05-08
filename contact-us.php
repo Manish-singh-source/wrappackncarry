@@ -17,7 +17,7 @@ include('layouts/header.php');
 				<div class="pbmit-breadcrumb">
 					<div class="pbmit-breadcrumb-inner">
 						<span>
-							<a title="" href="index.php" class="home"><span>Home</span></a>
+							<a title="" href="index" class="home"><span>Home</span></a>
 						</span>
 						<span class="sep">
 							<i class="pbmit-base-icon-angle-right"></i>
@@ -146,7 +146,7 @@ include('layouts/header.php');
 							<h4 class="pbmit-subtitle">Get to Contact us</h4>
 							<h2 class="pbmit-title">Have any Questions? <br> Get in Touch!</h2>
 						</div>
-						<form class="contact-form" method="post" id="contact-form" action="submit-contact.php">
+						<form class="contact-form" method="post" id="contact-form" action="submit-contact">
 							<?php if (isset($_GET['success']) && $_GET['success'] == '1'): ?>
 								<div class="alert alert-success">Thank you! Your message has been sent successfully. We will contact you soon.</div>
 							<?php endif; ?>

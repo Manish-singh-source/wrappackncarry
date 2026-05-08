@@ -15,7 +15,7 @@ include('layouts/header.php'); ?>
 				<div class="pbmit-breadcrumb">
 					<div class="pbmit-breadcrumb-inner">
 						<span>
-							<a title="Home" href="index.php" class="home"><span>Home</span></a>
+							<a title="Home" href="index" class="home"><span>Home</span></a>
 						</span>
 						<span class="sep">
 							<i class="pbmit-base-icon-angle-right"></i>

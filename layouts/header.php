@@ -56,7 +56,7 @@
                         <div class="pbmit-logo-menuarea d-flex justify-content-between align-items-center">
                             <div class="site-branding">
                                 <h1 class="site-title">
-                                    <a href="index.php">
+                                    <a href="index">
                                         <img class="logo-img" src="images/wrap-logo.png" alt="Agrimo">
                                     </a>
                                 </h1>
@@ -82,26 +82,26 @@
                                             </span>
                                             <ul class="navigation clearfix">
                                                 <li class="active">
-                                                    <a href="index.php">Home</a>
+                                                    <a href="index">Home</a>
                                                 </li>
                                                 <li class="">
-                                                    <a href="about-us.php">About Us</a>
+                                                    <a href="about-us">About Us</a>
                                                 </li>
                                                 <li class="dropdown">
-                                                    <a href="products.php">Products</a>
+                                                    <a href="products">Products</a>
                                                     <ul>
-                                                        <li><a href="oil-grease-resistant-paper.php">Oil Grease Resistant Paper</a></li>
-                                                        <li><a href="baking-and-cooking-paper.php">Baking & Cooking Paper</a></li>
-                                                        <li><a href="slip-easy-paper.php">Slip Easy Paper</a></li>
-                                                        <li><a href="kraft-paper-bag.php">Kraft Paper Bag</a></li>
-                                                        <li><a href="tableware.php">Tableware</a></li>
-                                                        <li><a href="pizza-boxes.php">Pizza Boxes</a></li>
-                                                        <li><a href="sachet-paper.php">Sachet Paper</a></li>
-                                                        <li><a href="mg-poster-bag.php">MG Poster Bag</a></li>
+                                                        <li><a href="oil-grease-resistant-paper">Oil Grease Resistant Paper</a></li>
+                                                        <li><a href="baking-and-cooking-paper">Baking & Cooking Paper</a></li>
+                                                        <li><a href="slip-easy-paper">Slip Easy Paper</a></li>
+                                                        <li><a href="kraft-paper-bag">Kraft Paper Bag</a></li>
+                                                        <li><a href="tableware">Tableware</a></li>
+                                                        <li><a href="pizza-boxes">Pizza Boxes</a></li>
+                                                        <li><a href="sachet-paper">Sachet Paper</a></li>
+                                                        <li><a href="mg-poster-bag">MG Poster Bag</a></li>
                                                     </ul>
                                                 </li>
                                                 <li class="">
-                                                    <a href="contact-us.php">Contact Us</a>
+                                                    <a href="contact-us">Contact Us</a>
                                                 </li>
 
                                             </ul>
@@ -343,7 +343,7 @@
                     document.getElementById('headerEnquiryForm').addEventListener('submit', function(e) {
                         e.preventDefault();
                         var formData = new FormData(this);
-                        fetch('submit-enquiry.php', {
+                        fetch('submit-enquiry', {
                                 method: 'POST',
                                 body: formData
                             })

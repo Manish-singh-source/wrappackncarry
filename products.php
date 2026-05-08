@@ -15,7 +15,7 @@ include('layouts/header.php'); ?>
 				<div class="pbmit-breadcrumb">
 					<div class="pbmit-breadcrumb-inner">
 						<span>
-							<a title="Home" href="index.php" class="home"><span>Home</span></a>
+							<a title="Home" href="index" class="home"><span>Home</span></a>
 						</span>
 						<span class="sep">
 							<i class="pbmit-base-icon-angle-right"></i>
@@ -44,7 +44,7 @@ include('layouts/header.php'); ?>
 											<img src="images/products/Oil Grease Resistant Paper.png" class="img-fluid" alt="Oil Grease Resistant Paper">
 										</div>
 									</div>
-									<a class="pbmit-service-btn" href="oil-grease-resistant-paper.php" title="Oil Grease Resistant Paper">
+									<a class="pbmit-service-btn" href="oil-grease-resistant-paper" title="Oil Grease Resistant Paper">
 										<span class="pbmit-button-icon-wrapper">
 											<span class="pbmit-button-icon">
 												<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -55,10 +55,10 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-box-content-inner">
 									<div class="pbmit-contant-box">
 										<div class="pbmit-serv-cat">
-											<a href="products.php" rel="tag">Packaging Paper</a>
+											<a href="products" rel="tag">Packaging Paper</a>
 										</div>
 										<h3 class="pbmit-service-title">
-											<a href="oil-grease-resistant-paper.php">Oil Grease Resistant Paper</a>
+											<a href="oil-grease-resistant-paper">Oil Grease Resistant Paper</a>
 										</h3>
 										<div class="pbmit-service-description">
 											Oil-resistant paper ideal for wrapping greasy food items neatly.
@@ -66,7 +66,7 @@ include('layouts/header.php'); ?>
 									</div>
 								</div>
 							</div>
-							<a class="pbmit-service-btn" href="oil-grease-resistant-paper.php" title="Oil Grease Resistant Paper">
+							<a class="pbmit-service-btn" href="oil-grease-resistant-paper" title="Oil Grease Resistant Paper">
 								<span class="pbmit-button-icon-wrapper">
 									<span class="pbmit-button-icon">
 										<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -74,7 +74,7 @@ include('layouts/header.php'); ?>
 								</span>
 							</a>
 						</div>
-						<a class="pbmit-link" href="oil-grease-resistant-paper.php"></a>
+						<a class="pbmit-link" href="oil-grease-resistant-paper"></a>
 					</div>
 				</article>
 			</div>
@@ -89,7 +89,7 @@ include('layouts/header.php'); ?>
 											<img src="images/products/Baking & Cooking Paper.png" class="img-fluid" alt="Baking & Cooking Paper">
 										</div>
 									</div>
-									<a class="pbmit-service-btn" href="baking-and-cooking-paper.php" title="Baking & Cooking Paper">
+									<a class="pbmit-service-btn" href="baking-and-cooking-paper" title="Baking & Cooking Paper">
 										<span class="pbmit-button-icon-wrapper">
 											<span class="pbmit-button-icon">
 												<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -100,10 +100,10 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-box-content-inner">
 									<div class="pbmit-contant-box">
 										<div class="pbmit-serv-cat">
-											<a href="products.php" rel="tag">Packaging Paper</a>
+											<a href="products" rel="tag">Packaging Paper</a>
 										</div>
 										<h3 class="pbmit-service-title">
-											<a href="baking-and-cooking-paper.php">Baking & Cooking Paper</a>
+											<a href="baking-and-cooking-paper">Baking & Cooking Paper</a>
 										</h3>
 										<div class="pbmit-service-description">
 											Reliable paper suitable for baking, packing, and food wrapping.
@@ -111,7 +111,7 @@ include('layouts/header.php'); ?>
 									</div>
 								</div>
 							</div>
-							<a class="pbmit-service-btn" href="baking-and-cooking-paper.php" title="Baking & Cooking Paper">
+							<a class="pbmit-service-btn" href="baking-and-cooking-paper" title="Baking & Cooking Paper">
 								<span class="pbmit-button-icon-wrapper">
 									<span class="pbmit-button-icon">
 										<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -119,7 +119,7 @@ include('layouts/header.php'); ?>
 								</span>
 							</a>
 						</div>
-						<a class="pbmit-link" href="baking-and-cooking-paper.php"></a>
+						<a class="pbmit-link" href="baking-and-cooking-paper"></a>
 					</div>
 				</article>
 			</div>
@@ -134,7 +134,7 @@ include('layouts/header.php'); ?>
 											<img src="images/products/Slip Easy Paper.png" class="img-fluid" alt="Slip Easy Paper">
 										</div>
 									</div>
-									<a class="pbmit-service-btn" href="slip-easy-paper.php" title="Slip Easy Paper">
+									<a class="pbmit-service-btn" href="slip-easy-paper" title="Slip Easy Paper">
 										<span class="pbmit-button-icon-wrapper">
 											<span class="pbmit-button-icon">
 												<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -145,10 +145,10 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-box-content-inner">
 									<div class="pbmit-contant-box">
 										<div class="pbmit-serv-cat">
-											<a href="products.php" rel="tag">Packaging Paper</a>
+											<a href="products" rel="tag">Packaging Paper</a>
 										</div>
 										<h3 class="pbmit-service-title">
-											<a href="slip-easy-paper.php">Slip Easy Paper</a>
+											<a href="slip-easy-paper">Slip Easy Paper</a>
 										</h3>
 										<div class="pbmit-service-description">
 											Smooth-finish paper designed for easy wrapping and handling.
@@ -156,7 +156,7 @@ include('layouts/header.php'); ?>
 									</div>
 								</div>
 							</div>
-							<a class="pbmit-service-btn" href="slip-easy-paper.php" title="Slip Easy Paper">
+							<a class="pbmit-service-btn" href="slip-easy-paper" title="Slip Easy Paper">
 								<span class="pbmit-button-icon-wrapper">
 									<span class="pbmit-button-icon">
 										<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -164,7 +164,7 @@ include('layouts/header.php'); ?>
 								</span>
 							</a>
 						</div>
-						<a class="pbmit-link" href="slip-easy-paper.php"></a>
+						<a class="pbmit-link" href="slip-easy-paper"></a>
 					</div>
 				</article>
 			</div>
@@ -179,7 +179,7 @@ include('layouts/header.php'); ?>
 											<img src="images/products/Kraft Paper Bag.png" class="img-fluid" alt="Kraft Paper Bag">
 										</div>
 									</div>
-									<a class="pbmit-service-btn" href="kraft-paper-bag.php" title="Kraft Paper Bag">
+									<a class="pbmit-service-btn" href="kraft-paper-bag" title="Kraft Paper Bag">
 										<span class="pbmit-button-icon-wrapper">
 											<span class="pbmit-button-icon">
 												<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -190,10 +190,10 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-box-content-inner">
 									<div class="pbmit-contant-box">
 										<div class="pbmit-serv-cat">
-											<a href="products.php" rel="tag">Packaging Paper</a>
+											<a href="products" rel="tag">Packaging Paper</a>
 										</div>
 										<h3 class="pbmit-service-title">
-											<a href="kraft-paper-bag.php">Kraft Paper Bag</a>
+											<a href="kraft-paper-bag">Kraft Paper Bag</a>
 										</h3>
 										<div class="pbmit-service-description">
 											Strong and durable paper bags for takeaway and carrying.
@@ -201,7 +201,7 @@ include('layouts/header.php'); ?>
 									</div>
 								</div>
 							</div>
-							<a class="pbmit-service-btn" href="kraft-paper-bag.php" title="Kraft Paper Bag">
+							<a class="pbmit-service-btn" href="kraft-paper-bag" title="Kraft Paper Bag">
 								<span class="pbmit-button-icon-wrapper">
 									<span class="pbmit-button-icon">
 										<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -209,7 +209,7 @@ include('layouts/header.php'); ?>
 								</span>
 							</a>
 						</div>
-						<a class="pbmit-link" href="kraft-paper-bag.php"></a>
+						<a class="pbmit-link" href="kraft-paper-bag"></a>
 					</div>
 				</article>
 			</div>
@@ -224,7 +224,7 @@ include('layouts/header.php'); ?>
 											<img src="images/products/Tableware.png" class="img-fluid" alt="Tableware">
 										</div>
 									</div>
-									<a class="pbmit-service-btn" href="tableware.php" title="Tableware">
+									<a class="pbmit-service-btn" href="tableware" title="Tableware">
 										<span class="pbmit-button-icon-wrapper">
 											<span class="pbmit-button-icon">
 												<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -235,10 +235,10 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-box-content-inner">
 									<div class="pbmit-contant-box">
 										<div class="pbmit-serv-cat">
-											<a href="products.php" rel="tag">Packaging Paper</a>
+											<a href="products" rel="tag">Packaging Paper</a>
 										</div>
 										<h3 class="pbmit-service-title">
-											<a href="tableware.php">Tableware</a>
+											<a href="tableware">Tableware</a>
 										</h3>
 										<div class="pbmit-service-description">
 											Eco-friendly tableware for hygienic serving and food presentation.
@@ -246,7 +246,7 @@ include('layouts/header.php'); ?>
 									</div>
 								</div>
 							</div>
-							<a class="pbmit-service-btn" href="tableware.php" title="Tableware">
+							<a class="pbmit-service-btn" href="tableware" title="Tableware">
 								<span class="pbmit-button-icon-wrapper">
 									<span class="pbmit-button-icon">
 										<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -254,7 +254,7 @@ include('layouts/header.php'); ?>
 								</span>
 							</a>
 						</div>
-						<a class="pbmit-link" href="tableware.php"></a>
+						<a class="pbmit-link" href="tableware"></a>
 					</div>
 				</article>
 			</div>
@@ -269,7 +269,7 @@ include('layouts/header.php'); ?>
 											<img src="images/products/Pizza Boxes.png" class="img-fluid" alt="Pizza Boxes">
 										</div>
 									</div>
-									<a class="pbmit-service-btn" href="pizza-boxes.php" title="Pizza Boxes">
+									<a class="pbmit-service-btn" href="pizza-boxes" title="Pizza Boxes">
 										<span class="pbmit-button-icon-wrapper">
 											<span class="pbmit-button-icon">
 												<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -280,10 +280,10 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-box-content-inner">
 									<div class="pbmit-contant-box">
 										<div class="pbmit-serv-cat">
-											<a href="products.php" rel="tag">Packaging Paper</a>
+											<a href="products" rel="tag">Packaging Paper</a>
 										</div>
 										<h3 class="pbmit-service-title">
-											<a href="pizza-boxes.php">Pizza Boxes</a>
+											<a href="pizza-boxes">Pizza Boxes</a>
 										</h3>
 										<div class="pbmit-service-description">
 											Strong pizza boxes made for safe packing and delivery.
@@ -291,7 +291,7 @@ include('layouts/header.php'); ?>
 									</div>
 								</div>
 							</div>
-							<a class="pbmit-service-btn" href="pizza-boxes.php" title="Pizza Boxes">
+							<a class="pbmit-service-btn" href="pizza-boxes" title="Pizza Boxes">
 								<span class="pbmit-button-icon-wrapper">
 									<span class="pbmit-button-icon">
 										<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -299,7 +299,7 @@ include('layouts/header.php'); ?>
 								</span>
 							</a>
 						</div>
-						<a class="pbmit-link" href="pizza-boxes.php"></a>
+						<a class="pbmit-link" href="pizza-boxes"></a>
 					</div>
 				</article>
 			</div>
@@ -315,7 +315,7 @@ include('layouts/header.php'); ?>
 											<img src="images/products/Sachet Paper.png" class="img-fluid" alt="Sachet Paper">
 										</div>
 									</div>
-									<a class="pbmit-service-btn" href="sachet-paper.php" title="Sachet Paper">
+									<a class="pbmit-service-btn" href="sachet-paper" title="Sachet Paper">
 										<span class="pbmit-button-icon-wrapper">
 											<span class="pbmit-button-icon">
 												<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -326,10 +326,10 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-box-content-inner">
 									<div class="pbmit-contant-box">
 										<div class="pbmit-serv-cat">
-											<a href="products.php" rel="tag">Packaging Paper</a>
+											<a href="products" rel="tag">Packaging Paper</a>
 										</div>
 										<h3 class="pbmit-service-title">
-											<a href="sachet-paper.php">Sachet Paper</a>
+											<a href="sachet-paper">Sachet Paper</a>
 										</h3>
 										<div class="pbmit-service-description">
 											Lightweight packaging paper for small portions and food packs.
@@ -337,7 +337,7 @@ include('layouts/header.php'); ?>
 									</div>
 								</div>
 							</div>
-							<a class="pbmit-service-btn" href="sachet-paper.php" title="Sachet Paper">
+							<a class="pbmit-service-btn" href="sachet-paper" title="Sachet Paper">
 								<span class="pbmit-button-icon-wrapper">
 									<span class="pbmit-button-icon">
 										<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -345,7 +345,7 @@ include('layouts/header.php'); ?>
 								</span>
 							</a>
 						</div>
-						<a class="pbmit-link" href="sachet-paper.php"></a>
+						<a class="pbmit-link" href="sachet-paper"></a>
 					</div>
 				</article>
 			</div>
@@ -360,7 +360,7 @@ include('layouts/header.php'); ?>
 											<img src="images/products/MG Poster Bag.png" class="img-fluid" alt="MG Poster Bag">
 										</div>
 									</div>
-									<a class="pbmit-service-btn" href="mg-poster-bag.php" title="MG Poster Bag">
+									<a class="pbmit-service-btn" href="mg-poster-bag" title="MG Poster Bag">
 										<span class="pbmit-button-icon-wrapper">
 											<span class="pbmit-button-icon">
 												<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -371,10 +371,10 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-box-content-inner">
 									<div class="pbmit-contant-box">
 										<div class="pbmit-serv-cat">
-											<a href="products.php" rel="tag">Packaging Paper</a>
+											<a href="products" rel="tag">Packaging Paper</a>
 										</div>
 										<h3 class="pbmit-service-title">
-											<a href="mg-poster-bag.php">MG Poster Bag</a>
+											<a href="mg-poster-bag">MG Poster Bag</a>
 										</h3>
 										<div class="pbmit-service-description">
 											Premium-finish paper bags for stylish and practical packaging.
@@ -382,7 +382,7 @@ include('layouts/header.php'); ?>
 									</div>
 								</div>
 							</div>
-							<a class="pbmit-service-btn" href="mg-poster-bag.php" title="MG Poster Bag">
+							<a class="pbmit-service-btn" href="mg-poster-bag" title="MG Poster Bag">
 								<span class="pbmit-button-icon-wrapper">
 									<span class="pbmit-button-icon">
 										<i class="pbmit-base-icon-black-arrow-1"></i>
@@ -390,7 +390,7 @@ include('layouts/header.php'); ?>
 								</span>
 							</a>
 						</div>
-						<a class="pbmit-link" href="mg-poster-bag.php"></a>
+						<a class="pbmit-link" href="mg-poster-bag"></a>
 					</div>
 				</article>
 			</div>

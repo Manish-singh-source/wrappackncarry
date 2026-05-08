@@ -17,7 +17,7 @@ include('layouts/header.php'); ?>
 									<h2 class="pbmit-title transform-left transform-delay-2">Eco-friendly food <br class="br">contact paper</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">High-quality packaging solutions for every household.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
-										<a class="pbmit-btn pbmit-btn-white" href="products.php">
+										<a class="pbmit-btn pbmit-btn-white" href="products">
 											<span class="pbmit-button-text">View Product Range </span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
@@ -44,7 +44,7 @@ include('layouts/header.php'); ?>
 									<h2 class="pbmit-title transform-left transform-delay-2">Oil Proof <br class="br">Resistant Paper</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">High-quality paper designed to resist oil and grease, keeping food fresh and clean.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
-										<a class="pbmit-btn pbmit-btn-white" href="oil-grease-resistant-paper.php">
+										<a class="pbmit-btn pbmit-btn-white" href="oil-grease-resistant-paper">
 											<span class="pbmit-button-text">Oil Grease Resistant Paper </span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
@@ -71,7 +71,7 @@ include('layouts/header.php'); ?>
 									<h2 class="pbmit-title transform-left transform-delay-2">Baking & <br class="br"> Cooking Paper</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">Heat resistant, non-stick, oven safe up to ~230°C.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
-										<a class="pbmit-btn pbmit-btn-white" href="baking-and-cooking-paper.php">
+										<a class="pbmit-btn pbmit-btn-white" href="baking-and-cooking-paper">
 											<span class="pbmit-button-text">Baking & Cooking Paper</span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
@@ -98,7 +98,7 @@ include('layouts/header.php'); ?>
 									<h2 class="pbmit-title transform-left transform-delay-2">Kraft <br class="br">Paper Bag</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">Eco-friendly, high-strength paper bags suitable for packaging needs.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
-										<a class="pbmit-btn pbmit-btn-white" href="kraft-paper-bag.php">
+										<a class="pbmit-btn pbmit-btn-white" href="kraft-paper-bag">
 											<span class="pbmit-button-text">Kraft Paper Bag</span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
@@ -125,7 +125,7 @@ include('layouts/header.php'); ?>
 									<h2 class="pbmit-title transform-left transform-delay-2">Eco-Friendly <br class="br">Tableware</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">Eco-friendly tableware designed for sustainable and hygienic food serving.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
-										<a class="pbmit-btn pbmit-btn-white" href="tableware.php">
+										<a class="pbmit-btn pbmit-btn-white" href="tableware">
 											<span class="pbmit-button-text">Tableware</span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
@@ -152,7 +152,7 @@ include('layouts/header.php'); ?>
 									<h2 class="pbmit-title transform-left transform-delay-2">Pizza <br class="br"> Box</h2>
 									<p class="pbmit-desc transform-left transform-delay-3">Biodegradable corrugated kraft pizza boxes for safe and eco-friendly delivery.</p>
 									<div class="pbmit-button transform-bottom transform-delay-4">
-										<a class="pbmit-btn pbmit-btn-white" href="pizza-boxes.php">
+										<a class="pbmit-btn pbmit-btn-white" href="pizza-boxes">
 											<span class="pbmit-button-text">Pizza Box</span>
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
@@ -494,7 +494,7 @@ pizzerias -->
 												<img src="images/products/Oil Grease Resistant Paper.png" class="img-fluid" alt="Oil Grease Resistant Paper">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="oil-grease-resistant-paper.php" title="Oil Grease Resistant Paper">
+										<a class="pbmit-service-btn" href="oil-grease-resistant-paper" title="Oil Grease Resistant Paper">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -505,10 +505,10 @@ pizzerias -->
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="oil-grease-resistant-paper.php" rel="tag">Packaging Paper</a>
+												<a href="oil-grease-resistant-paper" rel="tag">Packaging Paper</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="oil-grease-resistant-paper.php">Oil Grease Resistant Paper</a>
+												<a href="oil-grease-resistant-paper">Oil Grease Resistant Paper</a>
 											</h3>
 											<div class="pbmit-service-description">
 												Oil-resistant paper ideal for wrapping greasy food items neatly.
@@ -516,7 +516,7 @@ pizzerias -->
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="oil-grease-resistant-paper.php" title="Harvest Concepts">
+								<a class="pbmit-service-btn" href="oil-grease-resistant-paper" title="Harvest Concepts">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-shopping-cart"></i>
@@ -524,7 +524,7 @@ pizzerias -->
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="oil-grease-resistant-paper.php"></a>
+							<a class="pbmit-link" href="oil-grease-resistant-paper"></a>
 						</div>
 					</article>
 					<!-- Slide2 Baking & Cooking Paper -->
@@ -538,7 +538,7 @@ pizzerias -->
 												<img src="images/products/Baking & Cooking Paper.png" class="img-fluid" alt="Baking & Cooking Paper">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="baking-and-cooking-paper.php" title="Baking & Cooking Paper">
+										<a class="pbmit-service-btn" href="baking-and-cooking-paper" title="Baking & Cooking Paper">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -549,10 +549,10 @@ pizzerias -->
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="baking-and-cooking-paper.php" rel="tag">Packaging Paper</a>
+												<a href="baking-and-cooking-paper" rel="tag">Packaging Paper</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="baking-and-cooking-paper.php">Baking & Cooking Paper</a>
+												<a href="baking-and-cooking-paper">Baking & Cooking Paper</a>
 											</h3>
 											<div class="pbmit-service-description">
 												Reliable paper suitable for baking, packing, and food wrapping.
@@ -560,7 +560,7 @@ pizzerias -->
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="baking-and-cooking-paper.php" title="Farming Products">
+								<a class="pbmit-service-btn" href="baking-and-cooking-paper" title="Farming Products">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-shopping-cart"></i>
@@ -568,7 +568,7 @@ pizzerias -->
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="baking-and-cooking-paper.php"></a>
+							<a class="pbmit-link" href="baking-and-cooking-paper"></a>
 						</div>
 					</article>
 					<!-- Slide3 Slip Easy Paper -->
@@ -582,7 +582,7 @@ pizzerias -->
 												<img src="images/products/Slip Easy Paper.png" class="img-fluid" alt="Slip Easy Paper">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="slip-easy-paper.php" title="Slip Easy Paper">
+										<a class="pbmit-service-btn" href="slip-easy-paper" title="Slip Easy Paper">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -593,10 +593,10 @@ pizzerias -->
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="slip-easy-paper.php" rel="tag">Packaging Paper</a>
+												<a href="slip-easy-paper" rel="tag">Packaging Paper</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="slip-easy-paper.php">Slip Easy Paper</a>
+												<a href="slip-easy-paper">Slip Easy Paper</a>
 											</h3>
 											<div class="pbmit-service-description">
 												Smooth-finish paper designed for easy wrapping and handling.
@@ -604,7 +604,7 @@ pizzerias -->
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="slip-easy-paper.php" title="Slip Easy Paper">
+								<a class="pbmit-service-btn" href="slip-easy-paper" title="Slip Easy Paper">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-shopping-cart"></i>
@@ -612,7 +612,7 @@ pizzerias -->
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="slip-easy-paper.php"></a>
+							<a class="pbmit-link" href="slip-easy-paper"></a>
 						</div>
 					</article>
 					<!-- Slide4 Kraft Paper Bag -->
@@ -626,7 +626,7 @@ pizzerias -->
 												<img src="images/products/Kraft Paper Bag.png" class="img-fluid" alt="Kraft Paper Bag">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="kraft-paper-bag.php" title="Kraft Paper Bag">
+										<a class="pbmit-service-btn" href="kraft-paper-bag" title="Kraft Paper Bag">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -637,10 +637,10 @@ pizzerias -->
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="kraft-paper-bag.php" rel="tag">Packaging Paper</a>
+												<a href="kraft-paper-bag" rel="tag">Packaging Paper</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="kraft-paper-bag.php">Kraft Paper Bag</a>
+												<a href="kraft-paper-bag">Kraft Paper Bag</a>
 											</h3>
 											<div class="pbmit-service-description">
 												Strong and durable paper bags for takeaway and carrying.
@@ -648,7 +648,7 @@ pizzerias -->
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="kraft-paper-bag.php" title="Kraft Paper Bag">
+								<a class="pbmit-service-btn" href="kraft-paper-bag" title="Kraft Paper Bag">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-shopping-cart"></i>
@@ -656,7 +656,7 @@ pizzerias -->
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="kraft-paper-bag.php"></a>
+							<a class="pbmit-link" href="kraft-paper-bag"></a>
 						</div>
 					</article>
 					<!-- Slide5 Tableware -->
@@ -670,7 +670,7 @@ pizzerias -->
 												<img src="images/products/Tableware.png" class="img-fluid" alt="Tableware">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="tableware.php" title="Tableware">
+										<a class="pbmit-service-btn" href="tableware" title="Tableware">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -681,10 +681,10 @@ pizzerias -->
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="tableware.php" rel="tag">Packaging Paper</a>
+												<a href="tableware" rel="tag">Packaging Paper</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="tableware.php">Tableware</a>
+												<a href="tableware">Tableware</a>
 											</h3>
 											<div class="pbmit-service-description">
 												Eco-friendly tableware for hygienic serving and food presentation.
@@ -692,7 +692,7 @@ pizzerias -->
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="tableware.php" title="Tableware">
+								<a class="pbmit-service-btn" href="tableware" title="Tableware">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-shopping-cart"></i>
@@ -700,7 +700,7 @@ pizzerias -->
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="tableware.php"></a>
+							<a class="pbmit-link" href="tableware"></a>
 						</div>
 					</article>
 					<!-- Slide6 Pizza Boxes -->
@@ -714,7 +714,7 @@ pizzerias -->
 												<img src="images/products/Pizza Boxes.png" class="img-fluid" alt="Pizza Boxes">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="pizza-boxes.php" title="Pizza Boxes">
+										<a class="pbmit-service-btn" href="pizza-boxes" title="Pizza Boxes">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -725,10 +725,10 @@ pizzerias -->
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="pizza-boxes.php" rel="tag">Packaging Paper</a>
+												<a href="pizza-boxes" rel="tag">Packaging Paper</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="pizza-boxes.php">Pizza Boxes</a>
+												<a href="pizza-boxes">Pizza Boxes</a>
 											</h3>
 											<div class="pbmit-service-description">
 												Strong pizza boxes made for safe packing and delivery.
@@ -736,7 +736,7 @@ pizzerias -->
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="pizza-boxes.php" title="Pizza Boxes">
+								<a class="pbmit-service-btn" href="pizza-boxes" title="Pizza Boxes">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-shopping-cart"></i>
@@ -744,7 +744,7 @@ pizzerias -->
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="pizza-boxes.php"></a>
+							<a class="pbmit-link" href="pizza-boxes"></a>
 						</div>
 					</article>
 					<!-- Slide7 Sachet Paper -->
@@ -758,7 +758,7 @@ pizzerias -->
 												<img src="images/products/Sachet Paper.png" class="img-fluid" alt="Sachet Paper">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="sachet-paper.php" title="Sachet Paper">
+										<a class="pbmit-service-btn" href="sachet-paper" title="Sachet Paper">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -769,10 +769,10 @@ pizzerias -->
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="sachet-paper.php" rel="tag">Packaging Paper</a>
+												<a href="sachet-paper" rel="tag">Packaging Paper</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="sachet-paper.php">Sachet Paper</a>
+												<a href="sachet-paper">Sachet Paper</a>
 											</h3>
 											<div class="pbmit-service-description">
 												Lightweight packaging paper for small portions and food packs.
@@ -780,7 +780,7 @@ pizzerias -->
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="sachet-paper.php" title="Sachet Paper">
+								<a class="pbmit-service-btn" href="sachet-paper" title="Sachet Paper">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-shopping-cart"></i>
@@ -788,7 +788,7 @@ pizzerias -->
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="sachet-paper.php"></a>
+							<a class="pbmit-link" href="sachet-paper"></a>
 						</div>
 					</article>
 					<!-- Slide8 MG Poster Bag -->
@@ -802,7 +802,7 @@ pizzerias -->
 												<img src="images/products/MG Poster Bag.png" class="img-fluid" alt="MG Poster Bag">
 											</div>
 										</div>
-										<a class="pbmit-service-btn" href="mg-poster-bag.php" title="MG Poster Bag">
+										<a class="pbmit-service-btn" href="mg-poster-bag" title="MG Poster Bag">
 											<span class="pbmit-button-icon-wrapper">
 												<span class="pbmit-button-icon">
 													<i class="pbmit-base-icon-shopping-cart"></i>
@@ -813,10 +813,10 @@ pizzerias -->
 									<div class="pbmit-box-content-inner">
 										<div class="pbmit-contant-box">
 											<div class="pbmit-serv-cat">
-												<a href="mg-poster-bag.php" rel="tag">Packaging Paper</a>
+												<a href="mg-poster-bag" rel="tag">Packaging Paper</a>
 											</div>
 											<h3 class="pbmit-service-title">
-												<a href="mg-poster-bag.php">MG Poster Bag</a>
+												<a href="mg-poster-bag">MG Poster Bag</a>
 											</h3>
 											<div class="pbmit-service-description">
 												Premium-finish paper bags for stylish and practical packaging.
@@ -824,7 +824,7 @@ pizzerias -->
 										</div>
 									</div>
 								</div>
-								<a class="pbmit-service-btn" href="mg-poster-bag.php" title="MG Poster Bag">
+								<a class="pbmit-service-btn" href="mg-poster-bag" title="MG Poster Bag">
 									<span class="pbmit-button-icon-wrapper">
 										<span class="pbmit-button-icon">
 											<i class="pbmit-base-icon-shopping-cart"></i>
@@ -832,7 +832,7 @@ pizzerias -->
 									</span>
 								</a>
 							</div>
-							<a class="pbmit-link" href="mg-poster-bag.php"></a>
+							<a class="pbmit-link" href="mg-poster-bag"></a>
 						</div>
 					</article>
 				</div>

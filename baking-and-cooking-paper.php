@@ -112,13 +112,13 @@ include('layouts/header.php'); ?>
 				<div class="pbmit-breadcrumb">
 					<div class="pbmit-breadcrumb-inner">
 						<span>
-							<a title="" href="index.php" class="home"><span>Home</span></a>
+							<a title="" href="index" class="home"><span>Home</span></a>
 						</span>
 						<span class="sep">
 							<i class="pbmit-base-icon-angle-right"></i>
 						</span>
 						<span>
-							<a title="" href="product.php" class="home"><span>Products</span></a>
+							<a title="" href="product" class="home"><span>Products</span></a>
 						</span>
 						<span class="sep">
 							<i class="pbmit-base-icon-angle-right"></i>
@@ -145,14 +145,14 @@ include('layouts/header.php'); ?>
 							<h2 class="widget-title">Our Products</h2>
 							<div class="all-post-list">
 								<ul>
-									<li><a href="oil-grease-resistant-paper.php">Oil Grease Resistant Paper </a></li>
-									<!-- <li><a href="baking-and-cooking-paper.php"> Baking & Cooking Paper </a></li> -->
-									<li><a href="slip-easy-paper.php"> Slip Easy Paper </a></li>
-									<li><a href="kraft-paper-bag.php"> Kraft Paper Bag </a></li>
-									<li><a href="tableware.php"> Tableware </a></li>
-									<li><a href="pizza-boxes.php"> Pizza Boxes </a></li>
-									<li><a href="sachet-paper.php"> Sachet Paper </a></li>
-									<li><a href="mg-poster-bag.php"> MG Poster Bag </a></li>
+									<li><a href="oil-grease-resistant-paper">Oil Grease Resistant Paper </a></li>
+									<!-- <li><a href="baking-and-cooking-paper"> Baking & Cooking Paper </a></li> -->
+									<li><a href="slip-easy-paper"> Slip Easy Paper </a></li>
+									<li><a href="kraft-paper-bag"> Kraft Paper Bag </a></li>
+									<li><a href="tableware"> Tableware </a></li>
+									<li><a href="pizza-boxes"> Pizza Boxes </a></li>
+									<li><a href="sachet-paper"> Sachet Paper </a></li>
+									<li><a href="mg-poster-bag"> MG Poster Bag </a></li>
 
 								</ul>
 							</div>
@@ -167,7 +167,7 @@ include('layouts/header.php'); ?>
 									<div class="pbmit-ads-desc">
 										<i class="pbmit-base-icon-phone-call-1"></i>+91 93244 20871
 									</div>
-									<a class="pbmit-btn pbmit-btn-white" href="contact-us.php">
+									<a class="pbmit-btn pbmit-btn-white" href="contact-us">
 										<span class="pbmit-button-text">Contact us Now</span>
 										<span class="pbmit-button-icon-wrapper">
 											<span class="pbmit-button-icon">
@@ -685,7 +685,7 @@ include('layouts/header.php'); ?>
 		document.getElementById('enquiryForm').addEventListener('submit', function(e) {
 			e.preventDefault();
 			var formData = new FormData(this);
-			fetch('submit-enquiry.php', {
+			fetch('submit-enquiry', {
 					method: 'POST',
 					body: formData
 				})
