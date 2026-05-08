@@ -39,6 +39,8 @@
     <!-- Custom Css  -->
     <link rel="stylesheet" href="css/custom.css">
 
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 </head>
 
 <body>

@@ -166,6 +166,7 @@ include('layouts/header.php');
 								<div class="col-md-12">
 									<textarea name="message" cols="40" rows="10" class="form-control" placeholder="Comment" required></textarea>
 								</div>
+								<div class="g-recaptcha" data-sitekey="6Lez9N0sAAAAAKdCbUw6cR-dFSf-ZtT2bg1q5nNW"></div>
 								<div class="col-md-12">
 									<button class="pbmit-btn pbmit-btn-hover-global">
 										<i class="form-btn-loader fa fa-circle-o-notch fa-spin fa-fw margin-bottom d-none"></i>
