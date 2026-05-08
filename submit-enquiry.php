@@ -10,6 +10,32 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $quantity = $_POST['quantity'] ?? '';
     $message = $_POST['message'] ?? '';
 
+    // Validate Google reCAPTCHA
+    $recaptcha_secret = '6Lez9N0sAAAAAKLIka8ofI8b2PIZ3bXu-wnr64D4';
+    $recaptcha_response = $_POST['g-recaptcha-response'] ?? '';
+    $recaptcha_url = 'https://www.google.com/recaptcha/api/siteverify';
+
+    $recaptcha_data = [
+        'secret' => $recaptcha_secret,
+        'response' => $recaptcha_response,
+        'remoteip' => $_SERVER['REMOTE_ADDR']
+    ];
+
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $recaptcha_url);
+    curl_setopt($ch, CURLOPT_POST, true);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($recaptcha_data));
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    $recaptcha_result = curl_exec($ch);
+    curl_close($ch);
+
+    $recaptcha_decoded = json_decode($recaptcha_result, true);
+
+    if (!$recaptcha_decoded['success']) {
+        echo json_encode(['success' => false, 'message' => 'reCAPTCHA verification failed. Please try again.']);
+        exit;
+    }
+
     if (!empty($name) && !empty($phone) && !empty($email) && !empty($product) && !empty($format)) {
         $servername = "localhost";
         $username = "root";
