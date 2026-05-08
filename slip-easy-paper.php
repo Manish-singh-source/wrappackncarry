@@ -557,7 +557,7 @@ include('layouts/header.php'); ?>
 			</div>
 			<div class="form-row box-variant-row mt-2" style="display: none;">
 				<div class="form-group">
-					<label for="variant">Variant</label>
+					<label for="variant">Variant <span class="required">*</span></label>
 					<select id="variant" name="variant">
 						<option value="">Select Variant</option>
 						<option value="20 meter">20 Meter</option>
