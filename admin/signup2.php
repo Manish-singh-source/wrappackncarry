@@ -64,7 +64,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <meta charset="utf-8" />
     <title>Admin Signup | Wrap Pack N Carry </title>
 
-    <link rel="shortcut icon" href="assets/images/wrap-logo.png" />
+    <link rel="shortcut icon" href="assets/images/wrap-logo-2.png" />
     <script src="assets/js/config.js"></script>
     <script src="demo.js"></script>
 
