@@ -196,7 +196,7 @@ pizzerias -->
 							<div class="pbmit-icon-wrapper d-flex align-items-center">
 								<div class="pbmit-ihbox-icon">
 									<div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon">
-										<img src="https://cdn-icons-png.flaticon.com/512/17425/17425587.png" alt="">
+										<img src="https://cdn-icons-png.flaticon.com/512/17425/17425587.png" alt="Food-Safe Packaging">
 									</div>
 								</div>
 								<div class="pbmit-title-wrap">
@@ -225,7 +225,7 @@ pizzerias -->
 							<div class="pbmit-icon-wrapper d-flex align-items-center">
 								<div class="pbmit-ihbox-icon">
 									<div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon">
-										<img src="https://cdn-icons-png.flaticon.com/512/15843/15843127.png" alt="">
+										<img src="https://cdn-icons-png.flaticon.com/512/15843/15843127.png" alt="Eco-Friendly Materials">
 									</div>
 								</div>
 								<div class="pbmit-title-wrap">
@@ -254,7 +254,7 @@ pizzerias -->
 							<div class="pbmit-icon-wrapper d-flex align-items-center">
 								<div class="pbmit-ihbox-icon">
 									<div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon">
-										<img src="https://cdn-icons-png.flaticon.com/512/14491/14491222.png" alt="">
+										<img src="https://cdn-icons-png.flaticon.com/512/14491/14491222.png" alt="Wide Product Range">
 									</div>
 								</div>
 								<div class="pbmit-title-wrap">
@@ -283,7 +283,7 @@ pizzerias -->
 							<div class="pbmit-icon-wrapper d-flex align-items-center">
 								<div class="pbmit-ihbox-icon">
 									<div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon">
-										<img src="https://cdn-icons-png.flaticon.com/512/10391/10391044.png" alt="">
+										<img src="https://cdn-icons-png.flaticon.com/512/10391/10391044.png" alt="Reliable Supply">
 									</div>
 								</div>
 								<div class="pbmit-title-wrap">
@@ -361,7 +361,7 @@ pizzerias -->
 									<div class="pbmit-ihbox-headingicon">
 										<div class="pbmit-ihbox-icon">
 											<div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon">
-												<img src="https://cdn-icons-png.flaticon.com/512/8909/8909186.png" alt="">
+												<img src="https://cdn-icons-png.flaticon.com/512/8909/8909186.png" alt="Eco-Friendly">
 											</div>
 										</div>
 										<h2 class="pbmit-element-title">Eco-Friendly</h2>
@@ -374,7 +374,7 @@ pizzerias -->
 									<div class="pbmit-ihbox-headingicon">
 										<div class="pbmit-ihbox-icon">
 											<div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon">
-												<img src="images/new-banner/Pfas.png" alt="">
+												<img src="images/new-banner/Pfas.png" alt="PFAS Free">
 											</div>
 										</div>
 										<h2 class="pbmit-element-title">PFAS Free</h2>
@@ -491,7 +491,7 @@ pizzerias -->
 									<div class="pbmit-service-image-wrapper">
 										<div class="pbmit-featured-img-wrapper">
 											<div class="pbmit-featured-wrapper">
-												<img src="images/products/Oil Grease Resistant Paper.png" class="img-fluid" alt="service-img-01">
+												<img src="images/products/Oil Grease Resistant Paper.png" class="img-fluid" alt="Oil Grease Resistant Paper">
 											</div>
 										</div>
 										<a class="pbmit-service-btn" href="oil-grease-resistant-paper.php" title="Oil Grease Resistant Paper">
@@ -535,7 +535,7 @@ pizzerias -->
 									<div class="pbmit-service-image-wrapper">
 										<div class="pbmit-featured-img-wrapper">
 											<div class="pbmit-featured-wrapper">
-												<img src="images/products/Baking & Cooking Paper.png" class="img-fluid" alt="service-img-01">
+												<img src="images/products/Baking & Cooking Paper.png" class="img-fluid" alt="Baking & Cooking Paper">
 											</div>
 										</div>
 										<a class="pbmit-service-btn" href="baking-and-cooking-paper.php" title="Baking & Cooking Paper">
@@ -579,7 +579,7 @@ pizzerias -->
 									<div class="pbmit-service-image-wrapper">
 										<div class="pbmit-featured-img-wrapper">
 											<div class="pbmit-featured-wrapper">
-												<img src="images/products/Slip Easy Paper.png" class="img-fluid" alt="service-img-01">
+												<img src="images/products/Slip Easy Paper.png" class="img-fluid" alt="Slip Easy Paper">
 											</div>
 										</div>
 										<a class="pbmit-service-btn" href="slip-easy-paper.php" title="Slip Easy Paper">
@@ -623,7 +623,7 @@ pizzerias -->
 									<div class="pbmit-service-image-wrapper">
 										<div class="pbmit-featured-img-wrapper">
 											<div class="pbmit-featured-wrapper">
-												<img src="images/products/Kraft Paper Bag.png" class="img-fluid" alt="service-img-01">
+												<img src="images/products/Kraft Paper Bag.png" class="img-fluid" alt="Kraft Paper Bag">
 											</div>
 										</div>
 										<a class="pbmit-service-btn" href="kraft-paper-bag.php" title="Kraft Paper Bag">
@@ -667,7 +667,7 @@ pizzerias -->
 									<div class="pbmit-service-image-wrapper">
 										<div class="pbmit-featured-img-wrapper">
 											<div class="pbmit-featured-wrapper">
-												<img src="images/products/Tableware.png" class="img-fluid" alt="service-img-01">
+												<img src="images/products/Tableware.png" class="img-fluid" alt="Tableware">
 											</div>
 										</div>
 										<a class="pbmit-service-btn" href="tableware.php" title="Tableware">
@@ -711,7 +711,7 @@ pizzerias -->
 									<div class="pbmit-service-image-wrapper">
 										<div class="pbmit-featured-img-wrapper">
 											<div class="pbmit-featured-wrapper">
-												<img src="images/products/Pizza Boxes.png" class="img-fluid" alt="service-img-01">
+												<img src="images/products/Pizza Boxes.png" class="img-fluid" alt="Pizza Boxes">
 											</div>
 										</div>
 										<a class="pbmit-service-btn" href="pizza-boxes.php" title="Pizza Boxes">
@@ -755,7 +755,7 @@ pizzerias -->
 									<div class="pbmit-service-image-wrapper">
 										<div class="pbmit-featured-img-wrapper">
 											<div class="pbmit-featured-wrapper">
-												<img src="images/products/Sachet Paper.png" class="img-fluid" alt="service-img-01">
+												<img src="images/products/Sachet Paper.png" class="img-fluid" alt="Sachet Paper">
 											</div>
 										</div>
 										<a class="pbmit-service-btn" href="sachet-paper.php" title="Sachet Paper">
@@ -799,7 +799,7 @@ pizzerias -->
 									<div class="pbmit-service-image-wrapper">
 										<div class="pbmit-featured-img-wrapper">
 											<div class="pbmit-featured-wrapper">
-												<img src="images/products/MG Poster Bag.png" class="img-fluid" alt="service-img-01">
+												<img src="images/products/MG Poster Bag.png" class="img-fluid" alt="MG Poster Bag">
 											</div>
 										</div>
 										<a class="pbmit-service-btn" href="mg-poster-bag.php" title="MG Poster Bag">
@@ -881,7 +881,7 @@ pizzerias -->
 				</div>
 				<div class="col-md-4">
 					<div class="text-center">
-						<img src="images/banners/wrap_n_pack_carry_2.png" class="img-fluid" alt="">
+						<img src="images/banners/wrap_n_pack_carry_2.png" class="img-fluid" alt="Wrap Pack N Carry - Made from Nature">
 					</div>
 				</div>
 				<div class="col-md-4">
@@ -929,7 +929,7 @@ pizzerias -->
 						<div class="pbminfotech-post-content">
 							<div class="pbmit-featured-img-wrapper">
 								<div class="pbmit-featured-wrapper">
-									<img src="images/portfolio-image/1.png" class="img-fluid" alt="">
+									<img src="images/portfolio-image/1.png" class="img-fluid" alt="Portfolio Image">
 								</div>
 							</div>
 							<div class="pbminfotech-box-content">
@@ -949,7 +949,7 @@ pizzerias -->
 						<div class="pbminfotech-post-content">
 							<div class="pbmit-featured-img-wrapper">
 								<div class="pbmit-featured-wrapper">
-									<img src="images/portfolio-image/2.png" class="img-fluid" alt="">
+									<img src="images/portfolio-image/2.png" class="img-fluid" alt="Portfolio Image">
 								</div>
 							</div>
 							<div class="pbminfotech-box-content">
@@ -969,7 +969,7 @@ pizzerias -->
 						<div class="pbminfotech-post-content">
 							<div class="pbmit-featured-img-wrapper">
 								<div class="pbmit-featured-wrapper">
-									<img src="images/portfolio-image/3.png" class="img-fluid" alt="">
+									<img src="images/portfolio-image/3.png" class="img-fluid" alt="Portfolio Image">
 								</div>
 							</div>
 							<div class="pbminfotech-box-content">
@@ -989,7 +989,7 @@ pizzerias -->
 						<div class="pbminfotech-post-content">
 							<div class="pbmit-featured-img-wrapper">
 								<div class="pbmit-featured-wrapper">
-									<img src="images/portfolio-image/4.png" class="img-fluid" alt="">
+									<img src="images/portfolio-image/4.png" class="img-fluid" alt="Portfolio Image">
 								</div>
 							</div>
 							<div class="pbminfotech-box-content">
@@ -1009,7 +1009,7 @@ pizzerias -->
 						<div class="pbminfotech-post-content">
 							<div class="pbmit-featured-img-wrapper">
 								<div class="pbmit-featured-wrapper">
-									<img src="images/portfolio-image/5.png" class="img-fluid" alt="">
+									<img src="images/portfolio-image/5.png" class="img-fluid" alt="Portfolio Image">
 								</div>
 							</div>
 							<div class="pbminfotech-box-content">
@@ -1029,7 +1029,7 @@ pizzerias -->
 						<div class="pbminfotech-post-content">
 							<div class="pbmit-featured-img-wrapper">
 								<div class="pbmit-featured-wrapper">
-									<img src="images/portfolio-image/8.png" class="img-fluid" alt="">
+									<img src="images/portfolio-image/8.png" class="img-fluid" alt="Portfolio Image">
 								</div>
 							</div>
 							<div class="pbminfotech-box-content">
@@ -1049,7 +1049,7 @@ pizzerias -->
 						<div class="pbminfotech-post-content">
 							<div class="pbmit-featured-img-wrapper">
 								<div class="pbmit-featured-wrapper">
-									<img src="images/portfolio-image/9.png" class="img-fluid" alt="">
+									<img src="images/portfolio-image/9.png" class="img-fluid" alt="Portfolio Image">
 								</div>
 							</div>
 							<div class="pbminfotech-box-content">
@@ -1069,7 +1069,7 @@ pizzerias -->
 						<div class="pbminfotech-post-content">
 							<div class="pbmit-featured-img-wrapper">
 								<div class="pbmit-featured-wrapper">
-									<img src="images/portfolio-image/10.png" class="img-fluid" alt="">
+									<img src="images/portfolio-image/10.png" class="img-fluid" alt="Portfolio Image">
 								</div>
 							</div>
 							<div class="pbminfotech-box-content">
@@ -1305,7 +1305,7 @@ pizzerias -->
 							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/padumjee.png" class="img-fluid" alt="">
+										<img src="images/clients/padumjee.png" class="img-fluid" alt="Padumjee">
 									</div>
 								</div>
 							</div>
@@ -1317,7 +1317,7 @@ pizzerias -->
 							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/9.png" class="img-fluid" alt="">
+										<img src="images/clients/om-shivay.png" class="img-fluid" alt="Om Shivay">
 									</div>
 								</div>
 							</div>
@@ -1329,7 +1329,7 @@ pizzerias -->
 							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/3.png" class="img-fluid" alt="">
+										<img src="images/clients/chandpur-paper.png" class="img-fluid" alt="Chandpur Paper">
 									</div>
 								</div>
 							</div>
@@ -1341,7 +1341,7 @@ pizzerias -->
 							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/14.png" class="img-fluid" alt="">
+										<img src="images/clients/venky-global.png" class="img-fluid" alt="Venky Global">
 									</div>
 								</div>
 							</div>
@@ -1353,7 +1353,7 @@ pizzerias -->
 							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/jpc.png" class="img-fluid" alt="">
+										<img src="images/clients/jpc.png" class="img-fluid" alt="JPC">
 									</div>
 								</div>
 							</div>

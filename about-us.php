@@ -85,7 +85,7 @@ include('layouts/header.php'); ?>
 									<div class="pbmit-ihbox-headingicon">
 										<div class="pbmit-ihbox-icon">
 											<div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon">
-												<img src="https://cdn-icons-png.flaticon.com/512/8909/8909186.png" alt="">
+												<img src="https://cdn-icons-png.flaticon.com/512/8909/8909186.png" alt="Eco-Friendly">
 											</div>
 										</div>
 										<h2 class="pbmit-element-title">Eco-Friendly</h2>
@@ -98,7 +98,7 @@ include('layouts/header.php'); ?>
 									<div class="pbmit-ihbox-headingicon">
 										<div class="pbmit-ihbox-icon">
 											<div class="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon">
-												<img src="images/new-banner/Pfas.png" alt="">
+												<img src="images/new-banner/Pfas.png" alt="PFAS Free">
 											</div>
 										</div>
 										<h2 class="pbmit-element-title">PFAS Free</h2>
@@ -549,16 +549,16 @@ include('layouts/header.php'); ?>
 						<div class="swiper-slider pbmit-hover-image-faded">
 							<div class="swiper-wrapper">
 								<div class="swiper-slide">
-									<img src="images/products/Process-1.png" alt="Schedule Your Experience">
+									<img src="images/products/Process-1.png" alt="Process-1">
 								</div>
 								<div class="swiper-slide">
-									<img src="images/products/Process-2.png" alt="Get Professional Advice">
+									<img src="images/products/Process-2.png" alt="Process-2">
 								</div>
 								<div class="swiper-slide">
-									<img src="images/products/Process-3.png" alt="Meet Our Expert Farmer">
+									<img src="images/products/Process-3.png" alt="Process-3">
 								</div>
 								<div class="swiper-slide">
-									<img src="images/products/Process-4.png" alt="Now Get a Best Products">
+									<img src="images/products/Process-4.png" alt="Process-4">
 								</div>
 							</div>
 							<div class="pbmit-contentbox">

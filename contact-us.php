@@ -199,7 +199,7 @@ include('layouts/header.php');
 							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/padumjee.png" class="img-fluid" alt="">
+										<img src="images/clients/padumjee.png" class="img-fluid" alt="Padumjee">
 									</div>
 								</div>
 							</div>
@@ -211,7 +211,7 @@ include('layouts/header.php');
 							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/9.png" class="img-fluid" alt="">
+										<img src="images/clients/om-shivay.png" class="img-fluid" alt="Om Shivay">
 									</div>
 								</div>
 							</div>
@@ -223,7 +223,7 @@ include('layouts/header.php');
 							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/3.png" class="img-fluid" alt="">
+										<img src="images/clients/chandpur-paper.png" class="img-fluid" alt="Chandpur Paper">
 									</div>
 								</div>
 							</div>
@@ -235,7 +235,7 @@ include('layouts/header.php');
 							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/14.png" class="img-fluid" alt="">
+										<img src="images/clients/venky-global.png" class="img-fluid" alt="Venky Global">
 									</div>
 								</div>
 							</div>
@@ -247,7 +247,7 @@ include('layouts/header.php');
 							<div class="pbmit-client-wrapper">
 								<div class="pbmit-featured-img-wrapper">
 									<div class="pbmit-featured-wrapper">
-										<img src="images/clients/jpc.png" class="img-fluid" alt="">
+										<img src="images/clients/jpc.png" class="img-fluid" alt="JPC">
 									</div>
 								</div>
 							</div>

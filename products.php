@@ -41,7 +41,7 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-service-image-wrapper">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/products/Oil Grease Resistant Paper.png" class="img-fluid" alt="">
+											<img src="images/products/Oil Grease Resistant Paper.png" class="img-fluid" alt="Oil Grease Resistant Paper">
 										</div>
 									</div>
 									<a class="pbmit-service-btn" href="oil-grease-resistant-paper.php" title="Oil Grease Resistant Paper">
@@ -86,7 +86,7 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-service-image-wrapper">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/products/Baking & Cooking Paper.png" class="img-fluid" alt="">
+											<img src="images/products/Baking & Cooking Paper.png" class="img-fluid" alt="Baking & Cooking Paper">
 										</div>
 									</div>
 									<a class="pbmit-service-btn" href="baking-and-cooking-paper.php" title="Baking & Cooking Paper">
@@ -131,7 +131,7 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-service-image-wrapper">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/products/Slip Easy Paper.png" class="img-fluid" alt="">
+											<img src="images/products/Slip Easy Paper.png" class="img-fluid" alt="Slip Easy Paper">
 										</div>
 									</div>
 									<a class="pbmit-service-btn" href="slip-easy-paper.php" title="Slip Easy Paper">
@@ -176,7 +176,7 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-service-image-wrapper">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/products/Kraft Paper Bag.png" class="img-fluid" alt="">
+											<img src="images/products/Kraft Paper Bag.png" class="img-fluid" alt="Kraft Paper Bag">
 										</div>
 									</div>
 									<a class="pbmit-service-btn" href="kraft-paper-bag.php" title="Kraft Paper Bag">
@@ -221,7 +221,7 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-service-image-wrapper">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/products/Tableware.png" class="img-fluid" alt="">
+											<img src="images/products/Tableware.png" class="img-fluid" alt="Tableware">
 										</div>
 									</div>
 									<a class="pbmit-service-btn" href="tableware.php" title="Tableware">
@@ -266,7 +266,7 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-service-image-wrapper">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/products/Pizza Boxes.png" class="img-fluid" alt="">
+											<img src="images/products/Pizza Boxes.png" class="img-fluid" alt="Pizza Boxes">
 										</div>
 									</div>
 									<a class="pbmit-service-btn" href="pizza-boxes.php" title="Pizza Boxes">
@@ -312,7 +312,7 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-service-image-wrapper">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/products/Sachet Paper.png" class="img-fluid" alt="">
+											<img src="images/products/Sachet Paper.png" class="img-fluid" alt="Sachet Paper">
 										</div>
 									</div>
 									<a class="pbmit-service-btn" href="sachet-paper.php" title="Sachet Paper">
@@ -357,7 +357,7 @@ include('layouts/header.php'); ?>
 								<div class="pbmit-service-image-wrapper">
 									<div class="pbmit-featured-img-wrapper">
 										<div class="pbmit-featured-wrapper">
-											<img src="images/products/MG Poster Bag.png" class="img-fluid" alt="">
+											<img src="images/products/MG Poster Bag.png" class="img-fluid" alt="MG Poster Bag">
 										</div>
 									</div>
 									<a class="pbmit-service-btn" href="mg-poster-bag.php" title="MG Poster Bag">
