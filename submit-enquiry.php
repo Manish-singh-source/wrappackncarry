@@ -54,6 +54,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $stmt->bind_param("sssssssss", $name, $phone, $email, $product, $format, $variant, $size, $quantity, $message);
 
         if ($stmt->execute()) {
+            /*
+            // =====================================================
+            // EMAIL SENDING CODE - DISABLED (Uncomment to enable)
+            // =====================================================
+            
             // Load PHPMailer
             require(__DIR__ . '/PHPMailer/src/PHPMailer.php');
             require(__DIR__ . '/PHPMailer/src/SMTP.php');
@@ -153,7 +158,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         <tr>
                             <td align="center" style="padding:40px 20px;">
                                 <table border="0" cellspacing="0" cellpadding="0" class="card">
-                                    <!-- Header -->
                                     <tr>
                                         <td align="center"
                                             style="
@@ -164,7 +168,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                                                 width="220">
                                         </td>
                                     </tr>
-                                    <!-- Title -->
                                     <tr>
                                         <td class="content">
                                             <h1 class="heading">
@@ -173,7 +176,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                                             <p class="text">
                                                 Client has submitted the following details through the website enquiry form.
                                             </p>
-                                            <!-- Data -->
                                             <table width="100%" border="0" cellspacing="0" cellpadding="0"
                                                 class="data-box mobile-stack">
                                                 <tr>
@@ -323,7 +325,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                                             </table>
                                         </td>
                                     </tr>
-                                    <!-- Footer -->
                                     <tr>
                                         <td align="center"
                                             style="
@@ -342,7 +343,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                                                         color:#F8F3E0;
                                                         text-decoration:none;
                                                     ">
-                                                        info@wrappackncarry.com
+                                                    info@wrappackncarry.com
                                                 </a>
                                             </p>
                                         </td>
@@ -369,12 +370,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $mail->Subject = 'Received an enquiry from the WrapPackNCarry website enquiry form (' . $currentDateTime . ')';
             $mail->Body = $htmlbody;
             $mail->send();
+            // =====================================================
+            // END OF EMAIL SENDING CODE
+            // =====================================================
+            */
 
             echo json_encode(['success' => true, 'message' => 'Thank you! Your enquiry has been submitted successfully. We will contact you soon.']);
         } else {
             echo json_encode(['success' => false, 'message' => 'Database error: ' . $stmt->error]);
         }
-         
+        
         $stmt->close();
         $conn->close();
     } else {

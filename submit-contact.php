@@ -23,6 +23,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $stmt->bind_param("sssss", $name, $phone, $email, $subject, $message);
 
         if ($stmt->execute()) {
+            /*
+            // =====================================================
+            // EMAIL SENDING CODE - DISABLED (Uncomment to enable)
+            // =====================================================
+            
             // Load PHPMailer
             require(__DIR__ . '/PHPMailer/src/PHPMailer.php');
             require(__DIR__ . '/PHPMailer/src/SMTP.php');
@@ -535,6 +540,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $client_mail->Subject = 'Thank You for Your Enquiry - WrapPackNCarry Team (' . $currentDateTime . ')';
             $client_mail->Body = $client_htmlbody;
             $client_mail->send();
+            // =====================================================
+            // END OF EMAIL SENDING CODE
+            // =====================================================
+            */
 
             header("Location: contact-us.php?success=1");
             exit();
