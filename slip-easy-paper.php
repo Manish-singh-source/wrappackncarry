@@ -574,9 +574,8 @@ include('layouts/header.php'); ?>
 					</div>
 				</div>
 			</div> -->
-			<div class="platform-links-row" style="display: none;">
+			<!-- <div class="platform-links-row" style="display: none;">
 				<div class="platform-links">
-					<!-- <span class="platform-label">Buy from:</span> -->
 					<p class="discount-note">Get 10% Discount on</p>
 					<a href="https://www.flipkart.com" target="_blank" class="platform-link" title="Flipkart">
 						<img src="images/products/flipkart.png" alt="Flipkart">
@@ -585,7 +584,7 @@ include('layouts/header.php'); ?>
 						<img src="images/products/amazon.png" alt="Amazon">
 					</a>
 				</div>
-			</div>
+			</div> -->
 			<!-- <div class="form-group">
                 <label for="quantity">Quantity</label>
                 <input type="text" id="quantity" name="quantity" placeholder="e.g. 100 kg, 500 kg, 1 ton">
@@ -616,7 +615,7 @@ include('layouts/header.php'); ?>
 		// const modalFormat = document.getElementById('modalFormat');
 
 		const variantRow = document.querySelector('.box-variant-row');
-		const platformRow = document.querySelector('.platform-links-row');
+		// const platformRow = document.querySelector('.platform-links-row');
 
 		enquireBtns.forEach(btn => {
 			btn.addEventListener('click', function() {
@@ -625,11 +624,11 @@ include('layouts/header.php'); ?>
 
 				if (format === 'Box') {
 					variantRow.style.display = 'flex';
-					platformRow.style.display = 'block';
+					// platformRow.style.display = 'block';
 					document.getElementById('variant').setAttribute('required', 'required');
 				} else {
 					variantRow.style.display = 'none';
-					platformRow.style.display = 'none';
+					// platformRow.style.display = 'none';
 					document.getElementById('variant').removeAttribute('required');
 				}
 

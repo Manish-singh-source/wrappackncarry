@@ -600,12 +600,24 @@ include('layouts/header.php'); ?>
 			<div class="platform-links-row" style="display: none;">
 				<div class="platform-links">
 					<!-- <span class="platform-label">Buy from:</span> -->
-					<p class="discount-note">Get 10% Discount on</p>
-					<a href="https://www.flipkart.com" target="_blank" class="platform-link" title="Flipkart">
+					<p class="discount-note">Available on</p>
+					<a href="#" target="_blank" class="platform-link" title="Amazon">
+						<img src="images/products/amazon.png" alt="Amazon">
+					</a>
+					<a href="#" target="_blank" class="platform-link" title="Flipkart">
 						<img src="images/products/flipkart.png" alt="Flipkart">
 					</a>
-					<a href="https://www.amazon.in" target="_blank" class="platform-link" title="Amazon">
-						<img src="images/products/amazon.png" alt="Amazon">
+					<a href="#" target="_blank" class="platform-link" title="blinkit">
+						<img src="images/products/blinkit.png" alt="blinkit">
+					</a>
+					<a href="#" target="_blank" class="platform-link" title="bigbasket">
+						<img src="images/products/bigbasket.png" alt="bigbasket">
+					</a>
+					<a href="#" target="_blank" class="platform-link" title="swiggy-instamart">
+						<img src="images/products/swiggy-instamart.png" alt="swiggy-instamart">
+					</a>
+					<a href="#" target="_blank" class="platform-link" title="zepto">
+						<img src="images/products/zepto.png" alt="zepto">
 					</a>
 				</div>
 			</div>

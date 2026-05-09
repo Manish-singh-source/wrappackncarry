@@ -609,18 +609,29 @@ include('layouts/header.php'); ?>
 					</div>
 				</div>
 			</div> -->
-			<div class="platform-links-row" style="display: none;">
+			<!-- <div class="platform-links-row" style="display: none;">
 				<div class="platform-links">
-					<!-- <span class="platform-label">Buy from:</span> -->
-					<p class="discount-note">Get 10% Discount on</p>
-					<a href="https://www.flipkart.com" target="_blank" class="platform-link" title="Flipkart">
-						<img src="images/products/flipkart.png" alt="Flipkart">
-					</a>
-					<a href="https://www.amazon.in" target="_blank" class="platform-link" title="Amazon">
+					<p class="discount-note">Available on</p>
+					<a href="#" target="_blank" class="platform-link" title="Amazon">
 						<img src="images/products/amazon.png" alt="Amazon">
 					</a>
+					<a href="#" target="_blank" class="platform-link" title="Flipkart">
+						<img src="images/products/flipkart.png" alt="Flipkart">
+					</a>
+					<a href="#" target="_blank" class="platform-link" title="blinkit">
+						<img src="images/products/blinkit.png" alt="blinkit">
+					</a>
+					<a href="#" target="_blank" class="platform-link" title="bigbasket">
+						<img src="images/products/bigbasket.png" alt="bigbasket">
+					</a>
+					<a href="#" target="_blank" class="platform-link" title="swiggy-instamart">
+						<img src="images/products/swiggy-instamart.png" alt="swiggy-instamart">
+					</a>
+					<a href="#" target="_blank" class="platform-link" title="zepto">
+						<img src="images/products/zepto.png" alt="zepto">
+					</a>
 				</div>
-			</div>
+			</div> -->
 			<!-- <div class="form-group">
                 <label for="quantity">Quantity</label>
                 <input type="text" id="quantity" name="quantity" placeholder="e.g. 100 kg, 500 kg, 1 ton">
@@ -651,7 +662,7 @@ include('layouts/header.php'); ?>
 		// const modalFormat = document.getElementById('modalFormat');
 
 		const variantRow = document.querySelector('.box-variant-row');
-		const platformRow = document.querySelector('.platform-links-row');
+		// const platformRow = document.querySelector('.platform-links-row');
 
         enquireBtns.forEach(btn => {
             btn.addEventListener('click', function() {
@@ -660,10 +671,10 @@ include('layouts/header.php'); ?>
 
                 if (format === 'Box' || format === 'Plates' || format === 'Bowls') {
                     variantRow.style.display = 'flex';
-                    platformRow.style.display = 'block';
+                    // platformRow.style.display = 'block';
                 } else {
                     variantRow.style.display = 'none';
-                    platformRow.style.display = 'none';
+                    // platformRow.style.display = 'none';
                 }
 
                 modal.classList.add('show');
