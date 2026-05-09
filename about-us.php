@@ -616,7 +616,7 @@ include('layouts/header.php'); ?>
 								<a href="javascript:void(0);">
 									<div class="pbmit-static-box-number">02</div>
 									<div class="pbminfotech-box-title">
-										<h4>Product Selection</h4>
+										<h4>Product Selection</h4> 
 									</div>
 									<div class="pbmit-desc">Tell us your packaging needs and quantity.</div>
 								</a>
