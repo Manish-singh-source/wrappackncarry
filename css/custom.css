@@ -18,7 +18,7 @@
 }
 
 .who-we-are-one-leftbox {
-    background-image: url(../images/banners/new-who-we-are-image.png);
+    background-image: url(../images/banners/new-who-we-are-image.webp);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -133,27 +133,27 @@
 }
 
 .pbmit-slider-bg.hero-0 {
-    background-image: url(../images/banners/web-banner/6.png);
+    background-image: url(../images/banners/web-banner/6.webp);
 }
 
 .pbmit-slider-bg.hero-1 {
-    background-image: url(../images/banners/web-banner/1.png);
+    background-image: url(../images/banners/web-banner/1.webp);
 }
 
 .pbmit-slider-bg.hero-2 {
-    background-image: url(../images/banners/web-banner/2.png);
+    background-image: url(../images/banners/web-banner/2.webp);
 }
 
 .pbmit-slider-bg.hero-3 {
-    background-image: url(../images/banners/web-banner/3.png);
+    background-image: url(../images/banners/web-banner/3.webp);
 }
 
 .pbmit-slider-bg.hero-4 {
-    background-image: url(../images/banners/web-banner/4.png);
+    background-image: url(../images/banners/web-banner/4.webp);
 }
 
 .pbmit-slider-bg.hero-5 {
-    background-image: url(../images/banners/web-banner/5.png);
+    background-image: url(../images/banners/web-banner/5.webp);
 }
 
 
@@ -772,7 +772,7 @@
 .pbmit-title-bar-wrapper {
     position: relative;
     z-index: 1;
-    background-image: url(../images/banners/about-us-banner.png);
+    background-image: url(../images/banners/about-us-banner.webp);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -782,7 +782,7 @@
 .pbmit-title-bar-wrapper.ogr {
     position: relative;
     z-index: 1;
-    background-image: url(../images/new-banner/ogr-paper.png);
+    background-image: url(../images/new-banner/ogr-paper.webp);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -792,7 +792,7 @@
 .pbmit-title-bar-wrapper.bakeon {
     position: relative;
     z-index: 1;
-    background-image: url(../images/new-banner/bakeonpaper.png);
+    background-image: url(../images/new-banner/bakeonpaper.webp);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -802,7 +802,7 @@
 .pbmit-title-bar-wrapper.slip {
     position: relative;
     z-index: 1;
-    background-image: url(../images/new-banner/slip-easy-paper.png);
+    background-image: url(../images/new-banner/slip-easy-paper.webp);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -812,7 +812,7 @@
 .pbmit-title-bar-wrapper.mg {
     position: relative;
     z-index: 1;
-    background-image: url(../images/new-banner/mg.png);
+    background-image: url(../images/new-banner/mg.webp);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -822,7 +822,7 @@
 .pbmit-title-bar-wrapper.pizza {
     position: relative;
     z-index: 1;
-    background-image: url(../images/new-banner/pizza.png);
+    background-image: url(../images/new-banner/pizza.webp);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -832,7 +832,7 @@
 .pbmit-title-bar-wrapper.kraft {
     position: relative;
     z-index: 1;
-    background-image: url(../images/new-banner/kraft-paper-bag.png);
+    background-image: url(../images/new-banner/kraft-paper-bag.webp);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -842,7 +842,7 @@
 .pbmit-title-bar-wrapper.sachet {
     position: relative;
     z-index: 1;
-    background-image: url(../images/new-banner/sachet-paper.png);
+    background-image: url(../images/new-banner/sachet-paper.webp);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -852,7 +852,7 @@
 .pbmit-title-bar-wrapper.tableware {
     position: relative;
     z-index: 1;
-    background-image: url(../images/new-banner/tablewear.png);
+    background-image: url(../images/new-banner/tablewear.webp);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -860,7 +860,7 @@
 }
 
 .contact-img-box {
-    background-image: url(../images/products/contact-us.avif);
+    background-image: url(../images/products/contact-us.webp);
 }
 
 .site-footer .pbmit-footer-big-area .pbmit-footer-right h3 {
@@ -1014,7 +1014,7 @@ body .pbmit-bg-color-global {
     .pbmit-title-bar-wrapper {
         position: relative;
         z-index: 1;
-        background-image: url(../images/banners/mob-banner/about-us-banner-mob.png);
+        background-image: url(../images/banners/mob-banner/about-us-banner-mob.webp);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -1024,7 +1024,7 @@ body .pbmit-bg-color-global {
     .pbmit-title-bar-wrapper.ogr {
         position: relative;
         z-index: 1;
-        background-image: url(../images/banners/mob-banner/ogr-paper-mob.png);
+        background-image: url(../images/banners/mob-banner/ogr-paper-mob.webp);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -1034,7 +1034,7 @@ body .pbmit-bg-color-global {
     .pbmit-title-bar-wrapper.bakeon {
         position: relative;
         z-index: 1;
-        background-image: url(../images/banners/mob-banner/bakeonpaper-mob.png);
+        background-image: url(../images/banners/mob-banner/bakeonpaper-mob.webp);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -1044,7 +1044,7 @@ body .pbmit-bg-color-global {
     .pbmit-title-bar-wrapper.slip {
         position: relative;
         z-index: 1;
-        background-image: url(../images/banners/mob-banner/slip-easy-paper-mob.png);
+        background-image: url(../images/banners/mob-banner/slip-easy-paper-mob.webp);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -1054,7 +1054,7 @@ body .pbmit-bg-color-global {
     .pbmit-title-bar-wrapper.mg {
         position: relative;
         z-index: 1;
-        background-image: url(../images/banners/mob-banner/mg-mob.png);
+        background-image: url(../images/banners/mob-banner/mg-mob.webp);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -1064,7 +1064,7 @@ body .pbmit-bg-color-global {
     .pbmit-title-bar-wrapper.pizza {
         position: relative;
         z-index: 1;
-        background-image: url(../images/banners/mob-banner/pizza-mob.png);
+        background-image: url(../images/banners/mob-banner/pizza-mob.webp);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -1074,7 +1074,7 @@ body .pbmit-bg-color-global {
     .pbmit-title-bar-wrapper.kraft {
         position: relative;
         z-index: 1;
-        background-image: url(../images/banners/mob-banner/kraft-paper-bag-mob.png);
+        background-image: url(../images/banners/mob-banner/kraft-paper-bag-mob.webp);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -1084,7 +1084,7 @@ body .pbmit-bg-color-global {
     .pbmit-title-bar-wrapper.sachet {
         position: relative;
         z-index: 1;
-        background-image: url(../images/banners/mob-banner/sachet-paper-mob.png);
+        background-image: url(../images/banners/mob-banner/sachet-paper-mob.webp);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -1094,7 +1094,7 @@ body .pbmit-bg-color-global {
     .pbmit-title-bar-wrapper.tableware {
         position: relative;
         z-index: 1;
-        background-image: url(../images/banners/mob-banner/tablewear-mob.png);
+        background-image: url(../images/banners/mob-banner/tablewear-mob.webp);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
@@ -1102,27 +1102,27 @@ body .pbmit-bg-color-global {
     }
 
     .pbmit-slider-bg.hero-0 {
-        background-image: url(../images/banners/mob-banner/6.png);
+        background-image: url(../images/banners/mob-banner/6.webp);
     }
 
     .pbmit-slider-bg.hero-1 {
-        background-image: url(../images/banners/mob-banner/1.png);
+        background-image: url(../images/banners/mob-banner/1.webp);
     }
 
     .pbmit-slider-bg.hero-2 {
-        background-image: url(../images/banners/mob-banner/2.png);
+        background-image: url(../images/banners/mob-banner/2.webp);
     }
 
     .pbmit-slider-bg.hero-3 {
-        background-image: url(../images/banners/mob-banner/3.png);
+        background-image: url(../images/banners/mob-banner/3.webp);
     }
 
     .pbmit-slider-bg.hero-4 {
-        background-image: url(../images/banners/mob-banner/4.png);
+        background-image: url(../images/banners/mob-banner/4.webp);
     }
 
     .pbmit-slider-bg.hero-5 {
-        background-image: url(../images/banners/mob-banner/5.png);
+        background-image: url(../images/banners/mob-banner/5.webp);
     }
 
     .pbmit-heading-subheading {
@@ -1199,27 +1199,27 @@ body .pbmit-bg-color-global {
     }
 
     .pbmit-slider-bg.hero-0 {
-        background-image: url(../images/banners/web-banner/6.png);
+        background-image: url(../images/banners/web-banner/6.webp);
     }
 
     .pbmit-slider-bg.hero-1 {
-        background-image: url(../images/banners/web-banner/1.png);
+        background-image: url(../images/banners/web-banner/1.webp);
     }
 
     .pbmit-slider-bg.hero-2 {
-        background-image: url(../images/banners/web-banner/2.png);
+        background-image: url(../images/banners/web-banner/2.webp);
     }
 
     .pbmit-slider-bg.hero-3 {
-        background-image: url(../images/banners/web-banner/3.png);
+        background-image: url(../images/banners/web-banner/3.webp);
     }
 
     .pbmit-slider-bg.hero-4 {
-        background-image: url(../images/banners/web-banner/4.png);
+        background-image: url(../images/banners/web-banner/4.webp);
     }
 
     .pbmit-slider-bg.hero-5 {
-        background-image: url(../images/banners/web-banner/5.png);
+        background-image: url(../images/banners/web-banner/5.webp);
     }
 
     .pbmit-heading-subheading {
@@ -1238,27 +1238,27 @@ body .pbmit-bg-color-global {
     }
 
     .pbmit-slider-bg.hero-0 {
-        background-image: url(../images/banners/web-banner/6.png);
+        background-image: url(../images/banners/web-banner/6.webp);
     }
 
     .pbmit-slider-bg.hero-1 {
-        background-image: url(../images/banners/web-banner/1.png);
+        background-image: url(../images/banners/web-banner/1.webp);
     }
 
     .pbmit-slider-bg.hero-2 {
-        background-image: url(../images/banners/web-banner/2.png);
+        background-image: url(../images/banners/web-banner/2.webp);
     }
 
     .pbmit-slider-bg.hero-3 {
-        background-image: url(../images/banners/web-banner/3.png);
+        background-image: url(../images/banners/web-banner/3.webp);
     }
 
     .pbmit-slider-bg.hero-4 {
-        background-image: url(../images/banners/web-banner/4.png);
+        background-image: url(../images/banners/web-banner/4.webp);
     }
 
     .pbmit-slider-bg.hero-5 {
-        background-image: url(../images/banners/web-banner/5.png);
+        background-image: url(../images/banners/web-banner/5.webp);
     }
 
     .pbmit-heading-subheading {
@@ -1289,27 +1289,27 @@ body .pbmit-bg-color-global {
     }
 
     .pbmit-slider-bg.hero-0 {
-        background-image: url(../images/banners/web-banner/6.png);
+        background-image: url(../images/banners/web-banner/6.webp);
     }
 
     .pbmit-slider-bg.hero-1 {
-        background-image: url(../images/banners/web-banner/1.png);
+        background-image: url(../images/banners/web-banner/1.webp);
     }
 
     .pbmit-slider-bg.hero-2 {
-        background-image: url(../images/banners/web-banner/2.png);
+        background-image: url(../images/banners/web-banner/2.webp);
     }
 
     .pbmit-slider-bg.hero-3 {
-        background-image: url(../images/banners/web-banner/3.png);
+        background-image: url(../images/banners/web-banner/3.webp);
     }
 
     .pbmit-slider-bg.hero-4 {
-        background-image: url(../images/banners/web-banner/4.png);
+        background-image: url(../images/banners/web-banner/4.webp);
     }
 
     .pbmit-slider-bg.hero-5 {
-        background-image: url(../images/banners/web-banner/5.png);
+        background-image: url(../images/banners/web-banner/5.webp);
     }
 
     .pbmit-heading-subheading {
@@ -1336,27 +1336,27 @@ body .pbmit-bg-color-global {
     }
 
     .pbmit-slider-bg.hero-0 {
-        background-image: url(../images/banners/web-banner/6.png);
+        background-image: url(../images/banners/web-banner/6.webp);
     }
 
     .pbmit-slider-bg.hero-1 {
-        background-image: url(../images/banners/web-banner/1.png);
+        background-image: url(../images/banners/web-banner/1.webp);
     }
 
     .pbmit-slider-bg.hero-2 {
-        background-image: url(../images/banners/web-banner/2.png);
+        background-image: url(../images/banners/web-banner/2.webp);
     }
 
     .pbmit-slider-bg.hero-3 {
-        background-image: url(../images/banners/web-banner/3.png);
+        background-image: url(../images/banners/web-banner/3.webp);
     }
 
     .pbmit-slider-bg.hero-4 {
-        background-image: url(../images/banners/web-banner/4.png);
+        background-image: url(../images/banners/web-banner/4.webp);
     }
 
     .pbmit-slider-bg.hero-5 {
-        background-image: url(../images/banners/web-banner/5.png);
+        background-image: url(../images/banners/web-banner/5.webp);
     }
 
     .pbmit-heading-subheading {
@@ -1395,27 +1395,27 @@ body .pbmit-bg-color-global {
     }
 
     .pbmit-slider-bg.hero-0 {
-        background-image: url(../images/banners/web-banner/6.png);
+        background-image: url(../images/banners/web-banner/6.webp);
     }
 
     .pbmit-slider-bg.hero-1 {
-        background-image: url(../images/banners/web-banner/1.png);
+        background-image: url(../images/banners/web-banner/1.webp);
     }
 
     .pbmit-slider-bg.hero-2 {
-        background-image: url(../images/banners/web-banner/2.png);
+        background-image: url(../images/banners/web-banner/2.webp);
     }
 
     .pbmit-slider-bg.hero-3 {
-        background-image: url(../images/banners/web-banner/3.png);
+        background-image: url(../images/banners/web-banner/3.webp);
     }
 
     .pbmit-slider-bg.hero-4 {
-        background-image: url(../images/banners/web-banner/4.png);
+        background-image: url(../images/banners/web-banner/4.webp);
     }
 
     .pbmit-slider-bg.hero-5 {
-        background-image: url(../images/banners/web-banner/5.png);
+        background-image: url(../images/banners/web-banner/5.webp);
     }
 
     .pbmit-heading-subheading {
