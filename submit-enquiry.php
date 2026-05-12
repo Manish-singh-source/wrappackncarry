@@ -12,7 +12,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = $_POST['message'] ?? '';
 
     // Validate Google reCAPTCHA
-    $recaptcha_secret = '6Lez9N0sAAAAAKLIka8ofI8b2PIZ3bXu-wnr64D4';
+    $recaptcha_secret = '6LeDZuYsAAAAACwZ3QBTTzkLqio2e2OvhrTXARik';
     $recaptcha_response = $_POST['g-recaptcha-response'] ?? '';
     $recaptcha_url = 'https://www.google.com/recaptcha/api/siteverify';
 

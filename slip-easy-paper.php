@@ -593,7 +593,7 @@ include('layouts/header.php'); ?>
                 <label for="message">Message</label>
                 <textarea id="message" name="message" placeholder="Any specific requirements or questions?"></textarea>
             </div> -->
-			<div class="g-recaptcha mt-3" data-sitekey="6Lez9N0sAAAAAKdCbUw6cR-dFSf-ZtT2bg1q5nNW"></div>
+			<div class="g-recaptcha mt-3" data-sitekey="6LeDZuYsAAAAAE7j-RvrkOXS488u4LzPft0iFkAl"></div>
 			<button type="submit" class="pbmit-btn">
 				<span class="pbmit-button-text">Submit Enquiry</span>
 				<span class="pbmit-button-icon-wrapper">
