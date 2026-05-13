@@ -1,5 +1,6 @@
 <?php
 date_default_timezone_set('Asia/Kolkata');
+require_once __DIR__ . '/db.php';
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = $_POST['name'] ?? '';
     $phone = $_POST['phone'] ?? '';
@@ -38,18 +39,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     if (!empty($name) && !empty($phone) && !empty($email) && !empty($product) && !empty($format)) {
-        $servername = "localhost";
-        $username = "root";
-        $password = "";
-        $dbname = "wrappackncarry";
-
-        $conn = new mysqli($servername, $username, $password, $dbname);
-
         if ($conn->connect_error) {
             echo json_encode(['success' => false, 'message' => 'Connection failed: ' . $conn->connect_error]);
             exit;
         }
-
+        
         $stmt = $conn->prepare("INSERT INTO enquiries (name, phone, email, product, format, variant, size, quantity, message) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)");
         $stmt->bind_param("sssssssss", $name, $phone, $email, $product, $format, $variant, $size, $quantity, $message);
 

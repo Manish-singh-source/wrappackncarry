@@ -1,5 +1,6 @@
 <?php
 date_default_timezone_set('Asia/Kolkata');
+require_once __DIR__ . '/db.php';
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = $_POST['name'] ?? '';
     $phone = $_POST['phone'] ?? '';
@@ -8,17 +9,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = $_POST['message'] ?? '';
 
     if (!empty($name) && !empty($phone) && !empty($email) && !empty($subject) && !empty($message)) {
-        $servername = "localhost";
-        $username = "root";
-        $password = "";
-        $dbname = "wrappackncarry";
-
-        $conn = new mysqli($servername, $username, $password, $dbname);
-
         if ($conn->connect_error) {
             die("Connection failed: " . $conn->connect_error);
         }
-
+        
         $stmt = $conn->prepare("INSERT INTO contact_us (name, phone, email, subject, message) VALUES (?, ?, ?, ?, ?)");
         $stmt->bind_param("sssss", $name, $phone, $email, $subject, $message);
 
