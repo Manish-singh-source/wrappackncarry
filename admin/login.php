@@ -15,12 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if (empty($email) || empty($password)) {
         $error = "Please enter email and password";
     } else {
-        $servername = "localhost";
-        $username = "root";
-        $pwd = "";
-        $dbname = "wrappackncarry";
-        
-        $conn = new mysqli($servername, $username, $pwd, $dbname);
+        require_once('db_config.php');
         
         if ($conn->connect_error) {
             $error = "Database connection failed";
@@ -87,7 +82,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                 <img src="assets/images/wrap-logo.png" alt="dark logo" />
                             </a>
                             <a href="index.php" class="logo-light">
-                                <img src="assets/images/logo.png" alt="logo" />
+                                <img src="assets/images/wrap-logo.png" alt="logo" />
                             </a>
                             <h4 class="fw-bold text-dark mt-3">Great to see you here 👋</h4>
                             <p class="text-muted w-lg-75 mx-auto">Enter your email and password to continue.</p>

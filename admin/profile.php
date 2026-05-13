@@ -3,7 +3,7 @@ $title = "Profile - Admin Panel";
 $pageName = "My Profile";
 include("layouts/header.php");
 
-$conn = new mysqli("localhost", "root", "", "wrappackncarry");
+require_once('db_config.php');
 $admin = ['name' => '', 'email' => ''];
 $message = '';
 $success = false;

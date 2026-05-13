@@ -3,7 +3,7 @@ $title = "Contact Form";
 $pageName = "Contact Form";
 include('layouts/header.php');
 
-$conn = new mysqli("localhost", "root", "", "wrappackncarry");
+require_once('db_config.php');
 $contactData = [];
 if (!$conn->connect_error) {
     $result = $conn->query("SELECT * FROM contact_us ORDER BY id DESC");

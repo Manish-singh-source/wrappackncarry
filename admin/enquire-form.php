@@ -3,7 +3,7 @@ $title = "Enquire Form";
 $pageName = "Enquire Form";
 include('layouts/header.php');
 
-$conn = new mysqli("localhost", "root", "", "wrappackncarry");
+require_once('db_config.php');
 $enquireData = [];
 if (!$conn->connect_error) {
     $result = $conn->query("SELECT * FROM enquiries ORDER BY id DESC");

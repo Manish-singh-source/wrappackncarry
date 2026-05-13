@@ -3,7 +3,7 @@ $title = "Wrap Pack N Carry - Admin Panel";
 $pageName = "Dashboard";
 include("layouts/header.php");
 
-$conn = new mysqli("localhost", "root", "", "wrappackncarry");
+require_once('db_config.php');
 $stats = ['contacts' => 0, 'enquiries' => 0, 'total' => 0];
 
 if (!$conn->connect_error) {

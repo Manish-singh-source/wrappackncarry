@@ -37,7 +37,7 @@
                                 <img src="assets/images/wrap-logo.png" alt="dark logo" />
                             </a>
                             <a href="index.html" class="logo-light">
-                                <img src="assets/images/logo.png" alt="logo" />
+                                <img src="assets/images/wrap-logo.png" alt="logo" />
                             </a>
                             <p class="text-muted w-lg-75 mt-3 mx-auto">Enter your email address and we'll send you a link to reset your password.</p>
                         </div>
@@ -81,6 +81,5 @@
 
 </body>
 
-<!-- Mirrored from coderthemes.com/paces/bootstrap/auth-reset-pass.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 13 Apr 2026 05:27:15 GMT -->
 
 </html>
