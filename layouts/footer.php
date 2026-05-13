@@ -67,7 +67,7 @@
                             </div>
                             <ul class="pbmit-social-links">
                                 <li class="pbmit-social-li pbmit-social-facebook">
-                                    <a title="Facebook" href="https://www.facebook.com/" target="_blank" rel="noopener">
+                                    <a title="Facebook" href="https://www.facebook.com/people/JPC-India/100083297764911/#" target="_blank" rel="noopener">
                                         <span><i class="pbmit-base-icon-facebook-f"></i></span>
                                     </a>
                                 </li>
@@ -77,7 +77,7 @@
                                     </a>
                                 </li>
                                 <li class="pbmit-social-li pbmit-social-linkedin">
-                                    <a title="LinkedIn" href="https://www.linkedin.com/" target="_blank" rel="noopener">
+                                    <a title="LinkedIn" href="https://www.linkedin.com/company/jagdamba-paper-corporation/" target="_blank" rel="noopener">
                                         <span><i class="pbmit-base-icon-linkedin-in"></i></span>
                                     </a>
                                 </li>
