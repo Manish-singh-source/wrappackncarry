@@ -67,6 +67,28 @@
                             </div>
                             <ul class="pbmit-social-links">
                                 <li class="pbmit-social-li pbmit-social-facebook">
+                                    <a title="Facebook" href="#"  rel="noopener">
+                                        <span><i class="pbmit-base-icon-facebook-f"></i></span>
+                                    </a>
+                                </li>
+                                <li class="pbmit-social-li pbmit-social-twitter">
+                                    <a title="Twitter" href="#"  rel="noopener">
+                                        <span><i class="pbmit-base-icon-twitter-2"></i></span>
+                                    </a>
+                                </li>
+                                <li class="pbmit-social-li pbmit-social-linkedin">
+                                    <a title="LinkedIn" href="#" rel="noopener">
+                                        <span><i class="pbmit-base-icon-linkedin-in"></i></span>
+                                    </a>
+                                </li>
+                                <li class="pbmit-social-li pbmit-social-instagram">
+                                    <a title="Instagram" href="#"  rel="noopener">
+                                        <span><i class="pbmit-base-icon-instagram"></i></span>
+                                    </a>
+                                </li>
+                            </ul>
+                            <!-- <ul class="pbmit-social-links">
+                                <li class="pbmit-social-li pbmit-social-facebook">
                                     <a title="Facebook" href="https://www.facebook.com/people/JPC-India/100083297764911/#" target="_blank" rel="noopener">
                                         <span><i class="pbmit-base-icon-facebook-f"></i></span>
                                     </a>
@@ -86,7 +108,7 @@
                                         <span><i class="pbmit-base-icon-instagram"></i></span>
                                     </a>
                                 </li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </aside>
                 </div>
