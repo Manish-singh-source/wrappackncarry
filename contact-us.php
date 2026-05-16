@@ -54,7 +54,8 @@ include('layouts/header.php');
 							<div class="pbmit-content-wrapper">
 								<div class="pbmit-heading-desc">
 									<a href="mailto:info@wrappackncarry.com">info@wrappackncarry.com</a><br>
-									<a href="mailto:info@wrappackncarry.com">info@wrappackncarry.com</a>
+									<!-- <a href="mailto:info@wrappackncarry.com">info@wrappackncarry.com</a> -->
+</br>
 								</div>
 							</div>
 						</div>
@@ -109,7 +110,7 @@ include('layouts/header.php');
 									</div>
 								</div>
 								<div class="pbmit-title-wrap">
-									<h2 class="pbmit-element-title">Our Locations</h2>
+									<h2 class="pbmit-element-title">Address</h2>
 								</div>
 							</div>
 							<div class="pbmit-content-wrapper">
