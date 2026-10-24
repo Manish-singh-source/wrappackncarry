@@ -32,6 +32,33 @@ include('layouts/header.php'); ?>
 					</div>
 				</div>
 			</div>
+			<!-- Slide0 -->
+			<div class="swiper-slide">
+				<div class="pbmit-slider-item">
+					<div class="pbmit-slider-bg hero-packaging"></div>
+					<div class="container">
+						<div class="row g-0">
+							<div class="col-md-9 col-lg-7">
+								<div class="pbmit-slider-content">
+									<h5 class="pbmit-sub-title transform-top transform-delay-1">Food-Safe Packaging</h5>
+								<h2 class="pbmit-title transform-left transform-delay-2">Burger Boxes <br class="br">& Food Trays</h2>
+									<p class="pbmit-desc transform-left transform-delay-3">Strong, eco-friendly kraft boxes and trays for burgers and fries.</p>
+									<div class="pbmit-button transform-bottom transform-delay-4">
+										<a class="pbmit-btn pbmit-btn-white" href="products">
+											<span class="pbmit-button-text">View Product Range </span>
+											<span class="pbmit-button-icon-wrapper">
+												<span class="pbmit-button-icon">
+													<i class="pbmit-base-icon-black-arrow-1"></i>
+												</span>
+											</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 			<!-- Slide1 -->
 			<div class="swiper-slide">
 				<div class="pbmit-slider-item">
